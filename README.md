@@ -6,7 +6,12 @@ We would try submit only links which are freely available, but we may also add f
 
 Entry format:
 > * ```Date Added, Keywords```  
-> Paper Name
+> Paper Title
+
+Abbreviations:
+* ML: Machine learning
+* AI: Artificial Intelligence
+* DL: Deep Learning
 
 <!---
 Instructions:
@@ -16,7 +21,9 @@ Instructions:
 
 
 ## Papers
-* ``` 17-05-2016, Machine Learning, Deep Learning```  
+* ``` 18-05-2016, ML, AI, REINFORCE trick```  
+[Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
+* ``` 17-05-2016, ML, DL```  
 [Training Neural Networks Without Gradients: A Scalable ADMM Approach](http://arxiv.org/pdf/1605.02026.pdf)
-* ``` 17-05-2016, Machine Learning, Clustering```  
+* ``` 17-05-2016, ML, Clustering```  
 [k-means++: The Advantages of Careful Seeding](http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf)
