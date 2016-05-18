@@ -23,6 +23,8 @@ Instructions:
 
 ## Papers
 * ``` 18-05-2016, ML, DL, NLP```  
+[Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf)
+* ``` 18-05-2016, ML, DL, NLP```  
 [Generating Sentences from a Continuous Space](http://arxiv.org/pdf/1511.06349v4.pdf)
 * ``` 18-05-2016, ML, AI, Reinforcement Learning```  
 [Reinforcement Learning: A Survey](https://www.jair.org/media/301/live-301-1562-jair.pdf)
