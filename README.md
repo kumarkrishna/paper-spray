@@ -1,6 +1,6 @@
 # Paper-Spray
 
-This is a list of interesting research papers we ([Kumar](https://github.com/kumarkrishna) and [Biswa](https://github.com/biswajitsc)) have come across, mainly in Machine Learning, but definitely not limited to it. Suggested reads are always welcome!
+This is a list of interesting research papers we ([Kumar](https://github.com/kumarkrishna) and [Biswa](https://github.com/biswajitsc)) have come across, mainly in Machine Learning, but definitely not limited to it. This is mainly an initiative to inculcate a reading habit among ourselves. Suggested reads are always welcome!
 
 We would try submit only links which are freely available, but we may also add few links which can be accessed freely only from an university network.
 
