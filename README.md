@@ -21,6 +21,8 @@ Instructions:
 
 
 ## Papers
+* ``` 18-05-2016, ML, AI, Reinforcement Learning```  
+[Reinforcement Learning: A Survey](https://www.jair.org/media/301/live-301-1562-jair.pdf)
 * ``` 18-05-2016, ML, AI, REINFORCE trick```  
 [Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
 * ``` 17-05-2016, ML, DL```  
