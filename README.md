@@ -22,6 +22,8 @@ Instructions:
 
 
 ## Papers
+* ``` 19-05-2016, ML, DL, CV```  
+[Generative Adversarial Text to Image Synthesis](http://arxiv.org/pdf/1605.05396v1.pdf)
 * ``` 18-05-2016, ML, DL, NLP```  
 [Learning word embeddings efficiently with noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf)
 * ``` 18-05-2016, ML, DL, NLP```  
