@@ -6,6 +6,7 @@ We would try submit only links which are freely available, but we may also add f
 
 Entry format:
 > * ```Date Added, Keywords```  
+> ```Author, Year```  
 > Paper Title
 
 Abbreviations:
@@ -24,6 +25,9 @@ Instructions:
 
 
 ## Papers
+* ``` 20-05-2016, DL```  
+``` Łukasz Kaiser, Ilya Sutskever, ICLR 2016```  
+[Neural GPUs Learn Algorithms](http://arxiv.org/pdf/1511.08228v3.pdf)
 * ``` 19-05-2016, DL```  
   ``` Alex Graves, 2014 ```  
 [Generating Sequences With Recurrent Neural Networks](http://arxiv.org/pdf/1308.0850v5.pdf) 
