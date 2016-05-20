@@ -25,6 +25,9 @@ Instructions:
 
 
 ## Papers
+* ``` 20-05-2016, ML, Optimization, ADAM ```  
+``` Diederik Kingma, Jimmy Ba, ICLR 2015```  
+[Adam : A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf) 
 * ``` 20-05-2016, DL```  
 ``` Łukasz Kaiser, Ilya Sutskever, ICLR 2016```  
 [Neural GPUs Learn Algorithms](http://arxiv.org/pdf/1511.08228v3.pdf)
