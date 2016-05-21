@@ -25,7 +25,10 @@ Instructions:
 
 
 ## Papers
-* [Sequence to Sequence learning with neural networks](http://arxiv.org/pdf/1409.3215.pdf)
+* [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661)  
+``` 21-05-2016 , DL, GAN, generative```  
+````Ian Goodfellow et al , NIPS 2014 ```  
+* [Sequence to Sequence learning with neural networks](http://arxiv.org/pdf/1409.3215.pdf)  
 ``` 21-05-2016, DL, Seq2Seq ```  
 ``` Ilya Sutskever, Oriol Vinyals, and Quoc Le, NIPS 2014 ```   
 * [Adam : A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)  
