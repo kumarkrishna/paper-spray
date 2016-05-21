@@ -5,7 +5,7 @@ This is a list of interesting research papers we ([Kumar](https://github.com/kum
 We would try submit only links which are freely available, but we may also add few links which can be accessed freely only from an university network.
 
 Entry format:
-> * [Paper Title](Link)
+> * [Paper Title](Link)  
 > ```Date Added, Keywords```  
 > ```Author, Year```  
 
@@ -25,6 +25,9 @@ Instructions:
 
 
 ## Papers
+* [Sequence to Sequence learning with neural networks](http://arxiv.org/pdf/1409.3215.pdf)
+``` 21-05-2016, DL, Seq2Seq ```  
+``` Ilya Sutskever, Oriol Vinyals, and Quoc Le, NIPS 2014 ```   
 * [Adam : A Method for Stochastic Optimization](https://arxiv.org/pdf/1412.6980.pdf)  
 ``` 20-05-2016, ML, Optimization, ADAM ```  
 ``` Diederik Kingma, Jimmy Ba, ICLR 2015```  
