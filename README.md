@@ -25,9 +25,12 @@ Instructions:
 
 
 ## Papers
+* [Support Vector Machine Learning for Interdependent and Structured Output Spaces](http://machinelearning.org/proceedings/icml2004/papers/76.pdf)  
+``` 21-05-2016 , ML, StructSVM```  
+```Ioannis Tsochantaridis et al , ICML 2004 ```  
 * [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661)  
 ``` 21-05-2016 , DL, GAN, generative```  
-````Ian Goodfellow et al , NIPS 2014 ```  
+```Ian Goodfellow et al , NIPS 2014 ```  
 * [Sequence to Sequence learning with neural networks](http://arxiv.org/pdf/1409.3215.pdf)  
 ``` 21-05-2016, DL, Seq2Seq ```  
 ``` Ilya Sutskever, Oriol Vinyals, and Quoc Le, NIPS 2014 ```   

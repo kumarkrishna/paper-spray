@@ -26,7 +26,7 @@ def main() :
     newpaper = []
     newpaper.append("* [" + papername + "](" + paperlink + ")  \n")
     newpaper.append("``` " + dateadded + " , " + keywords + "```  \n" )
-    newpaper.append("````"  + authorlist + " , " + conference + " ```  \n")
+    newpaper.append("```"  + authorlist + " , " + conference + " ```  \n")
     
     write_to_file(instructions, newpaper, paperlist)
 
