@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/pdf/1409.0473.pdf)  
+``` 23-05-2016 , DL, NMT```  
+```Bahdanau, Cho, Bengio , ICLR 2015 ```  
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)  
 ``` 22-05-2016 , DL, NLP, RNN-ED```  
 ```Kyunghyun Cho et al , ACL 2014 ```  
