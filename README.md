@@ -25,6 +25,9 @@ Instructions:
 
 
 ## Papers
+* [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)  
+``` 22-05-2016 , DL, NLP, RNN-ED```  
+```Kyunghyun Cho et al , ACL 2014 ```  
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)  
 ``` 22-05-2016 , CV, DL, ResNets```  
 ```Kaiming He et al , 2015 ```  
