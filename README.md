@@ -7,7 +7,7 @@ We would try submit only links which are freely available, but we may also add f
 Entry format:
 > * [Paper Title](Link)  
 > ```Date Added, Keywords```  
-> ```Author, Year```  
+> ```Author, Conference, Year```  
 
 Abbreviations:
 * AI: Artificial Intelligence
@@ -25,6 +25,12 @@ Instructions:
 
 
 ## Papers
+* [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)  
+``` 22-05-2016 , CV, DL, ResNets```  
+```Kaiming He et al , 2015 ```  
+* [Neural Turing Machines](https://arxiv.org/pdf/1410.5401v2.pdf)  
+``` 22-05-2016 , DL, NTM```  
+```Alex Graves et al , 2014  ```  
 * [Support Vector Machine Learning for Interdependent and Structured Output Spaces](http://machinelearning.org/proceedings/icml2004/papers/76.pdf)  
 ``` 21-05-2016 , ML, StructSVM```  
 ```Ioannis Tsochantaridis et al , ICML 2004 ```  
