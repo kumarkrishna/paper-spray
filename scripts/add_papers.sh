@@ -1,6 +1,7 @@
 currentpath=$(pwd)
 cd $paperspraypath
 
+git pull origin master
 python scripts/add_papers.py
 
 git add .
