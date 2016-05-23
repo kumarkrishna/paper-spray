@@ -36,7 +36,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-* [](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf)
+* [Visualizing Data using t-SNE](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf)
 ``` 23-05-2016, ML, Embeddings```
 ``` Maaten, Hinton, JMLR, 2008```
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)  
