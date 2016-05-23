@@ -21,6 +21,17 @@ Abbreviations:
 Instructions:
 * Add new papers at the top.
 * For each entry add two or more spaces at the end of line 1 to enter a newline.
+
+CLI for adding papers :
+* Add ```$paperspraypath``` as environment variable for path to the github repository.
+```sh
+export paperspraypath=/path/to/github/repository
+```
+* Add an alias to .bashrc / .bash_profile to directly add papers from any folder through terminal :D .
+```sh
+alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
+```
+ * Use ```spray-papers``` as terminal command.
 -->
 
 
