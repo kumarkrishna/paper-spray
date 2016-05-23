@@ -36,20 +36,23 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [](http://www.cs.toronto.edu/~hinton/absps/tsne.pdf)
+``` 23-05-2016, ML, Embeddings```
+``` Maaten, Hinton, JMLR, 2008```
 * [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)  
-``` 22-05-2016 , DL, NLP, RNN-ED```  
+``` 22-05-2016, DL, NLP, RNN-ED```  
 ```Kyunghyun Cho et al , ACL 2014 ```  
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf)  
-``` 22-05-2016 , CV, DL, ResNets```  
+``` 22-05-2016, CV, DL, ResNets```  
 ```Kaiming He et al , 2015 ```  
 * [Neural Turing Machines](https://arxiv.org/pdf/1410.5401v2.pdf)  
-``` 22-05-2016 , DL, NTM```  
+``` 22-05-2016, DL, NTM```  
 ```Alex Graves et al , 2014  ```  
 * [Support Vector Machine Learning for Interdependent and Structured Output Spaces](http://machinelearning.org/proceedings/icml2004/papers/76.pdf)  
-``` 21-05-2016 , ML, StructSVM```  
+``` 21-05-2016, ML, StructSVM```  
 ```Ioannis Tsochantaridis et al , ICML 2004 ```  
 * [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661)  
-``` 21-05-2016 , DL, GAN, generative```  
+``` 21-05-2016, DL, GAN, generative```  
 ```Ian Goodfellow et al , NIPS 2014 ```  
 * [Sequence to Sequence learning with neural networks](http://arxiv.org/pdf/1409.3215.pdf)  
 ``` 21-05-2016, DL, Seq2Seq ```  
