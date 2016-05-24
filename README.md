@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Order Matters : Sequence to Sequence for sets](http://arxiv.org/pdf/1511.06391v3.pdf)  
+``` 24-05-2016 , DL, seq2seq, ordered, sorting```  
+```Oriol Vinyals, Samy Bengio, Manjunath Kudlur , ICLR 2016 ```  
 * [Neural Machine Translation by Jointly Learning to Align and Translate](http://arxiv.org/pdf/1409.0473.pdf)  
 ``` 23-05-2016 , DL, NMT```  
 ```Bahdanau, Cho, Bengio , ICLR 2015 ```  
