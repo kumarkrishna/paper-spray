@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Pointer Networks](https://papers.nips.cc/paper/5866-pointer-networks.pdf)  
+``` 24-05-2016 , DL, Pointer-Nets```  
+```Oriol Vinyals, Meire Fortunato, Navdeep Jaitly , NIPS 2015 ```  
 * [Order Matters : Sequence to Sequence for sets](http://arxiv.org/pdf/1511.06391v3.pdf)  
 ``` 24-05-2016 , DL, seq2seq, ordered, sorting```  
 ```Oriol Vinyals, Samy Bengio, Manjunath Kudlur , ICLR 2016 ```  
