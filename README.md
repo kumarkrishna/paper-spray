@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)  
+``` 25-05-2016 , CV, DL, attention, caption```  
+```Kelvin Xu et al , JMLR 2015 ```  
 * [Pointer Networks](https://papers.nips.cc/paper/5866-pointer-networks.pdf)  
 ``` 24-05-2016 , DL, Pointer-Nets```  
 ```Oriol Vinyals, Meire Fortunato, Navdeep Jaitly , NIPS 2015 ```  
