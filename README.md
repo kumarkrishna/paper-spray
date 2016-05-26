@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)  
+``` 26-05-2016 , DL, RNN, scheduled-sampling```  
+```Samy Bengio et al , NIPS 2015 ```  
 * [Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift](http://arxiv.org/pdf/1502.03167v3.pdf)  
 ``` 26-05-2016 , batch-norm, DL```  
 ```Sergey Ioffe, Christian Szegedy , JMLR 2015 ```  
