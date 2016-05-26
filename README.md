@@ -36,7 +36,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-* [VQA : Visual Question Answering](https://arxiv.org/pdf/1505.00468.pdf) [Review Article](https://kumarkrishna.github.io/pages/notes/vqa.html)  
+* [VQA : Visual Question Answering](https://arxiv.org/pdf/1505.00468.pdf) ``` [Review Article](https://kumarkrishna.github.io/pages/notes/vqa.html) ```    
 ``` 26-05-16 , CV, DL, QA```  
 ```Aishwarya Agarwal et al , ICCV 2015 ```  
 * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf)  
