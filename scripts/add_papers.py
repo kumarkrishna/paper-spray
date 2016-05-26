@@ -28,7 +28,7 @@ def main() :
     if(reviewlink == 'n'):
 	newpaper.append("* [" + papername + "](" + paperlink + ")  \n")
     else:
-	newpaper.append("* [" + papername + "](" + paperlink + ") [ ``` (Review Article) ```](" + reviewlink + ") ``` \n")
+	newpaper.append("* [" + papername + "](" + paperlink + ") [ ``` (Review Article) ```](" + reviewlink + ")  \n")
     newpaper.append("``` " + dateadded + " , " + keywords + "```  \n" )
     newpaper.append("```"  + authorlist + " , " + conference + " ```  \n")
     
