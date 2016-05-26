@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift](http://arxiv.org/pdf/1502.03167v3.pdf)  
+``` 26-05-2016 , batch-norm, DL```  
+```Sergey Ioffe, Christian Szegedy , JMLR 2015 ```  
 * [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/abs/1502.03044)  
 ``` 25-05-2016 , CV, DL, attention, caption```  
 ```Kelvin Xu et al , JMLR 2015 ```  
