@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://arxiv.org/pdf/1412.2306v2.pdf) [ ``` (Review Article) ```](https://kumarkrishna.github.io/pages/notes/visual-semantic-alignment.html) ``` 
+``` 26-05-2016 , CV, DL, image-caption, NLP```  
+```Andrej Karpathy, Li Fei-Fei , CVPR 2015 ```  
 * [VQA : Visual Question Answering](https://arxiv.org/pdf/1505.00468.pdf)  [ ``` (Review Article) ``` ](https://kumarkrishna.github.io/pages/notes/vqa.html)   
 ``` 26-05-16 , CV, DL, QA```  
 ```Aishwarya Agarwal et al , ICCV 2015 ```  
