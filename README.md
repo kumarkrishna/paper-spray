@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [An Introduction to Variational Methods for Graphical Models](http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)  
+``` 26-05-2016 , graphical-models, ML, variational-methods```  
+```Michael Jordan et al , Machine Learning 1999 ```  
 * [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://arxiv.org/pdf/1412.2306v2.pdf) [ ``` (Review Article) ```](https://kumarkrishna.github.io/pages/notes/visual-semantic-alignment.html)  
 ``` 26-05-2016 , CV, DL, image-captioning, NLP```  
 ```Andrej Karpathy, Li Fei-Fei , CVPR 2015 ```  
