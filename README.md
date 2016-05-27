@@ -39,6 +39,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)  
 ``` 27-05-2016 , DL, DQN, RL```  
 ```Volodymyr Mnih et al , NIPS DL workshop 2013 ```  
+* [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)  
+``` 27-05-2016 , DL, DQN, RL```  
+```Volodymyr Mnih et al , NIPS DL workshop 2013 ```  
 * [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)  
 ``` 27-05-2016 , DL, stochastic-depth```  
 ```Gao Huang, Yu Sun et al ,   ```  
