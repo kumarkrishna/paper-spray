@@ -1,0 +1,11 @@
+{
+  "data":[
+    [
+      "17-05-2016",
+      "Gavin Taylor, Ryan Burmeister, Zheng Xu, Bharat Singh, Ankit Patel, Tom Goldstein",
+      "<a href=\"http://arxiv.org/pdf/1605.02026.pdf\">Training Neural Networks Without Gradients: A Scalable ADMM Approach</a>",
+      "ICML 2016",
+      "Machine Learning, Deep Learning"
+    ]
+  ]
+}
