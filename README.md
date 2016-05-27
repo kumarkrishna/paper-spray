@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)  
+``` 27-05-2016 , DL, stochastic-depth```  
+```Gao Huang, Yu Sun et al ,   ```  
 * [An Introduction to Variational Methods for Graphical Models](http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)  
 ``` 26-05-2016 , graphical-models, ML, variational-methods```  
 ```Michael Jordan et al , Machine Learning 1999 ```  
