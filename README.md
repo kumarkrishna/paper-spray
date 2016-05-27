@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Memory Networks](http://arxiv.org/pdf/1410.3916v11.pdf)  
+``` 27-05-2016 , DL, memory-networks```  
+```Jason Weston, Sumit Chopra, Antoine Bordes , ICLR 2015 ```  
 * [Playing Atari with Deep Reinforcement Learning](http://arxiv.org/abs/1312.5602)  
 ``` 27-05-2016 , DL, DQN, RL```  
 ```Volodymyr Mnih et al , NIPS DL workshop 2013 ```  
