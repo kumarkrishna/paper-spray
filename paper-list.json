@@ -8,182 +8,182 @@
 			" graphical-models, ML, variational-methods"
 		],
 		[
-			"26-05-2016",
+			"26/05/2016",
 			"Michael Jordan et al ",
 			"<a href=\"http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf\">An Introduction to Variational Methods for Graphical Models</a>",
 			" Machine Learning 1999 ",
 			" graphical-models, ML, variational-methods"
 		],
 		[
-			"26-05-2016",
+			"26/05/2016",
 			"Andrej Karpathy, Li Fei-Fei ",
 			"<a href=\"http://arxiv.org/pdf/1412.2306v2.pdf\">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>",
 			" CVPR 2015 ",
 			" CV, DL, image-captioning, NLP"
 		],
 		[
-			"26-05-2016",
+			"26/05/2016",
 			"Aishwarya Agarwal et al ",
 			"<a href=\"https://arxiv.org/pdf/1505.00468.pdf\">VQA : Visual Question Answering</a>",
 			" ICCV 2015 ",
 			" CV, DL, QA"
 		],
 		[
-			"26-05-2016",
+			"26/05/2016",
 			"Samy Bengio et al ",
 			"<a href=\"https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf\">Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks</a>",
 			" NIPS 2015 ",
 			" DL, RNN, scheduled-sampling"
 		],
 		[
-			"26-05-2016",
+			"26/05/2016",
 			"Sergey Ioffe, Christian Szegedy ",
 			"<a href=\"http://arxiv.org/pdf/1502.03167v3.pdf\">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>",
 			" JMLR 2015 ",
 			" batch-norm, DL"
 		],
 		[
-			"25-05-2016",
+			"25/05/2016",
 			"Kelvin Xu et al ",
 			"<a href=\"http://arxiv.org/abs/1502.03044\">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a>",
 			" JMLR 2015 ",
 			" CV, DL, attention, caption"
 		],
 		[
-			"24-05-2016",
+			"24/05/2016",
 			"Oriol Vinyals, Meire Fortunato, Navdeep Jaitly ",
 			"<a href=\"https://papers.nips.cc/paper/5866-pointer-networks.pdf\">Pointer Networks</a>",
 			" NIPS 2015 ",
 			" DL, Pointer-Nets"
 		],
 		[
-			"24-05-2016",
+			"24/05/2016",
 			"Oriol Vinyals, Samy Bengio, Manjunath Kudlur ",
 			"<a href=\"http://arxiv.org/pdf/1511.06391v3.pdf\">Order Matters : Sequence to Sequence for sets</a>",
 			" ICLR 2016 ",
 			" DL, seq2seq, ordered, sorting"
 		],
 		[
-			"23-05-2016",
+			"23/05/2016",
 			"Bahdanau, Cho, Bengio ",
 			"<a href=\"http://arxiv.org/pdf/1409.0473.pdf\">Neural Machine Translation by Jointly Learning to Align and Translate</a>",
 			" ICLR 2015 ",
 			" DL, NMT"
 		],
 		[
-			"23-05-2016",
+			"23/05/2016",
 			" Maaten, Hinton, JMLR",
 			"<a href=\"http://www.cs.toronto.edu/~hinton/absps/tsne.pdf\">Visualizing Data using t-SNE</a>",
 			" ",
 			"ML, Embeddings"
 		],
 		[
-			"22-05-2016",
+			"22/05/2016",
 			"Kyunghyun Cho et al ",
 			"<a href=\"http://arxiv.org/pdf/1406.1078v3.pdf\">Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation</a>",
 			" ACL 2014 ",
 			"DL, NLP, RNN-ED"
 		],
 		[
-			"22-05-2016",
+			"22/05/2016",
 			"Kaiming He et al ",
 			"<a href=\"https://arxiv.org/pdf/1512.03385v1.pdf\">Deep Residual Learning for Image Recognition</a>",
 			" 2015 ",
 			"CV, DL, ResNets"
 		],
 		[
-			"22-05-2016",
+			"22/05/2016",
 			"Alex Graves et al ",
 			"<a href=\"https://arxiv.org/pdf/1410.5401v2.pdf\">Neural Turing Machines</a>",
 			" 2014  ",
 			"DL, NTM"
 		],
 		[
-			"21-05-2016",
+			"21/05/2016",
 			"Ioannis Tsochantaridis et al ",
 			"<a href=\"http://machinelearning.org/proceedings/icml2004/papers/76.pdf\">Support Vector Machine Learning for Interdependent and Structured Output Spaces</a>",
 			" ICML 2004 ",
 			"ML, StructSVM"
 		],
 		[
-			"21-05-2016",
+			"21/05/2016",
 			"Ian Goodfellow et al ",
 			"<a href=\"http://arxiv.org/abs/1406.2661\">Generative Adversarial Networks</a>",
 			" NIPS 2014 ",
 			"DL, GAN, generative"
 		],
 		[
-			"21-05-2016",
+			"21/05/2016",
 			" Ilya Sutskever, Oriol Vinyals, and Quoc Le",
 			"<a href=\"http://arxiv.org/pdf/1409.3215.pdf\">Sequence to Sequence learning with neural networks</a>",
 			" NIPS 2014 ",
 			"DL, Seq2Seq "
 		],
 		[
-			"20-05-2016",
+			"20/05/2016",
 			" Diederik Kingma, Jimmy Ba",
 			"<a href=\"https://arxiv.org/pdf/1412.6980.pdf\">Adam : A Method for Stochastic Optimization</a>",
 			" ICLR ",
 			"ML, Optimization, ADAM "
 		],
 		[
-			"20-05-2016",
+			"20/05/2016",
 			" Łukasz Kaiser, Ilya Sutskever",
 			"<a href=\"http://arxiv.org/pdf/1511.08228v3.pdf\">Neural GPUs Learn Algorithms</a>",
 			" ICLR ",
 			"DL"
 		],
 		[
-			"19-05-2016",
+			"19/05/2016",
 			" Alex Graves",
 			"<a href=\"http://arxiv.org/pdf/1308.0850v5.pdf\">Generating Sequences With Recurrent Neural Networks</a>",
 			" 2014 ",
 			"DL"
 		],
 		[
-			"19-05-2016",
+			"19/05/2016",
 			"  Scott Reed et al",
 			"<a href=\"http://arxiv.org/pdf/1605.05396v1.pdf\">Generative Adversarial Text to Image Synthesis</a>",
 			" ICML 2016 ",
 			"CV, DL"
 		],
 		[
-			"18-05-2016",
+			"18/05/2016",
 			" Andriy Mnih et al",
 			"<a href=\"https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf\">Learning word embeddings efficiently with noise-contrastive estimation</a>",
 			" NIPS 2013 ",
 			"DL, NLP"
 		],
 		[
-			"18-05-2016",
+			"18/05/2016",
 			" Samuel Bowman et al",
 			"<a href=\"http://arxiv.org/pdf/1511.06349v4.pdf\">Generating Sentences from a Continuous Space</a>",
 			" 2015 ",
 			"DL, NLP"
 		],
 		[
-			"18-05-2016",
+			"18/05/2016",
 			" Leslie Kaebling et al",
 			"<a href=\"https://www.jair.org/media/301/live-301-1562-jair.pdf\">Reinforcement Learning: A Survey</a>",
 			" JAIR 1996 ",
 			"AI, ML, RL"
 		],
 		[
-			"18-05-2016",
+			"18/05/2016",
 			" Ronald Williams",
 			"<a href=\"http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf\">Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning</a>",
 			" Machine Learning 1992 ",
 			"AI, ML, REINFORCE"
 		],
 		[
-			"17-05-2016",
+			"17/05/2016",
 			" Gavin Taylor et al",
 			"<a href=\"http://arxiv.org/pdf/1605.02026.pdf\">Training Neural Networks Without Gradients: A Scalable ADMM Approach</a>",
 			" ICML 2016 ",
 			"DL"
 		],
 		[
-			"17-05-2016",
+			"17/05/2016",
 			" David Arthur et al",
 			"<a href=\"http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf\">k-means++: The Advantages of Careful Seeding</a>",
 			" SODA 2007 ",
