@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Action Recognition using Visual Attention](http://arxiv.org/pdf/1511.04119v3.pdf)  
+``` 28-05-2016 , CV, DL, action-recognition, attention```  
+```Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov , ICLR 2016 ```  
 * [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)  
 ``` 28-05-1016 , DL, memory-networks, end-to-end```  
 ```Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus , NIPS 2015 ```  
