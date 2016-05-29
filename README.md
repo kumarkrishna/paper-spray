@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [MovieQA : Understanding Stories in Movies through Question-Answering](http://arxiv.org/abs/1512.02902)  
+``` 28-05-2016 , CV, DL, QA, movie-story```  
+```Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler , CVPR 2016 ```  
 * [Order-Embeddings of Images and Language](http://arxiv.org/pdf/1511.06361v6.pdf)  
 ``` 28-05-2016 , CV, DL, image-caption, hierarchy```  
 ```Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun , ICLR 2016 ```  
