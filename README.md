@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702)  
+``` 29-05-2016 , CV, DL, RL, robotics, control```  
+```Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel , JMLR 2016 ```  
 * [MovieQA : Understanding Stories in Movies through Question-Answering](http://arxiv.org/abs/1512.02902)  
 ``` 28-05-2016 , CV, DL, QA, movie-story```  
 ```Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler , CVPR 2016 ```  
