@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)  
+``` 28-05-1016 , DL, memory-networks, end-to-end```  
+```Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus , NIPS 2015 ```  
 * [Dueling Network Architectures for Deep Reinforcement Learning](http://arxiv.org/abs/1511.06581)  
 ``` 27-05-2016 , DL, dueling-networks, RL```  
 ```Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas , ICML 2016 ```  
