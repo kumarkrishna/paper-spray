@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning](http://arxiv.org/pdf/1511.06342v4.pdf)  
+``` 30-05-2016 , DL, RL, actor-mimic```  
+```Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov , ICLR 2016 ```  
 * [Neural Programmer-Interpreters](http://arxiv.org/abs/1511.06279)  
 ``` 29-05-2016 , DL, NPI```  
 ```Scott Reed, Nando de Freitas , ICLR 2016 ```  
