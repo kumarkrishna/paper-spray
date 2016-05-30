@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/abs/1506.07285)  
+``` 30-05-2016 , DL, DMN, NLP, dynamic-memory-networks```  
+```Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher , ICML 2016 ```  
 * [Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning](http://arxiv.org/pdf/1511.06342v4.pdf)  
 ``` 30-05-2016 , DL, RL, actor-mimic```  
 ```Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov , ICLR 2016 ```  
