@@ -36,6 +36,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Neural Programmer-Interpreters](http://arxiv.org/abs/1511.06279)  
+``` 29-05-2016 , DL, NPI```  
+```Scott Reed, Nando de Freitas , ICLR 2016 ```  
 * [End-to-End Training of Deep Visuomotor Policies](http://arxiv.org/abs/1504.00702)  
 ``` 29-05-2016 , CV, DL, RL, robotics, control```  
 ```Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel , JMLR 2016 ```  
