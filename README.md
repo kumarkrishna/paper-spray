@@ -4,10 +4,10 @@ This is a list of interesting research papers maintained by [Kumar](https://gith
 
 We would try submit only links which are freely available, but we may also add few links which can be accessed freely only from an university network.
 
-__We have created a webpage for [Paper-Spray](https://biswajitsc.github.io/paper-spray.html) containing a searchable list of the papers in the json file. We are yet to completely sync the json file and the readme.__
+__We have created a webpage for [Paper-Spray](https://biswajitsc.github.io/paper-spray.html) containing a searchable list of the papers in the json file.__
 
 Entry format:
-> * [Paper Title](Link)
+> * <a href="link">Paper Title</a>  
 > ```Date Added, Keywords```
 > ```Author, Conference, Year```
 
@@ -38,6 +38,12 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1511.04119v3.pdf">Action Recognition using Visual Attention</a>  
+```28-05-2016, CV, DL, action-recognition, attention```  
+```Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov, ICLR 2016```  
+* <a href="http://arxiv.org/abs/1503.08895">End-To-End Memory Networks</a>  
+```28-05-1016, DL, memory-networks, end-to-end```  
+```Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, NIPS 2015```  
 * <a href="http://arxiv.org/abs/1511.06581">Dueling Network Architectures for Deep Reinforcement Learning</a>  
 ```27-05-2016, DL, dueling-networks, RL```  
 ```Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas, ICML 2016```  

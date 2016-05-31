@@ -1,6 +1,20 @@
 {
 	"data":[
     [
+      "28-05-2016",
+      "Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov",
+      "<a href=\"http://arxiv.org/pdf/1511.04119v3.pdf\">Action Recognition using Visual Attention</a>",
+      "ICLR 2016",
+      "CV, DL, action-recognition, attention"
+    ],
+    [
+      "28-05-1016",
+      "Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus",
+      "<a href=\"http://arxiv.org/abs/1503.08895\">End-To-End Memory Networks</a>",
+      "NIPS 2015",
+      "DL, memory-networks, end-to-end"
+    ],
+    [
       "27-05-2016",
       "Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas",
       "<a href=\"http://arxiv.org/abs/1511.06581\">Dueling Network Architectures for Deep Reinforcement Learning</a>",
