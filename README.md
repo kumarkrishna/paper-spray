@@ -38,6 +38,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1505.00521v3.pdf">Reinforcement Learning Neural Turing Machines</a>  
+```31-05-2016, DL, NTM, RL```  
+```Wojciech Zaremba, ICLR 2016```  
 * <a href="https://arxiv.org/abs/1510.03009">Neural Networks with Few Multiplications</a>  
 ```31-05-2016, DL, optimization```  
 ```Zhouhan Lin, Matthieu Courbariaux, Roland Memisevic, Yoshua Bengio, ICLR 2016```  
