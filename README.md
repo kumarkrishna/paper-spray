@@ -36,6 +36,15 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](http://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)  
+``` 31-5-2016 , Overfitting, NN, DL, AI, ML```  
+```Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, Ruslan Salakhutdinov , Journal of Machine Learning Research ```  
+* [Learning multiple layers of representation](http://www.cs.toronto.edu/~hinton/absps/tics.pdf)  
+``` 31-5-2016 , DL, NN, AI```  
+```Geoffrey Hinton , Science Direct ```  
+* [Deep Learning](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) [ ``` (Review Article) ```](y)  
+``` 31-5-2016 , DL, AI, NN```  
+```Yann LeCun, Yoshua Bengio, Geoffrey Hinton , Nature ```  
 * [Recurrent neural network based language model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)  
 ``` 30-05-2016 , DL, NLP, RNN, language-model```  
 ```Tomas Mikolov, Martin Karafiat, Lukas Burget, Jan Cernocky, Sanjeev Khudanpur , INTERSPEECH 2010 ```  
