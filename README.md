@@ -38,6 +38,18 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1511.06581">Dueling Network Architectures for Deep Reinforcement Learning</a>  
+```27-05-2016, DL, dueling-networks, RL```  
+```Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas, ICML 2016```  
+* <a href="http://arxiv.org/pdf/1410.3916v11.pdf">Memory Networks</a>  
+```27-05-2016, DL, memory-networks```  
+```Jason Weston, Sumit Chopra, Antoine Bordes, ICLR 2015```  
+* <a href="http://arxiv.org/abs/1312.5602">Playing Atari with Deep Reinforcement Learning</a>  
+```27-05-2016, DL, DQN, RL```  
+```Volodymyr Mnih et al, NIPS DL workshop 2013```  
+* <a href="https://arxiv.org/pdf/1603.09382.pdf">Deep Networks with Stochastic Depth</a>  
+```27-05-2016, DL, stochastic-depth```  
+```Gao Huang, Yu Sun et al, ```  
 * <a href="http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf">An Introduction to Variational Methods for Graphical Models</a>  
 ```26/05/2016,  graphical-models, ML, variational-methods```  
 ```Michael Jordan et al ,  Machine Learning 1999 ```  

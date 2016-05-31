@@ -1,5 +1,33 @@
 {
 	"data":[
+    [
+      "27-05-2016",
+      "Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas",
+      "<a href=\"http://arxiv.org/abs/1511.06581\">Dueling Network Architectures for Deep Reinforcement Learning</a>",
+      "ICML 2016",
+      "DL, dueling-networks, RL"
+    ],
+    [
+      "27-05-2016",
+      "Jason Weston, Sumit Chopra, Antoine Bordes",
+      "<a href=\"http://arxiv.org/pdf/1410.3916v11.pdf\">Memory Networks</a>",
+      "ICLR 2015",
+      "DL, memory-networks"
+    ],
+    [
+      "27-05-2016",
+      "Volodymyr Mnih et al",
+      "<a href=\"http://arxiv.org/abs/1312.5602\">Playing Atari with Deep Reinforcement Learning</a>",
+      "NIPS DL workshop 2013",
+      "DL, DQN, RL"
+    ],
+    [
+      "27-05-2016",
+      "Gao Huang, Yu Sun et al",
+      "<a href=\"https://arxiv.org/pdf/1603.09382.pdf\">Deep Networks with Stochastic Depth</a>",
+      "",
+      "DL, stochastic-depth"
+    ],
 		[
 			"26/05/2016",
 			"Michael Jordan et al ",
