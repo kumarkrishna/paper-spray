@@ -38,6 +38,30 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1510.03009">Neural Networks with Few Multiplications</a>  
+```31-05-2016, DL, optimization```  
+```Zhouhan Lin, Matthieu Courbariaux, Roland Memisevic, Yoshua Bengio, ICLR 2016```  
+* <a href="http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf">Recurrent neural network based language model</a>  
+```30-05-2016, DL, NLP, RNN, language-model```  
+```Tomas Mikolov, Martin Karafiat, Lukas Burget, Jan Cernocky, Sanjeev Khudanpur, INTERSPEECH 2010```  
+* <a href="http://arxiv.org/abs/1506.07285">Ask Me Anything: Dynamic Memory Networks for Natural Language Processing</a>  
+```30-05-2016, DL, DMN, NLP, dynamic-memory-networks```  
+```Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher, ICML 2016```  
+* <a href="http://arxiv.org/pdf/1511.06342v4.pdf">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>  
+```30-05-2016, ICLR 2016```  
+```Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov, DL, RL, actor-mimic```  
+* <a href="http://arxiv.org/abs/1511.06279">Neural Programmer-Interpreters</a>  
+```29-05-2016, ICLR 2016```  
+```Scott Reed, Nando de Freitas, DL, NPI```  
+* <a href="http://arxiv.org/abs/1504.00702">End-to-End Training of Deep Visuomotor Policies</a>  
+```29-05-2016, JMLR 2016```  
+```Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel, CV, DL, RL, robotics, control```  
+* <a href="http://arxiv.org/abs/1512.02902">MovieQA : Understanding Stories in Movies through Question-Answering</a>  
+```28-05-2016, CVPR 2016```  
+```Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, CV, DL, QA, movie-story```  
+* <a href="http://arxiv.org/pdf/1511.06361v6.pdf">Order-Embeddings of Images and Language</a>  
+```28-05-2016, ICLR 2016```  
+```Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun, CV, DL, image-caption, hierarchy```  
 * <a href="http://arxiv.org/pdf/1511.04119v3.pdf">Action Recognition using Visual Attention</a>  
 ```28-05-2016, CV, DL, action-recognition, attention```  
 ```Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov, ICLR 2016```  
@@ -55,7 +79,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```Volodymyr Mnih et al, NIPS DL workshop 2013```  
 * <a href="https://arxiv.org/pdf/1603.09382.pdf">Deep Networks with Stochastic Depth</a>  
 ```27-05-2016, DL, stochastic-depth```  
-```Gao Huang, Yu Sun et al, ```  
+```Gao Huang, Yu Sun et al,  2016 ```  
 * <a href="http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf">An Introduction to Variational Methods for Graphical Models</a>  
 ```26/05/2016,  graphical-models, ML, variational-methods```  
 ```Michael Jordan et al ,  Machine Learning 1999 ```  
@@ -85,8 +109,8 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```Bahdanau, Cho, Bengio ,  ICLR 2015 ```  
 * <a href="http://www.cs.toronto.edu/~hinton/absps/tsne.pdf">Visualizing Data using t-SNE</a>  
 ```23/05/2016, ML, Embeddings```  
-``` Maaten, Hinton, JMLR,  ```  
-* <a href="http://arxiv.org/pdf/1406.1078v3.pdf">Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation</a>  
+``` Maaten, Hinton,,  JMLR 2008```  
+* <a href="http://arxiv.org/pdf/1406.1078v3.pdf">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>  
 ```22/05/2016, DL, NLP, RNN-ED```  
 ```Kyunghyun Cho et al ,  ACL 2014 ```  
 * <a href="https://arxiv.org/pdf/1512.03385v1.pdf">Deep Residual Learning for Image Recognition</a>  
@@ -109,7 +133,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ``` Diederik Kingma, Jimmy Ba,  ICLR ```  
 * <a href="http://arxiv.org/pdf/1511.08228v3.pdf">Neural GPUs Learn Algorithms</a>  
 ```20/05/2016, DL```  
-``` Łukasz Kaiser, Ilya Sutskever,  ICLR ```  
+``` Lukasz Kaiser, Ilya Sutskever,  ICLR ```  
 * <a href="http://arxiv.org/pdf/1308.0850v5.pdf">Generating Sequences With Recurrent Neural Networks</a>  
 ```19/05/2016, DL```  
 ``` Alex Graves,  2014 ```  

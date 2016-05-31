@@ -3,6 +3,7 @@ cd $paperspraypath
 
 git pull origin master
 python scripts/add_papers.py
+python scripts/create_readme.py
 
 git add .
 echo "Enter commit message" 
