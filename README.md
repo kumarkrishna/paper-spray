@@ -48,20 +48,20 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```30-05-2016, DL, DMN, NLP, dynamic-memory-networks```  
 ```Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher, ICML 2016```  
 * <a href="http://arxiv.org/pdf/1511.06342v4.pdf">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>  
-```30-05-2016, ICLR 2016```  
-```Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov, DL, RL, actor-mimic```  
+```30-05-2016, DL, RL, actor-mimic```  
+```Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov, ICLR 2016```  
 * <a href="http://arxiv.org/abs/1511.06279">Neural Programmer-Interpreters</a>  
-```29-05-2016, ICLR 2016```  
-```Scott Reed, Nando de Freitas, DL, NPI```  
+```29-05-2016, DL, NPI```  
+```Scott Reed, Nando de Freitas, ICLR 2016```  
 * <a href="http://arxiv.org/abs/1504.00702">End-to-End Training of Deep Visuomotor Policies</a>  
-```29-05-2016, JMLR 2016```  
-```Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel, CV, DL, RL, robotics, control```  
+```29-05-2016, CV, DL, RL, robotics, control```  
+```Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel, JMLR 2016```  
 * <a href="http://arxiv.org/abs/1512.02902">MovieQA : Understanding Stories in Movies through Question-Answering</a>  
-```28-05-2016, CVPR 2016```  
-```Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, CV, DL, QA, movie-story```  
+```28-05-2016, CV, DL, QA, movie-story```  
+```Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, CVPR 2016```  
 * <a href="http://arxiv.org/pdf/1511.06361v6.pdf">Order-Embeddings of Images and Language</a>  
-```28-05-2016, ICLR 2016```  
-```Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun, CV, DL, image-caption, hierarchy```  
+```28-05-2016, CV, DL, image-caption, hierarchy```  
+```Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun, ICLR 2016```  
 * <a href="http://arxiv.org/pdf/1511.04119v3.pdf">Action Recognition using Visual Attention</a>  
 ```28-05-2016, CV, DL, action-recognition, attention```  
 ```Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov, ICLR 2016```  
@@ -130,10 +130,10 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ``` Ilya Sutskever, Oriol Vinyals, and Quoc Le,  NIPS 2014 ```  
 * <a href="https://arxiv.org/pdf/1412.6980.pdf">Adam : A Method for Stochastic Optimization</a>  
 ```20/05/2016, ML, Optimization, ADAM ```  
-``` Diederik Kingma, Jimmy Ba,  ICLR ```  
+``` Diederik Kingma, Jimmy Ba,  ICLR 2015 ```  
 * <a href="http://arxiv.org/pdf/1511.08228v3.pdf">Neural GPUs Learn Algorithms</a>  
 ```20/05/2016, DL```  
-``` Lukasz Kaiser, Ilya Sutskever,  ICLR ```  
+``` Lukasz Kaiser, Ilya Sutskever,  ICLR 2016```  
 * <a href="http://arxiv.org/pdf/1308.0850v5.pdf">Generating Sequences With Recurrent Neural Networks</a>  
 ```19/05/2016, DL```  
 ``` Alex Graves,  2014 ```  
