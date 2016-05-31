@@ -1,3 +1,8 @@
+'''
+Copies the readme template to the README.md file and appends the papers from
+the json file.
+'''
+
 import json
 
 
