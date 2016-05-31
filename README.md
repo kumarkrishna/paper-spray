@@ -4,6 +4,8 @@ This is a list of interesting research papers maintained by [Kumar](https://gith
 
 We would try submit only links which are freely available, but we may also add few links which can be accessed freely only from an university network.
 
+__We have created a webpage for [Paper-Spray](https://biswajitsc.github.io/paper-spray.html) containing a searchable list of the papers in the json file. We are yet to completely sync the json file and the readme.__
+
 Entry format:
 > * [Paper Title](Link)  
 > ```Date Added, Keywords```  
