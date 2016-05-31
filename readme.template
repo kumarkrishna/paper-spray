@@ -1,0 +1,40 @@
+# Paper-Spray
+
+This is a list of interesting research papers maintained by [Kumar](https://github.com/kumarkrishna) and [Biswa](https://github.com/biswajitsc), mainly in Machine Learning, but definitely not limited to it. This is mainly an initiative to inculcate a reading habit among ourselves. Suggested reads are always welcome!
+
+We would try submit only links which are freely available, but we may also add few links which can be accessed freely only from an university network.
+
+__We have created a webpage for [Paper-Spray](https://biswajitsc.github.io/paper-spray.html) containing a searchable list of the papers in the json file. We are yet to completely sync the json file and the readme.__
+
+Entry format:
+> * [Paper Title](Link)
+> ```Date Added, Keywords```
+> ```Author, Conference, Year```
+
+Abbreviations:
+* AI: Artificial Intelligence
+* CV : Computer Vision
+* DL: Deep Learning
+* ML : Machine Learning
+* NLP : Natural Language Processing
+* RL : Reinforcement Learning
+
+<!---
+Instructions:
+* Add new papers at the top.
+* For each entry add two or more spaces at the end of line 1 to enter a newline.
+
+CLI for adding papers :
+* Add ```$paperspraypath``` as environment variable for path to the github repository.
+```sh
+export paperspraypath=/path/to/github/repository
+```
+* Add an alias to .bashrc / .bash_profile to directly add papers from any folder through terminal :D .
+```sh
+alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
+```
+ * Use ```spray-papers``` as terminal command.
+-->
+
+
+## Papers
