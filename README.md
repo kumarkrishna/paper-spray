@@ -34,9 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-* <a href="http://arxiv.org/pdf/1505.00521v3.pdf">Reinforcement> Learning Neural Turing Machines</a>  
-```31/05/2016, DL, NTM, RL```  
-```Wojciech Zaremba, ICLR 2016```  
+* <a href="https://papers.nips.cc/paper/4334-sparse-filtering.pdf">Sparse Filtering</a>  
+```01/06/2016, ML, DL, sparse```  
+```Jiquan Ngiam, Pang Wei Koh, Zhenghao Chen, Sonia Bhaskar, Andrew Y. Ng, NIPS 2011```  
 * <a href="http://arxiv.org/pdf/1505.00521v3.pdf">Reinforcement Learning Neural Turing Machines</a>  
 ```31/05/2016, DL, NTM, RL```  
 ```Wojciech Zaremba, ICLR 2016```  
