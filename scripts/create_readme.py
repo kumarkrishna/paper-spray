@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 '''
 Copies the readme template to the README.md file and appends the papers from
 the json file.
