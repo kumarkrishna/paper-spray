@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "01/06/2016",
+      "Jiquan Ngiam, Pang Wei Koh, Zhenghao Chen, Sonia Bhaskar, Andrew Y. Ng",
+      "<a href=\"https://papers.nips.cc/paper/4334-sparse-filtering.pdf\">Sparse Filtering</a>",
+      "NIPS 2011",
+      "ML, DL, sparse",
+      "n"
+    ],
+    [
       "31/05/2016",
       "Wojciech Zaremba",
       "<a href=\"http://arxiv.org/pdf/1505.00521v3.pdf\">Reinforcement Learning Neural Turing Machines</a>",
