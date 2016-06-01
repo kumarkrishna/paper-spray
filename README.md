@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1505.00521v3.pdf">Reinforcement> Learning Neural Turing Machines</a>  
+```31/05/2016, DL, NTM, RL```  
+```Wojciech Zaremba, ICLR 2016```  
 * <a href="http://arxiv.org/pdf/1505.00521v3.pdf">Reinforcement Learning Neural Turing Machines</a>  
 ```31/05/2016, DL, NTM, RL```  
 ```Wojciech Zaremba, ICLR 2016```  
@@ -65,7 +68,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```28/05/2016, CV, DL, action-recognition, attention```  
 ```Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov, ICLR 2016```  
 * <a href="http://arxiv.org/abs/1503.08895">End-To-End Memory Networks</a>  
-```28/05/1016, DL, memory-networks, end-to-end```  
+```28/05/2016, DL, memory-networks, end-to-end```  
 ```Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus, NIPS 2015```  
 * <a href="http://arxiv.org/abs/1511.06581">Dueling Network Architectures for Deep Reinforcement Learning</a>  
 ```27/05/2016, DL, dueling-networks, RL```  
