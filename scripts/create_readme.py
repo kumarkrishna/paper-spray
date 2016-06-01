@@ -39,7 +39,8 @@ def main():
             readmefile.write(templatefile.read())
 
         for item in data['data']:
-            readmefile.write('* {}  \n'.format(item[2]))
+            print(data)
+	    readmefile.write('* {}  \n'.format(item[2]))
             readmefile.write('```{}, {}```  \n'.format(item[0], item[4]))
             readmefile.write('```{}, {}```  \n'.format(item[1], item[3]))
 

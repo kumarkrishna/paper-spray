@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>  
+```01/06/2016, DL, RL```  
+```Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu, 2016```  
 * <a href="http://arxiv.org/pdf/1605.08803v1.pdf">Density estimation using Real NVP</a>  
 ```01/06/2016, DL, latent space, image generation```  
 ```Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio, Google Brain```  

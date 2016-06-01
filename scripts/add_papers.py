@@ -19,18 +19,18 @@ def main():
     with open('paper-list.json', 'r') as jsonfile:
         data = json.load(jsonfile)
 
-    papername = input("Enter name of the paper\n")
-    paperlink = input("Enter link to the paper\n")
-    reviewlink = input("Review link? Enter 'n' if not\n")
-    authorlist = input("Enter the list of authors\n")
-    conference = input("Enter the name of the conference\n")
+    papername = raw_input("Enter name of the paper\n")
+    paperlink = raw_input("Enter link to the paper\n")
+    reviewlink = raw_input("Review link? Enter 'n' if not\n")
+    authorlist = raw_input("Enter the list of authors\n")
+    conference = raw_input("Enter the name of the conference\n")
 
     dateadded = None
     while dateadded is None:
-        dateadded = input("Enter the date added\n")
+        dateadded = raw_input("Enter the date added\n")
         dateadded = check_dateformat(dateadded)
 
-    keywords = input("Keywords associated\n")
+    keywords = raw_input("Keywords associated\n")
 
     newpaper = []
     newpaper.append(dateadded)
