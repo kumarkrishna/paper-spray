@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1605.08803v1.pdf">Density estimation using Real NVP</a>  
+```01/06/2016, DL, latent space, image generation```  
+```Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio, Google Brain```  
 * <a href="https://papers.nips.cc/paper/4334-sparse-filtering.pdf">Sparse Filtering</a>  
 ```01/06/2016, ML, DL, sparse```  
 ```Jiquan Ngiam, Pang Wei Koh, Zhenghao Chen, Sonia Bhaskar, Andrew Y. Ng, NIPS 2011```  
