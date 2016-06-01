@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1601.01705">Learning to compose neural networks for question answering</a>  
+```01/06/2016, DL, compose-NN, RL, QA```  
+```Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, NAACL 2016 (best-paper)```  
 * <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>  
 ```01/06/2016, DL, RL```  
 ```Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu, 2016```  
