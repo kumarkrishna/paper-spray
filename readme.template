@@ -20,10 +20,6 @@ Abbreviations:
 * RL : Reinforcement Learning
 
 <!---
-Instructions:
-* Add new papers at the top.
-* For each entry add two or more spaces at the end of line 1 to enter a newline.
-
 CLI for adding papers :
 * Add ```$paperspraypath``` as environment variable for path to the github repository.
 ```sh
