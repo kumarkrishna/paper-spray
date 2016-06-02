@@ -2,6 +2,14 @@
   "data": [
     [
       "01/06/2016", 
+      "Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu", 
+      "<a href=\"https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf\">Recurrent Models of Visual Attention</a>", 
+      "NIPS 2014", 
+      "CV, DL, RL, attention", 
+      "n"
+    ], 
+    [
+      "01/06/2016", 
       "Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein", 
       "<a href=\"https://arxiv.org/abs/1601.01705\">Learning to compose neural networks for question answering</a>", 
       "NAACL 2016 (best-paper)", 

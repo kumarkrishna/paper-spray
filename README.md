@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf">Recurrent Models of Visual Attention</a>  
+```01/06/2016, CV, DL, RL, attention```  
+```Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu, NIPS 2014```  
 * <a href="https://arxiv.org/abs/1601.01705">Learning to compose neural networks for question answering</a>  
 ```01/06/2016, DL, compose-NN, RL, QA```  
 ```Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, NAACL 2016 (best-paper)```  
