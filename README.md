@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1402.3511v1.pdf">A Clockwork RNN</a>  
+```02/06/2016, DL, RNN, clock-work```  
+```Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber, JMLR 2014```  
 * <a href="http://arxiv.org/pdf/1601.06733.pdf">Long Short-Term Memory-Networks for Machine Reading</a>  
 ```02/06/2016, DL, NLP, machine understanding```  
 ```Jianpeng Cheng, Li Dong, Mirella Lapata, ```  

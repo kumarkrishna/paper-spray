@@ -2,6 +2,14 @@
   "data": [
     [
       "02/06/2016", 
+      "Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber", 
+      "<a href=\"http://arxiv.org/pdf/1402.3511v1.pdf\">A Clockwork RNN</a>", 
+      "JMLR 2014", 
+      "DL, RNN, clock-work", 
+      "n"
+    ], 
+    [
+      "02/06/2016", 
       "Jianpeng Cheng, Li Dong, Mirella Lapata", 
       "<a href=\"http://arxiv.org/pdf/1601.06733.pdf\">Long Short-Term Memory-Networks for Machine Reading</a>", 
       "", 
