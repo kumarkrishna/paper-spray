@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf">Teaching Machines to Read and Comprehend</a>  
+```01/06/2016, DL, NLP, attention```  
+```Karl Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
 * <a href="https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf">Recurrent Models of Visual Attention</a>  
 ```01/06/2016, CV, DL, RL, attention```  
 ```Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu, NIPS 2014```  
