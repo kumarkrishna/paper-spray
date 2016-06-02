@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1601.06733.pdf">Long Short-Term Memory-Networks for Machine Reading</a>  
+```02/06/2016, DL, NLP, machine understanding```  
+```Jianpeng Cheng, Li Dong, Mirella Lapata, ```  
 * <a href="http://nlp.stanford.edu/pubs/emnlp15_attn.pdf">Effective Approaches to Attention-based Neural Machine Translation</a>  
 ```02/06/2016, DL, NLP, neural machine translation```  
 ```Minh-Thang Luong, Hieu Pham, Christopher D. Manning, EMNLP 2015```  
