@@ -2,6 +2,14 @@
   "data": [
     [
       "02/06/2016", 
+      "Minh-Thang Luong, Hieu Pham, Christopher D. Manning", 
+      "<a href=\"http://nlp.stanford.edu/pubs/emnlp15_attn.pdf\">Effective Approaches to Attention-based Neural Machine Translation</a>", 
+      "EMNLP 2015", 
+      "DL, NLP, neural machine translation", 
+      "n"
+    ], 
+    [
+      "02/06/2016", 
       "Alexander M. Rush, Sumit Chopra, Jason Weston", 
       "<a href=\"http://www.aclweb.org/anthology/D15-1044\">A Neural Attention Model for Sentence Summarization</a>", 
       "EMNLP 2015", 

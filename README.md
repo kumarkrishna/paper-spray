@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://nlp.stanford.edu/pubs/emnlp15_attn.pdf">Effective Approaches to Attention-based Neural Machine Translation</a>  
+```02/06/2016, DL, NLP, neural machine translation```  
+```Minh-Thang Luong, Hieu Pham, Christopher D. Manning, EMNLP 2015```  
 * <a href="http://www.aclweb.org/anthology/D15-1044">A Neural Attention Model for Sentence Summarization</a>  
 ```02/06/2016, DL, NLP, summarization```  
 ```Alexander M. Rush, Sumit Chopra, Jason Weston, EMNLP 2015```  
