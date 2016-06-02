@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www-devel.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/morereadings/PsychSci97-RR.pdf">To See or not to See : The need for attention to perrceive changes in scenes</a>  
+```01/06/2016, attention, vision```  
+```Ronald Rensink, Kevin O'Regan, James Clark, Psychological Science, 1997```  
 * <a href="www.utexas.edu/cola/files/1515661">Eye movements in natural behaviour</a>  
 ```01/06/2015, eye-movement, attention```  
 ```Mary Hayhoe, Dana Ballard, Trends in Cognitive Sciences, 2005```  
