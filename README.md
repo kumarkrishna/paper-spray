@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www.aclweb.org/anthology/D15-1044">A Neural Attention Model for Sentence Summarization</a>  
+```02/06/2016, DL, NLP, summarization```  
+```Alexander M. Rush, Sumit Chopra, Jason Weston, EMNLP 2015```  
 * <a href="http://www-devel.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/morereadings/PsychSci97-RR.pdf">To See or not to See : The need for attention to perrceive changes in scenes</a>  
 ```01/06/2016, attention, vision```  
 ```Ronald Rensink, Kevin O'Regan, James Clark, Psychological Science, 1997```  

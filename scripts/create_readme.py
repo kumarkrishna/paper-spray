@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 '''
 Copies the readme template to the README.md file and appends the papers from
 the json file.
@@ -39,7 +37,7 @@ def main():
             readmefile.write(templatefile.read())
 
         for item in data['data']:
-	    readmefile.write('* {}  \n'.format(item[2]))
+            readmefile.write('* {}  \n'.format(item[2]))
             readmefile.write('```{}, {}```  \n'.format(item[0], item[4]))
             readmefile.write('```{}, {}```  \n'.format(item[1], item[3]))
 

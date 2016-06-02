@@ -1,5 +1,3 @@
-#!/usr/local/bin/python3
-
 import json
 from datetime import datetime
 

@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "02/06/2016", 
+      "Alexander M. Rush, Sumit Chopra, Jason Weston", 
+      "<a href=\"http://www.aclweb.org/anthology/D15-1044\">A Neural Attention Model for Sentence Summarization</a>", 
+      "EMNLP 2015", 
+      "DL, NLP, summarization", 
+      "n"
+    ], 
+    [
       "01/06/2016", 
       "Ronald Rensink, Kevin O'Regan, James Clark", 
       "<a href=\"http://www-devel.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/morereadings/PsychSci97-RR.pdf\">To See or not to See : The need for attention to perrceive changes in scenes</a>", 
