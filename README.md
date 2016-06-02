@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="www.utexas.edu/cola/files/1515661">Eye movements in natural behaviour</a>  
+```01/06/2015, eye-movement, attention```  
+```Mary Hayhoe, Dana Ballard, Trends in Cognitive Sciences, 2005```  
 * <a href="http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf">Teaching Machines to Read and Comprehend</a>  
 ```01/06/2016, DL, NLP, attention```  
 ```Karl Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
