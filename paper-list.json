@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "03/06/2016", 
+      "Dzmitry Bahdanau, KyungHyun Cho,  Yoshua Bengio", 
+      "<a href=\"https://arxiv.org/pdf/1409.0473v7.pdf\">Neural Machine Translation by Jointly Learning to Align and Translate</a>", 
+      "ICLR 2015", 
+      "DL, NLP, neural machine translation", 
+      "n"
+    ], 
+    [
       "02/06/2016", 
       "Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber", 
       "<a href=\"http://arxiv.org/pdf/1402.3511v1.pdf\">A Clockwork RNN</a>", 
