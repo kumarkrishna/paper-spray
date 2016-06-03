@@ -34,7 +34,7 @@ def main():
             ind1 = ind1[1]
             ind2 = ind2[0]+1
             paper_name = paper_name[ind2:ind1]
-            paper_name = paper_name.lower()
+            paper_name = paper_name.strip().lower()
             if paper_name in paper_names:
                 print("Warning: Duplicate paper \"{}\"".format(paper_name))
 
@@ -56,7 +56,7 @@ def main():
 
     keywords = raw_input("Keywords associated\n")
 
-    if papername.lower() in paper_names:
+    if papername.strip().lower() in paper_names:
         print("\nWarning: A paper with the same name already exists.")
         decision = raw_input("Do you want to still add it? (y|n): ")
         while decision not in ['y', 'n']:
