@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "03/06/2016", 
+      "Ian Goodfellow, David Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio", 
+      "<a href=\"https://arxiv.org/pdf/1302.4389v4.pdf\">Maxout Networks</a>", 
+      "JMLR 2013", 
+      "DL, dropout, maxout", 
+      "n"
+    ], 
+    [
       "02/06/2016", 
       "Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber", 
       "<a href=\"http://arxiv.org/pdf/1402.3511v1.pdf\">A Clockwork RNN</a>", 
