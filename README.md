@@ -34,9 +34,6 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-* <a href="https://arxiv.org/pdf/1409.0473v7.pdf">Neural Machine Translation by Jointly Learning to Align and Translate</a>  
-```03/06/2016, DL, NLP, neural machine translation```  
-```Dzmitry Bahdanau, KyungHyun Cho,  Yoshua Bengio, ICLR 2015```  
 * <a href="http://arxiv.org/pdf/1402.3511v1.pdf">A Clockwork RNN</a>  
 ```02/06/2016, DL, RNN, clock-work```  
 ```Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber, JMLR 2014```  

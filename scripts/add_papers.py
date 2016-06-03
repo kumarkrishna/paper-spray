@@ -1,5 +1,10 @@
 import json
+import sys
+import numpy as np
 from datetime import datetime
+
+if sys.version_info.major == 3:
+    raw_input = input
 
 
 def check_dateformat(inp):
@@ -17,6 +22,27 @@ def main():
     with open('paper-list.json', 'r') as jsonfile:
         data = json.load(jsonfile)
 
+    # Check for duplicates
+    paper_names = set()
+    for paper in data["data"]:
+        paper_name = paper[2]
+        chars = np.asarray(list(paper_name))
+        ind1 = np.where(chars == '<')[0]
+        ind2 = np.where(chars == '>')[0]
+        try:
+            assert ind1.shape[0] == 2 and ind2.shape[0] == 2
+            ind1 = ind1[1]
+            ind2 = ind2[0]+1
+            paper_name = paper_name[ind2:ind1]
+            paper_name = paper_name.lower()
+            if paper_name in paper_names:
+                print("Warning: Duplicate paper \"{}\"".format(paper_name))
+
+            paper_names.add(paper_name)
+
+        except AssertionError:
+            pass
+
     papername = raw_input("Enter name of the paper\n")
     paperlink = raw_input("Enter link to the paper\n")
     reviewlink = raw_input("Review link? Enter 'n' if not\n")
@@ -29,6 +55,17 @@ def main():
         dateadded = check_dateformat(dateadded)
 
     keywords = raw_input("Keywords associated\n")
+
+    if papername.lower() in paper_names:
+        print("\nWarning: A paper with the same name already exists.")
+        decision = raw_input("Do you want to still add it? (y|n): ")
+        while decision not in ['y', 'n']:
+            decision = raw_input("Please enter 'y' or 'n': ")
+        if decision == 'n':
+            print("Paper not added\n")
+            return
+
+    print("Adding paper ...")
 
     newpaper = []
     newpaper.append(dateadded)
