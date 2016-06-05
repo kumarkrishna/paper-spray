@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "05/06/2016", 
+      "Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei AEfros", 
+      "<a href=\"https://arxiv.org/pdf/1604.07379v1.pdf\">Context Encoders: Feature Learning by Inpainting</a>", 
+      "CVPR 2016", 
+      "CV, DL, context-encoder", 
+      "n"
+    ], 
+    [
       "04/06/2016", 
       "Sepp Hochreiter, Jurgen Schmidhuber", 
       "<a href=\"http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf\">Long Short-term Memory</a>", 

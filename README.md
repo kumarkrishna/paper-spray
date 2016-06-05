@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1604.07379v1.pdf">Context Encoders: Feature Learning by Inpainting</a>  
+```05/06/2016, CV, DL, context-encoder```  
+```Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei AEfros, CVPR 2016```  
 * <a href="http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf">Long Short-term Memory</a>  
 ```04/06/2016, DL, RNN, LSTM```  
 ```Sepp Hochreiter, Jurgen Schmidhuber, Neural Computation, 1997```  
