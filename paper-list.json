@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "04/06/2016", 
+      "Sepp Hochreiter, Jurgen Schmidhuber", 
+      "<a href=\"http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf\">Long Short-term Memory</a>", 
+      "Neural Computation, 1997", 
+      "DL, RNN, LSTM", 
+      "n"
+    ], 
+    [
       "03/06/2016", 
       "Ian Goodfellow, David Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio", 
       "<a href=\"https://arxiv.org/pdf/1302.4389v4.pdf\">Maxout Networks</a>", 

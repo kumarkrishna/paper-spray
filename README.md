@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf">Long Short-term Memory</a>  
+```04/06/2016, DL, RNN, LSTM```  
+```Sepp Hochreiter, Jurgen Schmidhuber, Neural Computation, 1997```  
 * <a href="https://arxiv.org/pdf/1302.4389v4.pdf">Maxout Networks</a>  
 ```03/06/2016, DL, dropout, maxout```  
 ```Ian Goodfellow, David Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio, JMLR 2013```  
