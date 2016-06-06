@@ -2,6 +2,14 @@
   "data": [
     [
       "06/06/2016",
+      "Geoffrey E. Hinton",
+      "<a href=\"http://www.cs.toronto.edu/~fritz/absps/nccd.pdf\">Training Products of Experts by Minimizing Contrastive Divergence</a>",
+      "Neural Computation 2002",
+      "ML, contrastive divergence",
+      "n"
+    ],
+    [
+      "06/06/2016",
       "Michael Gutmann, Aapo Hyv\u00a8arinen",
       "<a href=\"http://www.jmlr.org/proceedings/papers/v9/gutmann10a/gutmann10a.pdf\">Noise-contrastive estimation: A new estimation principle for unnormalized statistical models</a>",
       "AISTATS 2010",

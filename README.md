@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www.cs.toronto.edu/~fritz/absps/nccd.pdf">Training Products of Experts by Minimizing Contrastive Divergence</a>  
+```06/06/2016, ML, contrastive divergence```  
+```Geoffrey E. Hinton, Neural Computation 2002```  
 * <a href="http://www.jmlr.org/proceedings/papers/v9/gutmann10a/gutmann10a.pdf">Noise-contrastive estimation: A new estimation principle for unnormalized statistical models</a>  
 ```06/06/2016, Statistics, estimation```  
 ```Michael Gutmann, Aapo Hyv¨arinen, AISTATS 2010```  
