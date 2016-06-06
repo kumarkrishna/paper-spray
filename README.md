@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1506.08941">Language Understanding for Text-based Games Using Deep Reinforcement Learning</a>  
+```06/06/2016, DL, NLP, RL```  
+```Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay, EMNLP 2015```  
 * <a href="http://arxiv.org/pdf/1411.4166v4.pdf">Retrofitting Word Vectors to Semantic Lexicons</a>  
 ```06/06/2016, NLP, word vectors```  
 ```Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy, Noah A. Smith, NAACL 2015```  
