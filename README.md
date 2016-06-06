@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www.jmlr.org/proceedings/papers/v9/gutmann10a/gutmann10a.pdf">Noise-contrastive estimation: A new estimation principle for unnormalized statistical models</a>  
+```06/06/2016, Statistics, estimation```  
+```Michael Gutmann, Aapo Hyv¨arinen, AISTATS 2010```  
 * <a href="https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf">Neural Word Embedding as Implicit Matrix Factorization</a>  
 ```06/06/2016, DL, NLP, word vectors```  
 ```Omer Levy, Yoav Goldberg, NIPS 2014```  
