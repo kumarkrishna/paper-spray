@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>  
+```06/06/2016, ML, non-parametric estimation```  
+```Michael U. Gutmann, Aapo Hyvarinen, JMLR 2012```  
 * <a href="http://www.cs.toronto.edu/~fritz/absps/nccd.pdf">Training Products of Experts by Minimizing Contrastive Divergence</a>  
 ```06/06/2016, ML, contrastive divergence```  
 ```Geoffrey E. Hinton, Neural Computation 2002```  

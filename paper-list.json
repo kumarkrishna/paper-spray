@@ -2,6 +2,14 @@
   "data": [
     [
       "06/06/2016",
+      "Michael U. Gutmann, Aapo Hyvarinen",
+      "<a href=\"http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf\">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>",
+      "JMLR 2012",
+      "ML, non-parametric estimation",
+      "n"
+    ],
+    [
+      "06/06/2016",
       "Geoffrey E. Hinton",
       "<a href=\"http://www.cs.toronto.edu/~fritz/absps/nccd.pdf\">Training Products of Experts by Minimizing Contrastive Divergence</a>",
       "Neural Computation 2002",
