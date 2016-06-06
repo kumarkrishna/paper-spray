@@ -2,6 +2,14 @@
   "data": [
     [
       "06/06/2016",
+      "Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy, Noah A. Smith",
+      "<a href=\"http://arxiv.org/pdf/1411.4166v4.pdf\">Retrofitting Word Vectors to Semantic Lexicons</a>",
+      "NAACL 2015",
+      "NLP, word vectors",
+      "n"
+    ],
+    [
+      "06/06/2016",
       "Michael U. Gutmann, Aapo Hyvarinen",
       "<a href=\"http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf\">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>",
       "JMLR 2012",

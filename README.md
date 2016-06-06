@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1411.4166v4.pdf">Retrofitting Word Vectors to Semantic Lexicons</a>  
+```06/06/2016, NLP, word vectors```  
+```Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy, Noah A. Smith, NAACL 2015```  
 * <a href="http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>  
 ```06/06/2016, ML, non-parametric estimation```  
 ```Michael U. Gutmann, Aapo Hyvarinen, JMLR 2012```  
