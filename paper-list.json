@@ -2,6 +2,14 @@
   "data": [
     [
       "06/06/2016", 
+      "Diederik P Kingma, Max Welling", 
+      "<a href=\"https://arxiv.org/abs/1312.6114\">Auto-Encoding Variational Bayes</a>", 
+      "ICLR 2014", 
+      "VAE", 
+      "n"
+    ], 
+    [
+      "06/06/2016", 
       "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay", 
       "<a href=\"http://arxiv.org/abs/1506.08941\">Language Understanding for Text-based Games Using Deep Reinforcement Learning</a>", 
       "EMNLP 2015", 

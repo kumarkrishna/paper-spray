@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1312.6114">Auto-Encoding Variational Bayes</a>  
+```06/06/2016, VAE```  
+```Diederik P Kingma, Max Welling, ICLR 2014```  
 * <a href="http://arxiv.org/abs/1506.08941">Language Understanding for Text-based Games Using Deep Reinforcement Learning</a>  
 ```06/06/2016, DL, NLP, RL```  
 ```Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay, EMNLP 2015```  
