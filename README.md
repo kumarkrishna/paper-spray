@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf">Neural Word Embedding as Implicit Matrix Factorization</a>  
+```06/06/2016, DL, NLP, word vectors```  
+```Omer Levy, Yoav Goldberg, NIPS 2014```  
 * <a href="https://arxiv.org/pdf/1604.07379v1.pdf">Context Encoders: Feature Learning by Inpainting</a>  
 ```05/06/2016, CV, DL, context-encoder```  
 ```Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei AEfros, CVPR 2016```  
