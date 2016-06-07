@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1606.00704v1.pdf">Adversarially Learned Inference</a>  
+```07/06/2016, ML, DL, inference, generative model```  
+```Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville, Subt. NIPS 2016```  
 * <a href="https://arxiv.org/abs/1312.6114">Auto-Encoding Variational Bayes</a>  
 ```06/06/2016, VAE```  
 ```Diederik P Kingma, Max Welling, ICLR 2014```  
