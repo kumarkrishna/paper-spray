@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a>  
+```07/06/2016, DL, NLP```  
+```Yoshua Bengio, Rejean Ducharme, Pascal Vincent, Christian Jauvin, JMLR 2003```  
 * <a href="https://arxiv.org/pdf/1606.00704v1.pdf">Adversarially Learned Inference</a>  
 ```07/06/2016, ML, DL, inference, generative model```  
 ```Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville, Subt. NIPS 2016```  
