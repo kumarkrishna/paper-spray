@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1511.02799.pdf">Neural Module Networks</a>  
+```08/06/2016, DL, CV, visual QA```  
+```Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, arXiv```  
 * <a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a>  
 ```07/06/2016, DL, NLP```  
 ```Yoshua Bengio, Rejean Ducharme, Pascal Vincent, Christian Jauvin, JMLR 2003```  
