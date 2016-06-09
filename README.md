@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1506.05751">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>  
+```08/06/2016, DL, CV, GAN, LAPGAN```  
+```Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, NIPS 2015```  
 * <a href="https://arxiv.org/pdf/1511.02799.pdf">Neural Module Networks</a>  
 ```08/06/2016, DL, CV, visual QA```  
 ```Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein, arXiv```  
