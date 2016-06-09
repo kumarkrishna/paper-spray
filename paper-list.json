@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "09/06/2016", 
+      "Sigrid Klerke, Yoav Goldberg, Anders Sogaard", 
+      "<a href=\"https://arxiv.org/pdf/1604.03357v1.pdf\">Improving sentence compression by learning to predict gaze</a>", 
+      "NAACL 2016, Best Short Paper", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
       "08/06/2016", 
       "Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus", 
       "<a href=\"http://arxiv.org/abs/1506.05751\">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>", 
