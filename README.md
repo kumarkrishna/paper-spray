@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1511.06434v2.pdf">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>  
+```10/06/2016, CV, DL, DCGAN```  
+```Alec Radford, Luke Metz, Soumith Chintala, ICLR 2016```  
 * <a href="https://arxiv.org/pdf/1604.03357v1.pdf">Improving sentence compression by learning to predict gaze</a>  
 ```09/06/2016, DL, NLP```  
 ```Sigrid Klerke, Yoav Goldberg, Anders Sogaard, NAACL 2016, Best Short Paper```  
