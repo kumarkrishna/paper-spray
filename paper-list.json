@@ -2,6 +2,14 @@
   "data": [
     [
       "10/06/2016", 
+      "Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville", 
+      "<a href=\"http://arxiv.org/pdf/1511.07838v7.pdf\">Dynamic Capacity Networks</a>", 
+      "JMLR, 2016", 
+      "DL", 
+      "n"
+    ], 
+    [
+      "10/06/2016", 
       "Antii Rasmus, Tapani Raiko, Harri Valpola", 
       "<a href=\"https://arxiv.org/pdf/1412.7210.pdf\">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>", 
       "ICLR 2015", 

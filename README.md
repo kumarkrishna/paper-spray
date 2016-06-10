@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1511.07838v7.pdf">Dynamic Capacity Networks</a>  
+```10/06/2016, DL```  
+```Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville, JMLR, 2016```  
 * <a href="https://arxiv.org/pdf/1412.7210.pdf">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>  
 ```10/06/2016, CV, DL, ladder-networks```  
 ```Antii Rasmus, Tapani Raiko, Harri Valpola, ICLR 2015```  
