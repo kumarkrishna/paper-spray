@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1412.7210.pdf">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>  
+```10/06/2016, CV, DL, ladder-networks```  
+```Antii Rasmus, Tapani Raiko, Harri Valpola, ICLR 2015```  
 * <a href="https://arxiv.org/pdf/1511.06434v2.pdf">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>  
 ```10/06/2016, CV, DL, DCGAN```  
 ```Alec Radford, Luke Metz, Soumith Chintala, ICLR 2016```  
