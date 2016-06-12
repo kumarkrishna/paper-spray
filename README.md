@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1502.04623v2.pdf">DRAW: A Recurrent Neural Network for Image Generation</a>  
+```11/06/2016, CV, DL, DRAW```  
+```Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, JMLR 2015```  
 * <a href="http://arxiv.org/pdf/1511.07838v7.pdf">Dynamic Capacity Networks</a>  
 ```10/06/2016, DL```  
 ```Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville, JMLR, 2016```  
