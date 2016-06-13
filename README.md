@@ -35,10 +35,10 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 ## Papers
 * <a href="http://arxiv.org/pdf/1506.06726v1.pdf">Skip-Thought Vectors</a>  
-```12/06/2016, DL, NLP```  
+```13/06/2016, DL, NLP```  
 ```Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler, NIPS 2015```  
 * <a href="http://arxiv.org/pdf/1512.08512.pdf">Visually Indicated Sounds</a>  
-```13/06/2016, CV, DL```  
+```12/06/2016, CV, DL```  
 ```Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman, CVPR 2016```  
 * <a href="https://arxiv.org/pdf/1502.04623v2.pdf">DRAW: A Recurrent Neural Network for Image Generation</a>  
 ```11/06/2016, CV, DL, DRAW```  
