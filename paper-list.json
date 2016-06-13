@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "13/06/2016", 
+      "Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman", 
+      "<a href=\"http://arxiv.org/pdf/1512.08512.pdf\">Visually Indicated Sounds</a>", 
+      "CVPR 2016", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
       "11/06/2016", 
       "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra", 
       "<a href=\"https://arxiv.org/pdf/1502.04623v2.pdf\">DRAW: A Recurrent Neural Network for Image Generation</a>", 
@@ -36,10 +44,10 @@
       "09/06/2016", 
       "Sigrid Klerke, Yoav Goldberg, Anders Sogaard", 
       "<a href=\"https://arxiv.org/pdf/1604.03357v1.pdf\">Improving sentence compression by learning to predict gaze</a>", 
-      "NAACL 2016, Best Short Paper",
-      "DL, NLP",
-      "n" 
-    ],
+      "NAACL 2016, Best Short Paper", 
+      "DL, NLP", 
+      "n"
+    ], 
     [
       "08/06/2016", 
       "Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo", 

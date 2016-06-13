@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1512.08512.pdf">Visually Indicated Sounds</a>  
+```13/06/2016, CV, DL```  
+```Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman, CVPR 2016```  
 * <a href="https://arxiv.org/pdf/1502.04623v2.pdf">DRAW: A Recurrent Neural Network for Image Generation</a>  
 ```11/06/2016, CV, DL, DRAW```  
 ```Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, JMLR 2015```  
