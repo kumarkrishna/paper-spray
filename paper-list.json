@@ -36,7 +36,15 @@
       "09/06/2016", 
       "Sigrid Klerke, Yoav Goldberg, Anders Sogaard", 
       "<a href=\"https://arxiv.org/pdf/1604.03357v1.pdf\">Improving sentence compression by learning to predict gaze</a>", 
-      "NAACL 2016, Best Short Paper", 
+      "NAACL 2016, Best Short Paper",
+      "DL, NLP",
+      "n" 
+    ],
+    [
+      "08/06/2016", 
+      "Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo", 
+      "<a href=\"http://arxiv.org/pdf/1604.04378v1.pdf\">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>", 
+      "IJCAI 2016", 
       "DL, NLP", 
       "n"
     ], 

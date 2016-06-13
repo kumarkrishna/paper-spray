@@ -49,6 +49,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/pdf/1604.03357v1.pdf">Improving sentence compression by learning to predict gaze</a>  
 ```09/06/2016, DL, NLP```  
 ```Sigrid Klerke, Yoav Goldberg, Anders Sogaard, NAACL 2016, Best Short Paper```  
+* <a href="http://arxiv.org/pdf/1604.04378v1.pdf">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>  
+```08/06/2016, DL, NLP```  
+```Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo, IJCAI 2016```  
 * <a href="http://arxiv.org/abs/1506.05751">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>  
 ```08/06/2016, DL, CV, GAN, LAPGAN```  
 ```Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, NIPS 2015```  
