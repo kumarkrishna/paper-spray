@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "12/06/2016", 
+      "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler", 
+      "<a href=\"http://arxiv.org/pdf/1506.06726v1.pdf\">Skip-Thought Vectors</a>", 
+      "NIPS 2015", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
       "13/06/2016", 
       "Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman", 
       "<a href=\"http://arxiv.org/pdf/1512.08512.pdf\">Visually Indicated Sounds</a>", 
