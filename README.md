@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1512.07679">Deep Reinforcement Learning in Large Discrete Action Spaces</a>  
+```14/06/2016, DL, RL```  
+```Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin, arxiv```  
 * <a href="http://arxiv.org/abs/1603.06277">Composing graphical models with neural networks for structured representations and fast inference</a>  
 ```14/06/2016, DL, graphical-models```  
 ```Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams, arXiv```  
