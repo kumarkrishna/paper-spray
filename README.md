@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1606.04080">Matching Networks for One Shot Learning</a>  
+```14/06/2016, DL, one-shot```  
+```Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra, arxiv```  
 * <a href="https://arxiv.org/abs/1512.07679">Deep Reinforcement Learning in Large Discrete Action Spaces</a>  
 ```14/06/2016, DL, RL```  
 ```Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin, arxiv```  

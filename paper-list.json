@@ -2,6 +2,14 @@
   "data": [
     [
       "14/06/2016", 
+      "Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra", 
+      "<a href=\"http://arxiv.org/abs/1606.04080\">Matching Networks for One Shot Learning</a>", 
+      "arxiv", 
+      "DL, one-shot", 
+      "n"
+    ], 
+    [
+      "14/06/2016", 
       "Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin", 
       "<a href=\"https://arxiv.org/abs/1512.07679\">Deep Reinforcement Learning in Large Discrete Action Spaces</a>", 
       "arxiv", 
