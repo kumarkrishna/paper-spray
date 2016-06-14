@@ -2,6 +2,14 @@
   "data": [
     [
       "14/06/2016", 
+      "Phillip Isola, Daniel Zoran, Dilip Krishnan, Edward H. Adelson", 
+      "<a href=\"http://arxiv.org/abs/1511.06811\">Learning visual groups from co-occurrences in space and time</a>", 
+      "ICLR 2016", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
+      "14/06/2016", 
       "William Lotter, Gabriel Kreiman, David Cox", 
       "<a href=\"https://arxiv.org/abs/1605.08104\">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>", 
       "arxiv", 

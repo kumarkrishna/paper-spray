@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1511.06811">Learning visual groups from co-occurrences in space and time</a>  
+```14/06/2016, CV, DL```  
+```Phillip Isola, Daniel Zoran, Dilip Krishnan, Edward H. Adelson, ICLR 2016```  
 * <a href="https://arxiv.org/abs/1605.08104">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>  
 ```14/06/2016, CV, DL```  
 ```William Lotter, Gabriel Kreiman, David Cox, arxiv```  
