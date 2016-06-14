@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1603.06277">Composing graphical models with neural networks for structured representations and fast inference</a>  
+```14/06/2016, DL, graphical-models```  
+```Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams, arXiv```  
 * <a href="http://arxiv.org/pdf/1506.06726v1.pdf">Skip-Thought Vectors</a>  
 ```13/06/2016, DL, NLP```  
 ```Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler, NIPS 2015```  

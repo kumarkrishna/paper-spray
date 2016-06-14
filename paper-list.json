@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "14/06/2016", 
+      "Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams", 
+      "<a href=\"http://arxiv.org/abs/1603.06277\">Composing graphical models with neural networks for structured representations and fast inference</a>", 
+      "arXiv", 
+      "DL, graphical-models", 
+      "n"
+    ], 
+    [
       "13/06/2016", 
       "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler", 
       "<a href=\"http://arxiv.org/pdf/1506.06726v1.pdf\">Skip-Thought Vectors</a>", 
