@@ -2,6 +2,14 @@
   "data": [
     [
       "14/06/2016", 
+      "Zhiguo Wang, Haitao Mi, Abraham Ittycheriah", 
+      "<a href=\"http://arxiv.org/abs/1602.07019\">Sentence Similarity Learning by Lexical Decomposition and Composition</a>", 
+      "arXiv", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
+      "14/06/2016", 
       "Phillip Isola, Daniel Zoran, Dilip Krishnan, Edward H. Adelson", 
       "<a href=\"http://arxiv.org/abs/1511.06811\">Learning visual groups from co-occurrences in space and time</a>", 
       "ICLR 2016", 

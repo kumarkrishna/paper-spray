@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1602.07019">Sentence Similarity Learning by Lexical Decomposition and Composition</a>  
+```14/06/2016, DL, NLP```  
+```Zhiguo Wang, Haitao Mi, Abraham Ittycheriah, arXiv```  
 * <a href="http://arxiv.org/abs/1511.06811">Learning visual groups from co-occurrences in space and time</a>  
 ```14/06/2016, CV, DL```  
 ```Phillip Isola, Daniel Zoran, Dilip Krishnan, Edward H. Adelson, ICLR 2016```  
