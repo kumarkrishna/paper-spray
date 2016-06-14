@@ -2,6 +2,14 @@
   "data": [
     [
       "14/06/2016", 
+      "William Lotter, Gabriel Kreiman, David Cox", 
+      "<a href=\"https://arxiv.org/abs/1605.08104\">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>", 
+      "arxiv", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
+      "14/06/2016", 
       "Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra", 
       "<a href=\"http://arxiv.org/abs/1606.04080\">Matching Networks for One Shot Learning</a>", 
       "arxiv", 

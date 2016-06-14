@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1605.08104">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>  
+```14/06/2016, CV, DL```  
+```William Lotter, Gabriel Kreiman, David Cox, arxiv```  
 * <a href="http://arxiv.org/abs/1606.04080">Matching Networks for One Shot Learning</a>  
 ```14/06/2016, DL, one-shot```  
 ```Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra, arxiv```  
