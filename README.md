@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1605.06676">Learning to Communicate with Deep Multi-Agent Reinforcement Learning</a>  
+```15/06/2016, DL, RL```  
+```Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson, arXiv```  
 * <a href="https://intelligence.org/files/Interruptibility.pdf">Safely Interruptible Agents</a>  
 ```15/06/2016, AI, RL, safety```  
 ```Laurent Orseau, Stuart Armstrong, UAI 2016```  
