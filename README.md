@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf">Extracting and Composing Robust Features with Denoising Autoencoders</a>  
+```15/06/2016, DL, DAE```  
+```Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol, ICML 2008```  
 * <a href="http://arxiv.org/abs/1602.07019">Sentence Similarity Learning by Lexical Decomposition and Composition</a>  
 ```14/06/2016, DL, NLP```  
 ```Zhiguo Wang, Haitao Mi, Abraham Ittycheriah, arXiv```  

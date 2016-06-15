@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "15/06/2016", 
+      "Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol", 
+      "<a href=\"http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf\">Extracting and Composing Robust Features with Denoising Autoencoders</a>", 
+      "ICML 2008", 
+      "DL, DAE", 
+      "n"
+    ], 
+    [
       "14/06/2016", 
       "Zhiguo Wang, Haitao Mi, Abraham Ittycheriah", 
       "<a href=\"http://arxiv.org/abs/1602.07019\">Sentence Similarity Learning by Lexical Decomposition and Composition</a>", 
