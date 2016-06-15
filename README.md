@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1604.00676.pdf">Multi-Bias Non-linear Activation in Deep Neural Networks</a>  
+```15/06/2016, ML, DL, activation function```  
+```Hongyang Li, Wanli Ouyang, Xiaogang Wang, ICML 2016```  
 * <a href="http://arxiv.org/pdf/1511.07275.pdf">Learning Simple Algorithms from Examples</a>  
 ```15/06/2016, ML, DL, AI```  
 ```Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus, ICML 2016```  

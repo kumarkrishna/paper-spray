@@ -2,6 +2,14 @@
   "data": [
     [
       "15/06/2016",
+      "Hongyang Li, Wanli Ouyang, Xiaogang Wang",
+      "<a href=\"https://arxiv.org/pdf/1604.00676.pdf\">Multi-Bias Non-linear Activation in Deep Neural Networks</a>",
+      "ICML 2016",
+      "ML, DL, activation function",
+      "n"
+    ],
+    [
+      "15/06/2016",
       "Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus",
       "<a href=\"http://arxiv.org/pdf/1511.07275.pdf\">Learning Simple Algorithms from Examples</a>",
       "ICML 2016",
