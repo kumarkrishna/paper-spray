@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1511.07275.pdf">Learning Simple Algorithms from Examples</a>  
+```15/06/2016, ML, DL, AI```  
+```Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus, ICML 2016```  
 * <a href="http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf">Extracting and Composing Robust Features with Denoising Autoencoders</a>  
 ```15/06/2016, DL, DAE```  
 ```Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol, ICML 2008```  
