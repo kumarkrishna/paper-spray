@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://www.semanticscholar.org/paper/Stating-the-Obvious-Extracting-Visual-Common-Sense-Yatskar-Ordonez/0dcc768631d9ede8a3679e980b37204b782781b2/pdf">Stating the Obvious: Extracting Visual Common Sense Knowledge</a>  
+```15/06/2016, DL, NLP```  
+```Mark Yatskar, Vicente Ordonez, Ali Farhadi, NAACL 2016```  
 * <a href="https://arxiv.org/abs/1605.06676">Learning to Communicate with Deep Multi-Agent Reinforcement Learning</a>  
 ```15/06/2016, DL, RL```  
 ```Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson, arXiv```  
