@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://intelligence.org/files/Interruptibility.pdf">Safely Interruptible Agents</a>  
+```15/06/2016, AI, RL, safety```  
+```Laurent Orseau, Stuart Armstrong, UAI 2016```  
 * <a href="http://arxiv.org/pdf/1509.06113.pdf">Deep Spatial Autoencoders for Visuomotor Learning</a>  
 ```15/06/2016, CV, DL, RL, robotics```  
 ```Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, Pieter Abbeeel, ICRA 2016```  

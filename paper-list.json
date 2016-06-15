@@ -2,6 +2,14 @@
   "data": [
     [
       "15/06/2016", 
+      "Laurent Orseau, Stuart Armstrong", 
+      "<a href=\"https://intelligence.org/files/Interruptibility.pdf\">Safely Interruptible Agents</a>", 
+      "UAI 2016", 
+      "AI, RL, safety", 
+      "n"
+    ], 
+    [
+      "15/06/2016", 
       "Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, Pieter Abbeeel", 
       "<a href=\"http://arxiv.org/pdf/1509.06113.pdf\">Deep Spatial Autoencoders for Visuomotor Learning</a>", 
       "ICRA 2016", 
