@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>  
+```17/06/2016, DL, CV```  
+```Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee, ICML 2016```  
 * <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
 ```17/06/2016, DL, dropout```  
 ```Sida I. Wang, Christopher D. Manning, ICML 2013```  
