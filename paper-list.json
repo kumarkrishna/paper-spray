@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "18/06/2016", 
+      "Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen", 
+      "<a href=\"http://arxiv.org/abs/1606.03498\">Improved Techniques for Training GANs</a>", 
+      "arXiv", 
+      "DL, GAN", 
+      "n"
+    ], 
+    [
       "17/06/2016", 
       "Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee", 
       "<a href=\"http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf\"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>", 

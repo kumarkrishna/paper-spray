@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1606.03498">Improved Techniques for Training GANs</a>  
+```18/06/2016, DL, GAN```  
+```Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen, arXiv```  
 * <a href="http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>  
 ```17/06/2016, DL, CV```  
 ```Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee, ICML 2016```  
