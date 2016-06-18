@@ -2,6 +2,14 @@
   "data": [
     [
       "18/06/2016", 
+      "Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel", 
+      "<a href=\"https://arxiv.org/abs/1606.03657\">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>", 
+      "arXiv", 
+      "DL, InfoGAN", 
+      "n"
+    ], 
+    [
+      "18/06/2016", 
       "Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen", 
       "<a href=\"http://arxiv.org/abs/1606.03498\">Improved Techniques for Training GANs</a>", 
       "arXiv", 
