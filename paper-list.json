@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "17/09/2015", 
+      "Duyu Tang, Bing Qin\u2217", 
+      "<a href=\"http://ir.hit.edu.cn/~dytang/paper/emnlp2015/emnlp2015.pdf\">Document Modeling with Gated Recurrent Neural Network for Sentiment Classification</a>", 
+      ", Ting LiuEMNLP2015", 
+      "NLP, DL", 
+      "n"
+    ], 
+    [
       "15/04/2016", 
       "Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo", 
       "<a href=\"http://arxiv.org/pdf/1604.04378v1.pdf\">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>", 
