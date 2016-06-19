@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "19/06/2016", 
+      "Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov", 
+      "<a href=\"http://arxiv.org/abs/1511.02793\">Generating Images from Captions with Attention</a>", 
+      "ICLR 2016", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
       "18/06/2016", 
       "Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel", 
       "<a href=\"https://arxiv.org/abs/1606.03657\">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>", 

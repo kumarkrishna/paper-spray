@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1511.02793">Generating Images from Captions with Attention</a>  
+```19/06/2016, CV, DL```  
+```Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov, ICLR 2016```  
 * <a href="https://arxiv.org/abs/1606.03657">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>  
 ```18/06/2016, DL, InfoGAN```  
 ```Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel, arXiv```  
