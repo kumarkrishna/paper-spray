@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1506.02557">Variational Dropout and the Local Reparameterization Trick</a>  
+```19/06/2016, DL, dropout```  
+```Diederik P. Kingma, Tim Salimans, Max Welling, NIPS 2015```  
 * <a href="http://arxiv.org/abs/1505.01121">Ask Your Neurons: A Neural-based Approach to Answering Questions about Images</a>  
 ```19/06/2016, CV, DL, NLP```  
 ```Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, ICCV 2015```  
