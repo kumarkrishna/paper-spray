@@ -34,6 +34,72 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
+```17/06/2016, DL, dropout```  
+```Sida I. Wang, Christopher D. Manning, ICML 2013```  
+* <a href="https://www.semanticscholar.org/paper/Stating-the-Obvious-Extracting-Visual-Common-Sense-Yatskar-Ordonez/0dcc768631d9ede8a3679e980b37204b782781b2/pdf">Stating the Obvious: Extracting Visual Common Sense Knowledge</a>  
+```15/06/2016, DL, NLP```  
+```Mark Yatskar, Vicente Ordonez, Ali Farhadi, NAACL 2016```  
+* <a href="https://arxiv.org/abs/1605.06676">Learning to Communicate with Deep Multi-Agent Reinforcement Learning</a>  
+```15/06/2016, DL, RL```  
+```Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson, arXiv```  
+* <a href="https://intelligence.org/files/Interruptibility.pdf">Safely Interruptible Agents</a>  
+```15/06/2016, AI, RL, safety```  
+```Laurent Orseau, Stuart Armstrong, UAI 2016```  
+* <a href="http://arxiv.org/pdf/1509.06113.pdf">Deep Spatial Autoencoders for Visuomotor Learning</a>  
+```15/06/2016, CV, DL, RL, robotics```  
+```Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, Pieter Abbeeel, ICRA 2016```  
+* <a href="https://arxiv.org/pdf/1604.00676.pdf">Multi-Bias Non-linear Activation in Deep Neural Networks</a>  
+```15/06/2016, ML, DL, activation function```  
+```Hongyang Li, Wanli Ouyang, Xiaogang Wang, ICML 2016```  
+* <a href="http://arxiv.org/pdf/1511.07275.pdf">Learning Simple Algorithms from Examples</a>  
+```15/06/2016, ML, DL, AI```  
+```Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus, ICML 2016```  
+* <a href="http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf">Extracting and Composing Robust Features with Denoising Autoencoders</a>  
+```15/06/2016, DL, DAE```  
+```Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol, ICML 2008```  
+* <a href="http://arxiv.org/abs/1602.07019">Sentence Similarity Learning by Lexical Decomposition and Composition</a>  
+```14/06/2016, DL, NLP```  
+```Zhiguo Wang, Haitao Mi, Abraham Ittycheriah, arXiv```  
+* <a href="http://arxiv.org/abs/1511.06811">Learning visual groups from co-occurrences in space and time</a>  
+```14/06/2016, CV, DL```  
+```Phillip Isola, Daniel Zoran, Dilip Krishnan, Edward H. Adelson, ICLR 2016```  
+* <a href="https://arxiv.org/abs/1605.08104">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>  
+```14/06/2016, CV, DL```  
+```William Lotter, Gabriel Kreiman, David Cox, arxiv```  
+* <a href="http://arxiv.org/abs/1606.04080">Matching Networks for One Shot Learning</a>  
+```14/06/2016, DL, one-shot```  
+```Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra, arxiv```  
+* <a href="https://arxiv.org/abs/1512.07679">Deep Reinforcement Learning in Large Discrete Action Spaces</a>  
+```14/06/2016, DL, RL```  
+```Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin, arxiv```  
+* <a href="http://arxiv.org/abs/1603.06277">Composing graphical models with neural networks for structured representations and fast inference</a>  
+```14/06/2016, DL, graphical-models```  
+```Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams, arXiv```  
+* <a href="http://arxiv.org/pdf/1506.06726v1.pdf">Skip-Thought Vectors</a>  
+```13/06/2016, DL, NLP```  
+```Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler, NIPS 2015```  
+* <a href="http://arxiv.org/pdf/1512.08512.pdf">Visually Indicated Sounds</a>  
+```12/06/2016, CV, DL```  
+```Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman, CVPR 2016```  
+* <a href="https://arxiv.org/pdf/1502.04623v2.pdf">DRAW: A Recurrent Neural Network for Image Generation</a>  
+```11/06/2016, CV, DL, DRAW```  
+```Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, JMLR 2015```  
+* <a href="http://arxiv.org/pdf/1511.07838v7.pdf">Dynamic Capacity Networks</a>  
+```10/06/2016, DL```  
+```Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville, JMLR, 2016```  
+* <a href="https://arxiv.org/pdf/1412.7210.pdf">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>  
+```10/06/2016, CV, DL, ladder-networks```  
+```Antii Rasmus, Tapani Raiko, Harri Valpola, ICLR 2015```  
+* <a href="https://arxiv.org/pdf/1511.06434v2.pdf">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>  
+```10/06/2016, CV, DL, DCGAN```  
+```Alec Radford, Luke Metz, Soumith Chintala, ICLR 2016```  
+* <a href="https://arxiv.org/pdf/1604.03357v1.pdf">Improving sentence compression by learning to predict gaze</a>  
+```09/06/2016, DL, NLP```  
+```Sigrid Klerke, Yoav Goldberg, Anders Sogaard, NAACL 2016, Best Short Paper```  
+* <a href="http://arxiv.org/pdf/1604.04378v1.pdf">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>  
+```08/06/2016, DL, NLP```  
+```Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo, IJCAI 2016```  
 * <a href="http://arxiv.org/abs/1506.05751">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>  
 ```08/06/2016, DL, CV, GAN, LAPGAN```  
 ```Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus, NIPS 2015```  
