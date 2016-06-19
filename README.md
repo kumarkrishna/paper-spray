@@ -34,6 +34,12 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf">Human-level control through deep reinforcement learning</a>  
+```26/02/2015, RL, AI, DL```  
+```Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Nature```  
+* <a href="http://arxiv.org/pdf/1503.04069v1.pdf">LSTM: A Search Space Odyssey</a>  
+```13/03/2015, DL, NLP```  
+```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv```  
 * <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
 ```17/06/2016, DL, dropout```  
 ```Sida I. Wang, Christopher D. Manning, ICML 2013```  
