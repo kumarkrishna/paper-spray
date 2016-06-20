@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1406.5298">Semi-Supervised Learning with Deep Generative Models</a>  
+```20/06/2016, DL, generative```  
+```Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling, NIPS 2014```  
 * <a href="http://arxiv.org/abs/1506.02557">Variational Dropout and the Local Reparameterization Trick</a>  
 ```19/06/2016, DL, dropout```  
 ```Diederik P. Kingma, Tim Salimans, Max Welling, NIPS 2015```  

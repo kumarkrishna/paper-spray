@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "20/06/2016", 
+      "Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling", 
+      "<a href=\"http://arxiv.org/abs/1406.5298\">Semi-Supervised Learning with Deep Generative Models</a>", 
+      "NIPS 2014", 
+      "DL, generative", 
+      "n"
+    ], 
+    [
       "19/06/2016", 
       "Diederik P. Kingma, Tim Salimans, Max Welling", 
       "<a href=\"http://arxiv.org/abs/1506.02557\">Variational Dropout and the Local Reparameterization Trick</a>", 
