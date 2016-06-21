@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "21/06/2016", 
+      "Danilo Jimenez Rezende, Shakir Mohamed", 
+      "<a href=\"http://arxiv.org/abs/1505.05770\">Variational Inference with Normalizing Flows</a>", 
+      "ICML 2015", 
+      "DL, VAE, inference", 
+      "n"
+    ], 
+    [
       "20/06/2016", 
       "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio", 
       "<a href=\"http://arxiv.org/abs/1506.02216\">A Recurrent Latent Variable Model for Sequential Data</a>", 
