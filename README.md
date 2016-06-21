@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1606.03476">Generative Adversarial Imitation Learning</a>  
+```21/06/2016, DL, generative```  
+```Jonathan Ho, Stefano Ermon, arXiv```  
 * <a href="https://arxiv.org/pdf/1606.00709v1.pdf">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>  
 ```21/06/2016, DL, GAN, f-GAN```  
 ```Sebastian Nowozin, Botond Cseke, Ryota Tomioka, arXiv```  

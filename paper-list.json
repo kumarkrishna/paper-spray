@@ -2,6 +2,14 @@
   "data": [
     [
       "21/06/2016", 
+      "Jonathan Ho, Stefano Ermon", 
+      "<a href=\"http://arxiv.org/abs/1606.03476\">Generative Adversarial Imitation Learning</a>", 
+      "arXiv", 
+      "DL, generative", 
+      "n"
+    ], 
+    [
+      "21/06/2016", 
       "Sebastian Nowozin, Botond Cseke, Ryota Tomioka", 
       "<a href=\"https://arxiv.org/pdf/1606.00709v1.pdf\">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>", 
       "arXiv", 
