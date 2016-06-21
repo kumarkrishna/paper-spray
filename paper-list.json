@@ -2,6 +2,14 @@
   "data": [
     [
       "21/06/2016", 
+      "Sebastian Nowozin, Botond Cseke, Ryota Tomioka", 
+      "<a href=\"https://arxiv.org/pdf/1606.00709v1.pdf\">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>", 
+      "arXiv", 
+      "DL, GAN, f-GAN", 
+      "n"
+    ], 
+    [
+      "21/06/2016", 
       "Danilo Jimenez Rezende, Shakir Mohamed", 
       "<a href=\"http://arxiv.org/abs/1505.05770\">Variational Inference with Normalizing Flows</a>", 
       "ICML 2015", 
