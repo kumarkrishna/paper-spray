@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1506.02216">A Recurrent Latent Variable Model for Sequential Data</a>  
+```20/06/2016, DL, VRNN```  
+```Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio, NIPS 2015```  
 * <a href="http://arxiv.org/abs/1406.5298">Semi-Supervised Learning with Deep Generative Models</a>  
 ```20/06/2016, DL, generative```  
 ```Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling, NIPS 2014```  
