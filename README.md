@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1502.08029">Describing Videos by Exploiting Temporal Structure</a>  
+```22/06/2016, CV, DL, video```  
+```Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville, ICCV 2015```  
 * <a href="http://arxiv.org/abs/1606.03476">Generative Adversarial Imitation Learning</a>  
 ```21/06/2016, DL, generative```  
 ```Jonathan Ho, Stefano Ermon, arXiv```  

@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "22/06/2016", 
+      "Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville", 
+      "<a href=\"http://arxiv.org/abs/1502.08029\">Describing Videos by Exploiting Temporal Structure</a>", 
+      "ICCV 2015", 
+      "CV, DL, video", 
+      "n"
+    ], 
+    [
       "21/06/2016", 
       "Jonathan Ho, Stefano Ermon", 
       "<a href=\"http://arxiv.org/abs/1606.03476\">Generative Adversarial Imitation Learning</a>", 
