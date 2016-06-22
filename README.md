@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1603.01417">Dynamic Memory Networks for Visual and Textual Question Answering</a>  
+```22/06/2016, CV, DL, NLP, MemNets```  
+```Caiming Xiong, Stephen Merity, Richard Socher, ICML 2016```  
 * <a href="http://arxiv.org/abs/1511.06432">Delving Deeper into Convolutional Networks for Learning Video Representations</a>  
 ```22/06/2016, CV, DL , videos```  
 ```Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville, ICLR 2016```  

@@ -2,6 +2,14 @@
   "data": [
     [
       "22/06/2016", 
+      "Caiming Xiong, Stephen Merity, Richard Socher", 
+      "<a href=\"http://arxiv.org/abs/1603.01417\">Dynamic Memory Networks for Visual and Textual Question Answering</a>", 
+      "ICML 2016", 
+      "CV, DL, NLP, MemNets", 
+      "n"
+    ], 
+    [
+      "22/06/2016", 
       "Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville", 
       "<a href=\"http://arxiv.org/abs/1511.06432\">Delving Deeper into Convolutional Networks for Learning Video Representations</a>", 
       "ICLR 2016", 
