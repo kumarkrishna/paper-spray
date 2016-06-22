@@ -2,6 +2,14 @@
   "data": [
     [
       "22/06/2016", 
+      "Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville", 
+      "<a href=\"http://arxiv.org/abs/1511.06432\">Delving Deeper into Convolutional Networks for Learning Video Representations</a>", 
+      "ICLR 2016", 
+      "CV, DL , videos", 
+      "n"
+    ], 
+    [
+      "22/06/2016", 
       "Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville", 
       "<a href=\"http://arxiv.org/abs/1502.08029\">Describing Videos by Exploiting Temporal Structure</a>", 
       "ICCV 2015", 
