@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1606.05908">Tutorial on Variational Autoencoders</a>  
+```22/06/2016, DL, VAE```  
+```Carl Doersch, arXiv```  
 * <a href="https://arxiv.org/abs/1604.08772">Towards Conceptual Compression</a>  
 ```22/06/2016, DL```  
 ```Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra, arXiv```  

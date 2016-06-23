@@ -2,6 +2,14 @@
   "data": [
     [
       "22/06/2016", 
+      "Carl Doersch", 
+      "<a href=\"http://arxiv.org/abs/1606.05908\">Tutorial on Variational Autoencoders</a>", 
+      "arXiv", 
+      "DL, VAE", 
+      "n"
+    ], 
+    [
+      "22/06/2016", 
       "Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra", 
       "<a href=\"https://arxiv.org/abs/1604.08772\">Towards Conceptual Compression</a>", 
       "arXiv", 
