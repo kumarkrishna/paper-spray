@@ -2,6 +2,14 @@
   "data": [
     [
       "22/06/2016", 
+      "Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra", 
+      "<a href=\"https://arxiv.org/abs/1604.08772\">Towards Conceptual Compression</a>", 
+      "arXiv", 
+      "DL", 
+      "n"
+    ], 
+    [
+      "22/06/2016", 
       "Caiming Xiong, Stephen Merity, Richard Socher", 
       "<a href=\"http://arxiv.org/abs/1603.01417\">Dynamic Memory Networks for Visual and Textual Question Answering</a>", 
       "ICML 2016", 

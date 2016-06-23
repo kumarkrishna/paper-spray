@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1604.08772">Towards Conceptual Compression</a>  
+```22/06/2016, DL```  
+```Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra, arXiv```  
 * <a href="http://arxiv.org/abs/1603.01417">Dynamic Memory Networks for Visual and Textual Question Answering</a>  
 ```22/06/2016, CV, DL, NLP, MemNets```  
 ```Caiming Xiong, Stephen Merity, Richard Socher, ICML 2016```  
