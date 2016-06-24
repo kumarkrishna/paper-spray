@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://visualgenome.org/static/paper/Visual_Genome.pdf">Visual Genome</a>  
+```24/06/2016, vision, nlp multimodal dataset```  
+```Ranjay Krishna et. al., Dataset```  
 * <a href="http://arxiv.org/pdf/1511.07404.pdf">Learning Visual Predictive Models of Physics for Playing Billiards</a>  
 ```23/06/2016, CV, DL```  
 ```Katerina Fragkiadaki, Pulkit Agrawal, Sergey Levine, Jitendra Malik, ICLR 2016```  
