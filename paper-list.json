@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "23/06/2016", 
+      "Katerina Fragkiadaki, Pulkit Agrawal, Sergey Levine, Jitendra Malik", 
+      "<a href=\"http://arxiv.org/pdf/1511.07404.pdf\">Learning Visual Predictive Models of Physics for Playing Billiards</a>", 
+      "ICLR 2016", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
       "22/06/2016", 
       "Carl Doersch", 
       "<a href=\"http://arxiv.org/abs/1606.05908\">Tutorial on Variational Autoencoders</a>", 
