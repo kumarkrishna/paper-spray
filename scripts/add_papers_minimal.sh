@@ -1,4 +1,6 @@
 
+set -e
+
 git pull origin master
 
 python scripts/add_papers.py
