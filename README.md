@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf">Adaptive Online Gradient Descent</a>  
+```25/06/2016, optimization, gradient descent```  
+```Peter L. Bartlett, Elad Hazan, Alexander Rakhlin, NIPS 2007```  
 * <a href="https://visualgenome.org/static/paper/Visual_Genome.pdf">Visual Genome</a>  
 ```24/06/2016, vision, nlp multimodal dataset```  
 ```Ranjay Krishna et. al., Dataset```  

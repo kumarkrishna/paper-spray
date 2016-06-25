@@ -1,851 +1,859 @@
 {
   "data": [
     [
-      "24/06/2016",
-      "Ranjay Krishna et. al.",
-      "<a href=\"https://visualgenome.org/static/paper/Visual_Genome.pdf\">Visual Genome</a>",
-      "Dataset",
-      "vision, nlp multimodal dataset",
+      "25/06/2016", 
+      "Peter L. Bartlett, Elad Hazan, Alexander Rakhlin", 
+      "<a href=\"http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf\">Adaptive Online Gradient Descent</a>", 
+      "NIPS 2007", 
+      "optimization, gradient descent", 
       "n"
-    ],
+    ], 
     [
-      "23/06/2016",
-      "Katerina Fragkiadaki, Pulkit Agrawal, Sergey Levine, Jitendra Malik",
-      "<a href=\"http://arxiv.org/pdf/1511.07404.pdf\">Learning Visual Predictive Models of Physics for Playing Billiards</a>",
-      "ICLR 2016",
-      "CV, DL",
+      "24/06/2016", 
+      "Ranjay Krishna et. al.", 
+      "<a href=\"https://visualgenome.org/static/paper/Visual_Genome.pdf\">Visual Genome</a>", 
+      "Dataset", 
+      "vision, nlp multimodal dataset", 
       "n"
-    ],
+    ], 
     [
-      "22/06/2016",
-      "Carl Doersch",
-      "<a href=\"http://arxiv.org/abs/1606.05908\">Tutorial on Variational Autoencoders</a>",
-      "arXiv",
-      "DL, VAE",
+      "23/06/2016", 
+      "Katerina Fragkiadaki, Pulkit Agrawal, Sergey Levine, Jitendra Malik", 
+      "<a href=\"http://arxiv.org/pdf/1511.07404.pdf\">Learning Visual Predictive Models of Physics for Playing Billiards</a>", 
+      "ICLR 2016", 
+      "CV, DL", 
       "n"
-    ],
+    ], 
     [
-      "22/06/2016",
-      "Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra",
-      "<a href=\"https://arxiv.org/abs/1604.08772\">Towards Conceptual Compression</a>",
-      "arXiv",
-      "DL",
+      "22/06/2016", 
+      "Carl Doersch", 
+      "<a href=\"http://arxiv.org/abs/1606.05908\">Tutorial on Variational Autoencoders</a>", 
+      "arXiv", 
+      "DL, VAE", 
       "n"
-    ],
+    ], 
     [
-      "22/06/2016",
-      "Caiming Xiong, Stephen Merity, Richard Socher",
-      "<a href=\"http://arxiv.org/abs/1603.01417\">Dynamic Memory Networks for Visual and Textual Question Answering</a>",
-      "ICML 2016",
-      "CV, DL, NLP, MemNets",
+      "22/06/2016", 
+      "Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra", 
+      "<a href=\"https://arxiv.org/abs/1604.08772\">Towards Conceptual Compression</a>", 
+      "arXiv", 
+      "DL", 
       "n"
-    ],
+    ], 
     [
-      "22/06/2016",
-      "Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville",
-      "<a href=\"http://arxiv.org/abs/1511.06432\">Delving Deeper into Convolutional Networks for Learning Video Representations</a>",
-      "ICLR 2016",
-      "CV, DL , videos",
+      "22/06/2016", 
+      "Caiming Xiong, Stephen Merity, Richard Socher", 
+      "<a href=\"http://arxiv.org/abs/1603.01417\">Dynamic Memory Networks for Visual and Textual Question Answering</a>", 
+      "ICML 2016", 
+      "CV, DL, NLP, MemNets", 
       "n"
-    ],
+    ], 
     [
-      "22/06/2016",
-      "Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville",
-      "<a href=\"http://arxiv.org/abs/1502.08029\">Describing Videos by Exploiting Temporal Structure</a>",
-      "ICCV 2015",
-      "CV, DL, video",
+      "22/06/2016", 
+      "Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville", 
+      "<a href=\"http://arxiv.org/abs/1511.06432\">Delving Deeper into Convolutional Networks for Learning Video Representations</a>", 
+      "ICLR 2016", 
+      "CV, DL , videos", 
       "n"
-    ],
+    ], 
     [
-      "21/06/2016",
-      "Jonathan Ho, Stefano Ermon",
-      "<a href=\"http://arxiv.org/abs/1606.03476\">Generative Adversarial Imitation Learning</a>",
-      "arXiv",
-      "DL, generative",
+      "22/06/2016", 
+      "Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville", 
+      "<a href=\"http://arxiv.org/abs/1502.08029\">Describing Videos by Exploiting Temporal Structure</a>", 
+      "ICCV 2015", 
+      "CV, DL, video", 
       "n"
-    ],
+    ], 
     [
-      "21/06/2016",
-      "Sebastian Nowozin, Botond Cseke, Ryota Tomioka",
-      "<a href=\"https://arxiv.org/pdf/1606.00709v1.pdf\">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>",
-      "arXiv",
-      "DL, GAN, f-GAN",
+      "21/06/2016", 
+      "Jonathan Ho, Stefano Ermon", 
+      "<a href=\"http://arxiv.org/abs/1606.03476\">Generative Adversarial Imitation Learning</a>", 
+      "arXiv", 
+      "DL, generative", 
       "n"
-    ],
+    ], 
     [
-      "21/06/2016",
-      "Danilo Jimenez Rezende, Shakir Mohamed",
-      "<a href=\"http://arxiv.org/abs/1505.05770\">Variational Inference with Normalizing Flows</a>",
-      "ICML 2015",
-      "DL, VAE, inference",
+      "21/06/2016", 
+      "Sebastian Nowozin, Botond Cseke, Ryota Tomioka", 
+      "<a href=\"https://arxiv.org/pdf/1606.00709v1.pdf\">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>", 
+      "arXiv", 
+      "DL, GAN, f-GAN", 
       "n"
-    ],
+    ], 
     [
-      "20/06/2016",
-      "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio",
-      "<a href=\"http://arxiv.org/abs/1506.02216\">A Recurrent Latent Variable Model for Sequential Data</a>",
-      "NIPS 2015",
-      "DL, VRNN",
+      "21/06/2016", 
+      "Danilo Jimenez Rezende, Shakir Mohamed", 
+      "<a href=\"http://arxiv.org/abs/1505.05770\">Variational Inference with Normalizing Flows</a>", 
+      "ICML 2015", 
+      "DL, VAE, inference", 
       "n"
-    ],
+    ], 
     [
-      "20/06/2016",
-      "Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling",
-      "<a href=\"http://arxiv.org/abs/1406.5298\">Semi-Supervised Learning with Deep Generative Models</a>",
-      "NIPS 2014",
-      "DL, generative",
+      "20/06/2016", 
+      "Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio", 
+      "<a href=\"http://arxiv.org/abs/1506.02216\">A Recurrent Latent Variable Model for Sequential Data</a>", 
+      "NIPS 2015", 
+      "DL, VRNN", 
       "n"
-    ],
+    ], 
     [
-      "19/06/2016",
-      "Diederik P. Kingma, Tim Salimans, Max Welling",
-      "<a href=\"http://arxiv.org/abs/1506.02557\">Variational Dropout and the Local Reparameterization Trick</a>",
-      "NIPS 2015",
-      "DL, dropout",
+      "20/06/2016", 
+      "Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling", 
+      "<a href=\"http://arxiv.org/abs/1406.5298\">Semi-Supervised Learning with Deep Generative Models</a>", 
+      "NIPS 2014", 
+      "DL, generative", 
       "n"
-    ],
+    ], 
     [
-      "19/06/2016",
-      "Mateusz Malinowski, Marcus Rohrbach, Mario Fritz",
-      "<a href=\"http://arxiv.org/abs/1505.01121\">Ask Your Neurons: A Neural-based Approach to Answering Questions about Images</a>",
-      "ICCV 2015",
-      "CV, DL, NLP",
+      "19/06/2016", 
+      "Diederik P. Kingma, Tim Salimans, Max Welling", 
+      "<a href=\"http://arxiv.org/abs/1506.02557\">Variational Dropout and the Local Reparameterization Trick</a>", 
+      "NIPS 2015", 
+      "DL, dropout", 
       "n"
-    ],
+    ], 
     [
-      "19/06/2016",
-      "Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov",
-      "<a href=\"http://arxiv.org/abs/1511.02793\">Generating Images from Captions with Attention</a>",
-      "ICLR 2016",
-      "CV, DL",
+      "19/06/2016", 
+      "Mateusz Malinowski, Marcus Rohrbach, Mario Fritz", 
+      "<a href=\"http://arxiv.org/abs/1505.01121\">Ask Your Neurons: A Neural-based Approach to Answering Questions about Images</a>", 
+      "ICCV 2015", 
+      "CV, DL, NLP", 
       "n"
-    ],
+    ], 
     [
-      "18/06/2016",
-      "Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel",
-      "<a href=\"https://arxiv.org/abs/1606.03657\">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>",
-      "arXiv",
-      "DL, InfoGAN",
+      "19/06/2016", 
+      "Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov", 
+      "<a href=\"http://arxiv.org/abs/1511.02793\">Generating Images from Captions with Attention</a>", 
+      "ICLR 2016", 
+      "CV, DL", 
       "n"
-    ],
+    ], 
     [
-      "18/06/2016",
-      "Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen",
-      "<a href=\"http://arxiv.org/abs/1606.03498\">Improved Techniques for Training GANs</a>",
-      "arXiv",
-      "DL, GAN",
+      "18/06/2016", 
+      "Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel", 
+      "<a href=\"https://arxiv.org/abs/1606.03657\">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>", 
+      "arXiv", 
+      "DL, InfoGAN", 
       "n"
-    ],
+    ], 
     [
-      "17/06/2016",
-      "Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee",
-      "<a href=\"http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf\"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>",
-      "ICML 2016",
-      "DL, CV",
+      "18/06/2016", 
+      "Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen", 
+      "<a href=\"http://arxiv.org/abs/1606.03498\">Improved Techniques for Training GANs</a>", 
+      "arXiv", 
+      "DL, GAN", 
+      "n"
+    ], 
+    [
+      "17/06/2016", 
+      "Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee", 
+      "<a href=\"http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf\"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>", 
+      "ICML 2016", 
+      "DL, CV", 
       ""
-    ],
-    [
-      "17/06/2016",
-      "Sida I. Wang, Christopher D. Manning",
-      "<a href=\"http://nlp.stanford.edu/pubs/sidaw13fast.pdf\">Fast dropout training</a>",
-      "ICML 2013",
-      "DL, dropout",
+    ], 
+    [
+      "17/06/2016", 
+      "Sida I. Wang, Christopher D. Manning", 
+      "<a href=\"http://nlp.stanford.edu/pubs/sidaw13fast.pdf\">Fast dropout training</a>", 
+      "ICML 2013", 
+      "DL, dropout", 
       "n"
-    ],
-    [
-      "15/06/2016",
-      "Mark Yatskar, Vicente Ordonez, Ali Farhadi",
-      "<a href=\"https://www.semanticscholar.org/paper/Stating-the-Obvious-Extracting-Visual-Common-Sense-Yatskar-Ordonez/0dcc768631d9ede8a3679e980b37204b782781b2/pdf\">Stating the Obvious: Extracting Visual Common Sense Knowledge</a>",
-      "NAACL 2016",
-      "DL, NLP",
+    ], 
+    [
+      "15/06/2016", 
+      "Mark Yatskar, Vicente Ordonez, Ali Farhadi", 
+      "<a href=\"https://www.semanticscholar.org/paper/Stating-the-Obvious-Extracting-Visual-Common-Sense-Yatskar-Ordonez/0dcc768631d9ede8a3679e980b37204b782781b2/pdf\">Stating the Obvious: Extracting Visual Common Sense Knowledge</a>", 
+      "NAACL 2016", 
+      "DL, NLP", 
       "n"
-    ],
-    [
-      "15/06/2016",
-      "Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson",
-      "<a href=\"https://arxiv.org/abs/1605.06676\">Learning to Communicate with Deep Multi-Agent Reinforcement Learning</a>",
-      "arXiv",
-      "DL, RL",
+    ], 
+    [
+      "15/06/2016", 
+      "Jakob N. Foerster, Yannis M. Assael, Nando de Freitas, Shimon Whiteson", 
+      "<a href=\"https://arxiv.org/abs/1605.06676\">Learning to Communicate with Deep Multi-Agent Reinforcement Learning</a>", 
+      "arXiv", 
+      "DL, RL", 
       "n"
-    ],
-    [
-      "15/06/2016",
-      "Laurent Orseau, Stuart Armstrong",
-      "<a href=\"https://intelligence.org/files/Interruptibility.pdf\">Safely Interruptible Agents</a>",
-      "UAI 2016",
-      "AI, RL, safety",
+    ], 
+    [
+      "15/06/2016", 
+      "Laurent Orseau, Stuart Armstrong", 
+      "<a href=\"https://intelligence.org/files/Interruptibility.pdf\">Safely Interruptible Agents</a>", 
+      "UAI 2016", 
+      "AI, RL, safety", 
       "n"
-    ],
-    [
-      "15/06/2016",
-      "Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, Pieter Abbeeel",
-      "<a href=\"http://arxiv.org/pdf/1509.06113.pdf\">Deep Spatial Autoencoders for Visuomotor Learning</a>",
-      "ICRA 2016",
-      "CV, DL, RL, robotics",
+    ], 
+    [
+      "15/06/2016", 
+      "Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine, Pieter Abbeeel", 
+      "<a href=\"http://arxiv.org/pdf/1509.06113.pdf\">Deep Spatial Autoencoders for Visuomotor Learning</a>", 
+      "ICRA 2016", 
+      "CV, DL, RL, robotics", 
       "n"
-    ],
-    [
-      "15/06/2016",
-      "Hongyang Li, Wanli Ouyang, Xiaogang Wang",
-      "<a href=\"https://arxiv.org/pdf/1604.00676.pdf\">Multi-Bias Non-linear Activation in Deep Neural Networks</a>",
-      "ICML 2016",
-      "ML, DL, activation function",
+    ], 
+    [
+      "15/06/2016", 
+      "Hongyang Li, Wanli Ouyang, Xiaogang Wang", 
+      "<a href=\"https://arxiv.org/pdf/1604.00676.pdf\">Multi-Bias Non-linear Activation in Deep Neural Networks</a>", 
+      "ICML 2016", 
+      "ML, DL, activation function", 
       "n"
-    ],
-    [
-      "15/06/2016",
-      "Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus",
-      "<a href=\"http://arxiv.org/pdf/1511.07275.pdf\">Learning Simple Algorithms from Examples</a>",
-      "ICML 2016",
-      "ML, DL, AI",
+    ], 
+    [
+      "15/06/2016", 
+      "Wojciech Zaremba, Tomas Mikolov, Armand Joulin, Rob Fergus", 
+      "<a href=\"http://arxiv.org/pdf/1511.07275.pdf\">Learning Simple Algorithms from Examples</a>", 
+      "ICML 2016", 
+      "ML, DL, AI", 
       "n"
-    ],
-    [
-      "15/06/2016",
-      "Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol",
-      "<a href=\"http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf\">Extracting and Composing Robust Features with Denoising Autoencoders</a>",
-      "ICML 2008",
-      "DL, DAE",
+    ], 
+    [
+      "15/06/2016", 
+      "Pascal Vincent, Hugo Larochelle, Yoshua Bengio, Pierre-Antoine Manzagol", 
+      "<a href=\"http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf\">Extracting and Composing Robust Features with Denoising Autoencoders</a>", 
+      "ICML 2008", 
+      "DL, DAE", 
       "n"
-    ],
-    [
-      "14/06/2016",
-      "Zhiguo Wang, Haitao Mi, Abraham Ittycheriah",
-      "<a href=\"http://arxiv.org/abs/1602.07019\">Sentence Similarity Learning by Lexical Decomposition and Composition</a>",
-      "arXiv",
-      "DL, NLP",
+    ], 
+    [
+      "14/06/2016", 
+      "Zhiguo Wang, Haitao Mi, Abraham Ittycheriah", 
+      "<a href=\"http://arxiv.org/abs/1602.07019\">Sentence Similarity Learning by Lexical Decomposition and Composition</a>", 
+      "arXiv", 
+      "DL, NLP", 
       "n"
-    ],
-    [
-      "14/06/2016",
-      "Phillip Isola, Daniel Zoran, Dilip Krishnan, Edward H. Adelson",
-      "<a href=\"http://arxiv.org/abs/1511.06811\">Learning visual groups from co-occurrences in space and time</a>",
-      "ICLR 2016",
-      "CV, DL",
+    ], 
+    [
+      "14/06/2016", 
+      "Phillip Isola, Daniel Zoran, Dilip Krishnan, Edward H. Adelson", 
+      "<a href=\"http://arxiv.org/abs/1511.06811\">Learning visual groups from co-occurrences in space and time</a>", 
+      "ICLR 2016", 
+      "CV, DL", 
       "n"
-    ],
-    [
-      "14/06/2016",
-      "William Lotter, Gabriel Kreiman, David Cox",
-      "<a href=\"https://arxiv.org/abs/1605.08104\">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>",
-      "arxiv",
-      "CV, DL",
+    ], 
+    [
+      "14/06/2016", 
+      "William Lotter, Gabriel Kreiman, David Cox", 
+      "<a href=\"https://arxiv.org/abs/1605.08104\">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>", 
+      "arxiv", 
+      "CV, DL", 
       "n"
-    ],
-    [
-      "14/06/2016",
-      "Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra",
-      "<a href=\"http://arxiv.org/abs/1606.04080\">Matching Networks for One Shot Learning</a>",
-      "arxiv",
-      "DL, one-shot",
+    ], 
+    [
+      "14/06/2016", 
+      "Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra", 
+      "<a href=\"http://arxiv.org/abs/1606.04080\">Matching Networks for One Shot Learning</a>", 
+      "arxiv", 
+      "DL, one-shot", 
       "n"
-    ],
-    [
-      "14/06/2016",
-      "Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin",
-      "<a href=\"https://arxiv.org/abs/1512.07679\">Deep Reinforcement Learning in Large Discrete Action Spaces</a>",
-      "arxiv",
-      "DL, RL",
+    ], 
+    [
+      "14/06/2016", 
+      "Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt, Timothy Mann, Theophane Weber, Thomas Degris, Ben Coppin", 
+      "<a href=\"https://arxiv.org/abs/1512.07679\">Deep Reinforcement Learning in Large Discrete Action Spaces</a>", 
+      "arxiv", 
+      "DL, RL", 
       "n"
-    ],
-    [
-      "14/06/2016",
-      "Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams",
-      "<a href=\"http://arxiv.org/abs/1603.06277\">Composing graphical models with neural networks for structured representations and fast inference</a>",
-      "arXiv",
-      "DL, graphical-models",
+    ], 
+    [
+      "14/06/2016", 
+      "Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams", 
+      "<a href=\"http://arxiv.org/abs/1603.06277\">Composing graphical models with neural networks for structured representations and fast inference</a>", 
+      "arXiv", 
+      "DL, graphical-models", 
       "n"
-    ],
-    [
-      "13/06/2016",
-      "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler",
-      "<a href=\"http://arxiv.org/pdf/1506.06726v1.pdf\">Skip-Thought Vectors</a>",
-      "NIPS 2015",
-      "DL, NLP",
+    ], 
+    [
+      "13/06/2016", 
+      "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler", 
+      "<a href=\"http://arxiv.org/pdf/1506.06726v1.pdf\">Skip-Thought Vectors</a>", 
+      "NIPS 2015", 
+      "DL, NLP", 
       "n"
-    ],
-    [
-      "12/06/2016",
-      "Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman",
-      "<a href=\"http://arxiv.org/pdf/1512.08512.pdf\">Visually Indicated Sounds</a>",
-      "CVPR 2016",
-      "CV, DL",
+    ], 
+    [
+      "12/06/2016", 
+      "Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman", 
+      "<a href=\"http://arxiv.org/pdf/1512.08512.pdf\">Visually Indicated Sounds</a>", 
+      "CVPR 2016", 
+      "CV, DL", 
       "n"
-    ],
-    [
-      "11/06/2016",
-      "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra",
-      "<a href=\"https://arxiv.org/pdf/1502.04623v2.pdf\">DRAW: A Recurrent Neural Network for Image Generation</a>",
-      "JMLR 2015",
-      "CV, DL, DRAW",
+    ], 
+    [
+      "11/06/2016", 
+      "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra", 
+      "<a href=\"https://arxiv.org/pdf/1502.04623v2.pdf\">DRAW: A Recurrent Neural Network for Image Generation</a>", 
+      "JMLR 2015", 
+      "CV, DL, DRAW", 
       "n"
-    ],
-    [
-      "10/06/2016",
-      "Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville",
-      "<a href=\"http://arxiv.org/pdf/1511.07838v7.pdf\">Dynamic Capacity Networks</a>",
-      "JMLR, 2016",
-      "DL",
+    ], 
+    [
+      "10/06/2016", 
+      "Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville", 
+      "<a href=\"http://arxiv.org/pdf/1511.07838v7.pdf\">Dynamic Capacity Networks</a>", 
+      "JMLR, 2016", 
+      "DL", 
       "n"
-    ],
-    [
-      "10/06/2016",
-      "Antii Rasmus, Tapani Raiko, Harri Valpola",
-      "<a href=\"https://arxiv.org/pdf/1412.7210.pdf\">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>",
-      "ICLR 2015",
-      "CV, DL, ladder-networks",
+    ], 
+    [
+      "10/06/2016", 
+      "Antii Rasmus, Tapani Raiko, Harri Valpola", 
+      "<a href=\"https://arxiv.org/pdf/1412.7210.pdf\">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>", 
+      "ICLR 2015", 
+      "CV, DL, ladder-networks", 
       "n"
-    ],
-    [
-      "10/06/2016",
-      "Alec Radford, Luke Metz, Soumith Chintala",
-      "<a href=\"https://arxiv.org/pdf/1511.06434v2.pdf\">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>",
-      "ICLR 2016",
-      "CV, DL, DCGAN",
+    ], 
+    [
+      "10/06/2016", 
+      "Alec Radford, Luke Metz, Soumith Chintala", 
+      "<a href=\"https://arxiv.org/pdf/1511.06434v2.pdf\">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>", 
+      "ICLR 2016", 
+      "CV, DL, DCGAN", 
       "n"
-    ],
-    [
-      "09/06/2016",
-      "Sigrid Klerke, Yoav Goldberg, Anders Sogaard",
-      "<a href=\"https://arxiv.org/pdf/1604.03357v1.pdf\">Improving sentence compression by learning to predict gaze</a>",
-      "NAACL 2016, Best Short Paper",
-      "DL, NLP",
+    ], 
+    [
+      "09/06/2016", 
+      "Sigrid Klerke, Yoav Goldberg, Anders Sogaard", 
+      "<a href=\"https://arxiv.org/pdf/1604.03357v1.pdf\">Improving sentence compression by learning to predict gaze</a>", 
+      "NAACL 2016, Best Short Paper", 
+      "DL, NLP", 
       "n"
-    ],
-    [
-      "08/06/2016",
-      "Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo",
-      "<a href=\"http://arxiv.org/pdf/1604.04378v1.pdf\">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>",
-      "IJCAI 2016",
-      "DL, NLP",
+    ], 
+    [
+      "08/06/2016", 
+      "Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo", 
+      "<a href=\"http://arxiv.org/pdf/1604.04378v1.pdf\">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>", 
+      "IJCAI 2016", 
+      "DL, NLP", 
       "n"
-    ],
-    [
-      "08/06/2016",
-      "Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus",
-      "<a href=\"http://arxiv.org/abs/1506.05751\">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>",
-      "NIPS 2015",
-      "DL, CV, GAN, LAPGAN",
+    ], 
+    [
+      "08/06/2016", 
+      "Emily Denton, Soumith Chintala, Arthur Szlam, Rob Fergus", 
+      "<a href=\"http://arxiv.org/abs/1506.05751\">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>", 
+      "NIPS 2015", 
+      "DL, CV, GAN, LAPGAN", 
       "n"
-    ],
-    [
-      "08/06/2016",
-      "Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein",
-      "<a href=\"https://arxiv.org/pdf/1511.02799.pdf\">Neural Module Networks</a>",
-      "arXiv",
-      "DL, CV, visual QA",
+    ], 
+    [
+      "08/06/2016", 
+      "Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein", 
+      "<a href=\"https://arxiv.org/pdf/1511.02799.pdf\">Neural Module Networks</a>", 
+      "arXiv", 
+      "DL, CV, visual QA", 
       "n"
-    ],
-    [
-      "07/06/2016",
-      "Yoshua Bengio, Rejean Ducharme, Pascal Vincent, Christian Jauvin",
-      "<a href=\"http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf\">A Neural Probabilistic Language Model</a>",
-      "JMLR 2003",
-      "DL, NLP",
+    ], 
+    [
+      "07/06/2016", 
+      "Yoshua Bengio, Rejean Ducharme, Pascal Vincent, Christian Jauvin", 
+      "<a href=\"http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf\">A Neural Probabilistic Language Model</a>", 
+      "JMLR 2003", 
+      "DL, NLP", 
       "n"
-    ],
-    [
-      "07/06/2016",
-      "Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville",
-      "<a href=\"https://arxiv.org/pdf/1606.00704v1.pdf\">Adversarially Learned Inference</a>",
-      "Subt. NIPS 2016",
-      "ML, DL, inference, generative model",
+    ], 
+    [
+      "07/06/2016", 
+      "Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville", 
+      "<a href=\"https://arxiv.org/pdf/1606.00704v1.pdf\">Adversarially Learned Inference</a>", 
+      "Subt. NIPS 2016", 
+      "ML, DL, inference, generative model", 
       "n"
-    ],
-    [
-      "06/06/2016",
-      "Diederik P Kingma, Max Welling",
-      "<a href=\"https://arxiv.org/abs/1312.6114\">Auto-Encoding Variational Bayes</a>",
-      "ICLR 2014",
-      "VAE",
+    ], 
+    [
+      "06/06/2016", 
+      "Diederik P Kingma, Max Welling", 
+      "<a href=\"https://arxiv.org/abs/1312.6114\">Auto-Encoding Variational Bayes</a>", 
+      "ICLR 2014", 
+      "VAE", 
       "n"
-    ],
-    [
-      "06/06/2016",
-      "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay",
-      "<a href=\"http://arxiv.org/abs/1506.08941\">Language Understanding for Text-based Games Using Deep Reinforcement Learning</a>",
-      "EMNLP 2015",
-      "DL, NLP, RL",
+    ], 
+    [
+      "06/06/2016", 
+      "Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay", 
+      "<a href=\"http://arxiv.org/abs/1506.08941\">Language Understanding for Text-based Games Using Deep Reinforcement Learning</a>", 
+      "EMNLP 2015", 
+      "DL, NLP, RL", 
       "n"
-    ],
-    [
-      "06/06/2016",
-      "Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy, Noah A. Smith",
-      "<a href=\"http://arxiv.org/pdf/1411.4166v4.pdf\">Retrofitting Word Vectors to Semantic Lexicons</a>",
-      "NAACL 2015",
-      "NLP, word vectors",
+    ], 
+    [
+      "06/06/2016", 
+      "Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy, Noah A. Smith", 
+      "<a href=\"http://arxiv.org/pdf/1411.4166v4.pdf\">Retrofitting Word Vectors to Semantic Lexicons</a>", 
+      "NAACL 2015", 
+      "NLP, word vectors", 
       "n"
-    ],
-    [
-      "06/06/2016",
-      "Michael U. Gutmann, Aapo Hyvarinen",
-      "<a href=\"http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf\">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>",
-      "JMLR 2012",
-      "ML, non-parametric estimation",
+    ], 
+    [
+      "06/06/2016", 
+      "Michael U. Gutmann, Aapo Hyvarinen", 
+      "<a href=\"http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf\">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>", 
+      "JMLR 2012", 
+      "ML, non-parametric estimation", 
       "n"
-    ],
-    [
-      "06/06/2016",
-      "Geoffrey E. Hinton",
-      "<a href=\"http://www.cs.toronto.edu/~fritz/absps/nccd.pdf\">Training Products of Experts by Minimizing Contrastive Divergence</a>",
-      "Neural Computation 2002",
-      "ML, contrastive divergence",
+    ], 
+    [
+      "06/06/2016", 
+      "Geoffrey E. Hinton", 
+      "<a href=\"http://www.cs.toronto.edu/~fritz/absps/nccd.pdf\">Training Products of Experts by Minimizing Contrastive Divergence</a>", 
+      "Neural Computation 2002", 
+      "ML, contrastive divergence", 
       "n"
-    ],
-    [
-      "06/06/2016",
-      "Omer Levy, Yoav Goldberg",
-      "<a href=\"https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf\">Neural Word Embedding as Implicit Matrix Factorization</a>",
-      "NIPS 2014",
-      "DL, NLP, word vectors",
+    ], 
+    [
+      "06/06/2016", 
+      "Omer Levy, Yoav Goldberg", 
+      "<a href=\"https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf\">Neural Word Embedding as Implicit Matrix Factorization</a>", 
+      "NIPS 2014", 
+      "DL, NLP, word vectors", 
       "n"
-    ],
-    [
-      "05/06/2016",
-      "Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei AEfros",
-      "<a href=\"https://arxiv.org/pdf/1604.07379v1.pdf\">Context Encoders: Feature Learning by Inpainting</a>",
-      "CVPR 2016",
-      "CV, DL, context-encoder",
+    ], 
+    [
+      "05/06/2016", 
+      "Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei AEfros", 
+      "<a href=\"https://arxiv.org/pdf/1604.07379v1.pdf\">Context Encoders: Feature Learning by Inpainting</a>", 
+      "CVPR 2016", 
+      "CV, DL, context-encoder", 
       "n"
-    ],
-    [
-      "04/06/2016",
-      "Sepp Hochreiter, Jurgen Schmidhuber",
-      "<a href=\"http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf\">Long Short-term Memory</a>",
-      "Neural Computation, 1997",
-      "DL, RNN, LSTM",
+    ], 
+    [
+      "04/06/2016", 
+      "Sepp Hochreiter, Jurgen Schmidhuber", 
+      "<a href=\"http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf\">Long Short-term Memory</a>", 
+      "Neural Computation, 1997", 
+      "DL, RNN, LSTM", 
       "n"
-    ],
-    [
-      "03/06/2016",
-      "Ian Goodfellow, David Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio",
-      "<a href=\"https://arxiv.org/pdf/1302.4389v4.pdf\">Maxout Networks</a>",
-      "JMLR 2013",
-      "DL, dropout, maxout",
+    ], 
+    [
+      "03/06/2016", 
+      "Ian Goodfellow, David Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio", 
+      "<a href=\"https://arxiv.org/pdf/1302.4389v4.pdf\">Maxout Networks</a>", 
+      "JMLR 2013", 
+      "DL, dropout, maxout", 
       "n"
-    ],
-    [
-      "02/06/2016",
-      "Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber",
-      "<a href=\"http://arxiv.org/pdf/1402.3511v1.pdf\">A Clockwork RNN</a>",
-      "JMLR 2014",
-      "DL, RNN, clock-work",
+    ], 
+    [
+      "02/06/2016", 
+      "Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber", 
+      "<a href=\"http://arxiv.org/pdf/1402.3511v1.pdf\">A Clockwork RNN</a>", 
+      "JMLR 2014", 
+      "DL, RNN, clock-work", 
       "n"
-    ],
-    [
-      "02/06/2016",
-      "Jianpeng Cheng, Li Dong, Mirella Lapata",
-      "<a href=\"http://arxiv.org/pdf/1601.06733.pdf\">Long Short-Term Memory-Networks for Machine Reading</a>",
-      "",
-      "DL, NLP, machine understanding",
+    ], 
+    [
+      "02/06/2016", 
+      "Jianpeng Cheng, Li Dong, Mirella Lapata", 
+      "<a href=\"http://arxiv.org/pdf/1601.06733.pdf\">Long Short-Term Memory-Networks for Machine Reading</a>", 
+      "", 
+      "DL, NLP, machine understanding", 
       "n"
-    ],
-    [
-      "02/06/2016",
-      "Minh-Thang Luong, Hieu Pham, Christopher D. Manning",
-      "<a href=\"http://nlp.stanford.edu/pubs/emnlp15_attn.pdf\">Effective Approaches to Attention-based Neural Machine Translation</a>",
-      "EMNLP 2015",
-      "DL, NLP, neural machine translation",
+    ], 
+    [
+      "02/06/2016", 
+      "Minh-Thang Luong, Hieu Pham, Christopher D. Manning", 
+      "<a href=\"http://nlp.stanford.edu/pubs/emnlp15_attn.pdf\">Effective Approaches to Attention-based Neural Machine Translation</a>", 
+      "EMNLP 2015", 
+      "DL, NLP, neural machine translation", 
       "n"
-    ],
-    [
-      "02/06/2016",
-      "Alexander M. Rush, Sumit Chopra, Jason Weston",
-      "<a href=\"http://www.aclweb.org/anthology/D15-1044\">A Neural Attention Model for Sentence Summarization</a>",
-      "EMNLP 2015",
-      "DL, NLP, summarization",
+    ], 
+    [
+      "02/06/2016", 
+      "Alexander M. Rush, Sumit Chopra, Jason Weston", 
+      "<a href=\"http://www.aclweb.org/anthology/D15-1044\">A Neural Attention Model for Sentence Summarization</a>", 
+      "EMNLP 2015", 
+      "DL, NLP, summarization", 
       "n"
-    ],
-    [
-      "01/06/2016",
-      "Ronald Rensink, Kevin O'Regan, James Clark",
-      "<a href=\"http://www-devel.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/morereadings/PsychSci97-RR.pdf\">To See or not to See : The need for attention to perrceive changes in scenes</a>",
-      "Psychological Science, 1997",
-      "attention, vision",
+    ], 
+    [
+      "01/06/2016", 
+      "Ronald Rensink, Kevin O'Regan, James Clark", 
+      "<a href=\"http://www-devel.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/morereadings/PsychSci97-RR.pdf\">To See or not to See : The need for attention to perrceive changes in scenes</a>", 
+      "Psychological Science, 1997", 
+      "attention, vision", 
       "n"
-    ],
-    [
-      "01/06/2015",
-      "Mary Hayhoe, Dana Ballard",
-      "<a href=\"http://www.utexas.edu/cola/files/1515661\">Eye movements in natural behaviour</a>",
-      "Trends in Cognitive Sciences, 2005",
-      "eye-movement, attention",
+    ], 
+    [
+      "01/06/2015", 
+      "Mary Hayhoe, Dana Ballard", 
+      "<a href=\"http://www.utexas.edu/cola/files/1515661\">Eye movements in natural behaviour</a>", 
+      "Trends in Cognitive Sciences, 2005", 
+      "eye-movement, attention", 
       "n"
-    ],
-    [
-      "01/06/2016",
-      "Karl Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom",
-      "<a href=\"http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf\">Teaching Machines to Read and Comprehend</a>",
-      "NIPS 2015",
-      "DL, NLP, attention",
+    ], 
+    [
+      "01/06/2016", 
+      "Karl Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom", 
+      "<a href=\"http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf\">Teaching Machines to Read and Comprehend</a>", 
+      "NIPS 2015", 
+      "DL, NLP, attention", 
       "n"
-    ],
-    [
-      "01/06/2016",
-      "Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu",
-      "<a href=\"https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf\">Recurrent Models of Visual Attention</a>",
-      "NIPS 2014",
-      "CV, DL, RL, attention",
+    ], 
+    [
+      "01/06/2016", 
+      "Volodymyr Mnih, Nicolas Heess, Alex Graves, Koray Kavukcuoglu", 
+      "<a href=\"https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf\">Recurrent Models of Visual Attention</a>", 
+      "NIPS 2014", 
+      "CV, DL, RL, attention", 
       "n"
-    ],
-    [
-      "01/06/2016",
-      "Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein",
-      "<a href=\"https://arxiv.org/abs/1601.01705\">Learning to compose neural networks for question answering</a>",
-      "NAACL 2016 (best-paper)",
-      "DL, compose-NN, RL, QA",
+    ], 
+    [
+      "01/06/2016", 
+      "Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein", 
+      "<a href=\"https://arxiv.org/abs/1601.01705\">Learning to compose neural networks for question answering</a>", 
+      "NAACL 2016 (best-paper)", 
+      "DL, compose-NN, RL, QA", 
       "n"
-    ],
-    [
-      "01/06/2016",
-      "Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu",
-      "<a href=\"https://arxiv.org/abs/1602.01783\">Asynchronous Methods for Deep Reinforcement Learning</a>",
-      "2016",
-      "DL, RL",
+    ], 
+    [
+      "01/06/2016", 
+      "Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu", 
+      "<a href=\"https://arxiv.org/abs/1602.01783\">Asynchronous Methods for Deep Reinforcement Learning</a>", 
+      "2016", 
+      "DL, RL", 
       "n"
-    ],
-    [
-      "01/06/2016",
-      "Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio",
-      "<a href=\"http://arxiv.org/pdf/1605.08803v1.pdf\">Density estimation using Real NVP</a>",
-      "Google Brain",
-      "DL, latent space, image generation",
+    ], 
+    [
+      "01/06/2016", 
+      "Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio", 
+      "<a href=\"http://arxiv.org/pdf/1605.08803v1.pdf\">Density estimation using Real NVP</a>", 
+      "Google Brain", 
+      "DL, latent space, image generation", 
       "n"
-    ],
-    [
-      "01/06/2016",
-      "Jiquan Ngiam, Pang Wei Koh, Zhenghao Chen, Sonia Bhaskar, Andrew Y. Ng",
-      "<a href=\"https://papers.nips.cc/paper/4334-sparse-filtering.pdf\">Sparse Filtering</a>",
-      "NIPS 2011",
-      "ML, DL, sparse",
+    ], 
+    [
+      "01/06/2016", 
+      "Jiquan Ngiam, Pang Wei Koh, Zhenghao Chen, Sonia Bhaskar, Andrew Y. Ng", 
+      "<a href=\"https://papers.nips.cc/paper/4334-sparse-filtering.pdf\">Sparse Filtering</a>", 
+      "NIPS 2011", 
+      "ML, DL, sparse", 
       "n"
-    ],
-    [
-      "31/05/2016",
-      "Wojciech Zaremba",
-      "<a href=\"http://arxiv.org/pdf/1505.00521v3.pdf\">Reinforcement Learning Neural Turing Machines</a>",
-      "ICLR 2016",
-      "DL, NTM, RL",
+    ], 
+    [
+      "31/05/2016", 
+      "Wojciech Zaremba", 
+      "<a href=\"http://arxiv.org/pdf/1505.00521v3.pdf\">Reinforcement Learning Neural Turing Machines</a>", 
+      "ICLR 2016", 
+      "DL, NTM, RL", 
       "n"
-    ],
-    [
-      "31/05/2016",
-      "Zhouhan Lin, Matthieu Courbariaux, Roland Memisevic, Yoshua Bengio",
-      "<a href=\"https://arxiv.org/abs/1510.03009\">Neural Networks with Few Multiplications</a>",
-      "ICLR 2016",
-      "DL, optimization",
+    ], 
+    [
+      "31/05/2016", 
+      "Zhouhan Lin, Matthieu Courbariaux, Roland Memisevic, Yoshua Bengio", 
+      "<a href=\"https://arxiv.org/abs/1510.03009\">Neural Networks with Few Multiplications</a>", 
+      "ICLR 2016", 
+      "DL, optimization", 
       "n"
-    ],
-    [
-      "30/05/2016",
-      "Tomas Mikolov, Martin Karafiat, Lukas Burget, Jan Cernocky, Sanjeev Khudanpur",
-      "<a href=\"http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf\">Recurrent neural network based language model</a>",
-      "INTERSPEECH 2010",
-      "DL, NLP, RNN, language-model",
+    ], 
+    [
+      "30/05/2016", 
+      "Tomas Mikolov, Martin Karafiat, Lukas Burget, Jan Cernocky, Sanjeev Khudanpur", 
+      "<a href=\"http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf\">Recurrent neural network based language model</a>", 
+      "INTERSPEECH 2010", 
+      "DL, NLP, RNN, language-model", 
       "n"
-    ],
-    [
-      "30/05/2016",
-      "Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher",
-      "<a href=\"http://arxiv.org/abs/1506.07285\">Ask Me Anything: Dynamic Memory Networks for Natural Language Processing</a>",
-      "ICML 2016",
-      "DL, DMN, NLP, dynamic-memory-networks",
+    ], 
+    [
+      "30/05/2016", 
+      "Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher", 
+      "<a href=\"http://arxiv.org/abs/1506.07285\">Ask Me Anything: Dynamic Memory Networks for Natural Language Processing</a>", 
+      "ICML 2016", 
+      "DL, DMN, NLP, dynamic-memory-networks", 
       "n"
-    ],
-    [
-      "30/05/2016",
-      "Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov",
-      "<a href=\"http://arxiv.org/pdf/1511.06342v4.pdf\">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>",
-      "ICLR 2016",
-      "DL, RL, actor-mimic",
+    ], 
+    [
+      "30/05/2016", 
+      "Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov", 
+      "<a href=\"http://arxiv.org/pdf/1511.06342v4.pdf\">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>", 
+      "ICLR 2016", 
+      "DL, RL, actor-mimic", 
       "n"
-    ],
-    [
-      "29/05/2016",
-      "Scott Reed, Nando de Freitas",
-      "<a href=\"http://arxiv.org/abs/1511.06279\">Neural Programmer-Interpreters</a>",
-      "ICLR 2016",
-      "DL, NPI",
+    ], 
+    [
+      "29/05/2016", 
+      "Scott Reed, Nando de Freitas", 
+      "<a href=\"http://arxiv.org/abs/1511.06279\">Neural Programmer-Interpreters</a>", 
+      "ICLR 2016", 
+      "DL, NPI", 
       "n"
-    ],
-    [
-      "29/05/2016",
-      "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel",
-      "<a href=\"http://arxiv.org/abs/1504.00702\">End-to-End Training of Deep Visuomotor Policies</a>",
-      "JMLR 2016",
-      "CV, DL, RL, robotics, control",
+    ], 
+    [
+      "29/05/2016", 
+      "Sergey Levine, Chelsea Finn, Trevor Darrell, Pieter Abbeel", 
+      "<a href=\"http://arxiv.org/abs/1504.00702\">End-to-End Training of Deep Visuomotor Policies</a>", 
+      "JMLR 2016", 
+      "CV, DL, RL, robotics, control", 
       "n"
-    ],
-    [
-      "28/05/2016",
-      "Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler",
-      "<a href=\"http://arxiv.org/abs/1512.02902\">MovieQA : Understanding Stories in Movies through Question-Answering</a>",
-      "CVPR 2016",
-      "CV, DL, QA, movie-story",
+    ], 
+    [
+      "28/05/2016", 
+      "Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler", 
+      "<a href=\"http://arxiv.org/abs/1512.02902\">MovieQA : Understanding Stories in Movies through Question-Answering</a>", 
+      "CVPR 2016", 
+      "CV, DL, QA, movie-story", 
       "n"
-    ],
-    [
-      "28/05/2016",
-      "Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun",
-      "<a href=\"http://arxiv.org/pdf/1511.06361v6.pdf\">Order-Embeddings of Images and Language</a>",
-      "ICLR 2016",
-      "CV, DL, image-caption, hierarchy",
+    ], 
+    [
+      "28/05/2016", 
+      "Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun", 
+      "<a href=\"http://arxiv.org/pdf/1511.06361v6.pdf\">Order-Embeddings of Images and Language</a>", 
+      "ICLR 2016", 
+      "CV, DL, image-caption, hierarchy", 
       "n"
-    ],
-    [
-      "28/05/2016",
-      "Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov",
-      "<a href=\"http://arxiv.org/pdf/1511.04119v3.pdf\">Action Recognition using Visual Attention</a>",
-      "ICLR 2016",
-      "CV, DL, action-recognition, attention",
+    ], 
+    [
+      "28/05/2016", 
+      "Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov", 
+      "<a href=\"http://arxiv.org/pdf/1511.04119v3.pdf\">Action Recognition using Visual Attention</a>", 
+      "ICLR 2016", 
+      "CV, DL, action-recognition, attention", 
       "n"
-    ],
-    [
-      "28/05/2016",
-      "Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus",
-      "<a href=\"http://arxiv.org/abs/1503.08895\">End-To-End Memory Networks</a>",
-      "NIPS 2015",
-      "DL, memory-networks, end-to-end",
+    ], 
+    [
+      "28/05/2016", 
+      "Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus", 
+      "<a href=\"http://arxiv.org/abs/1503.08895\">End-To-End Memory Networks</a>", 
+      "NIPS 2015", 
+      "DL, memory-networks, end-to-end", 
       "n"
-    ],
-    [
-      "27/05/2016",
-      "Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas",
-      "<a href=\"http://arxiv.org/abs/1511.06581\">Dueling Network Architectures for Deep Reinforcement Learning</a>",
-      "ICML 2016",
-      "DL, dueling-networks, RL",
+    ], 
+    [
+      "27/05/2016", 
+      "Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas", 
+      "<a href=\"http://arxiv.org/abs/1511.06581\">Dueling Network Architectures for Deep Reinforcement Learning</a>", 
+      "ICML 2016", 
+      "DL, dueling-networks, RL", 
       "n"
-    ],
-    [
-      "27/05/2016",
-      "Jason Weston, Sumit Chopra, Antoine Bordes",
-      "<a href=\"http://arxiv.org/pdf/1410.3916v11.pdf\">Memory Networks</a>",
-      "ICLR 2015",
-      "DL, memory-networks",
+    ], 
+    [
+      "27/05/2016", 
+      "Jason Weston, Sumit Chopra, Antoine Bordes", 
+      "<a href=\"http://arxiv.org/pdf/1410.3916v11.pdf\">Memory Networks</a>", 
+      "ICLR 2015", 
+      "DL, memory-networks", 
       "n"
-    ],
-    [
-      "27/05/2016",
-      "Volodymyr Mnih et al",
-      "<a href=\"http://arxiv.org/abs/1312.5602\">Playing Atari with Deep Reinforcement Learning</a>",
-      "NIPS DL workshop 2013",
-      "DL, DQN, RL",
+    ], 
+    [
+      "27/05/2016", 
+      "Volodymyr Mnih et al", 
+      "<a href=\"http://arxiv.org/abs/1312.5602\">Playing Atari with Deep Reinforcement Learning</a>", 
+      "NIPS DL workshop 2013", 
+      "DL, DQN, RL", 
       "n"
-    ],
-    [
-      "27/05/2016",
-      "Gao Huang, Yu Sun et al",
-      "<a href=\"https://arxiv.org/pdf/1603.09382.pdf\">Deep Networks with Stochastic Depth</a>",
-      "2016",
-      "DL, stochastic-depth",
+    ], 
+    [
+      "27/05/2016", 
+      "Gao Huang, Yu Sun et al", 
+      "<a href=\"https://arxiv.org/pdf/1603.09382.pdf\">Deep Networks with Stochastic Depth</a>", 
+      "2016", 
+      "DL, stochastic-depth", 
       "n"
-    ],
-    [
-      "26/05/2016",
-      "Michael Jordan et al",
-      "<a href=\"http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf\">An Introduction to Variational Methods for Graphical Models</a>",
-      "Machine Learning 1999",
-      "graphical-models, ML, variational-methods",
+    ], 
+    [
+      "26/05/2016", 
+      "Michael Jordan et al", 
+      "<a href=\"http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf\">An Introduction to Variational Methods for Graphical Models</a>", 
+      "Machine Learning 1999", 
+      "graphical-models, ML, variational-methods", 
       "n"
-    ],
-    [
-      "26/05/2016",
-      "Andrej Karpathy, Li Fei-Fei",
-      "<a href=\"http://arxiv.org/pdf/1412.2306v2.pdf\">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>",
-      "CVPR 2015",
-      "CV, DL, image-captioning, NLP",
+    ], 
+    [
+      "26/05/2016", 
+      "Andrej Karpathy, Li Fei-Fei", 
+      "<a href=\"http://arxiv.org/pdf/1412.2306v2.pdf\">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>", 
+      "CVPR 2015", 
+      "CV, DL, image-captioning, NLP", 
       "n"
-    ],
-    [
-      "26/05/2016",
-      "Aishwarya Agarwal et al",
-      "<a href=\"https://arxiv.org/pdf/1505.00468.pdf\">VQA : Visual Question Answering</a>",
-      "ICCV 2015",
-      "CV, DL, QA",
+    ], 
+    [
+      "26/05/2016", 
+      "Aishwarya Agarwal et al", 
+      "<a href=\"https://arxiv.org/pdf/1505.00468.pdf\">VQA : Visual Question Answering</a>", 
+      "ICCV 2015", 
+      "CV, DL, QA", 
       "n"
-    ],
-    [
-      "26/05/2016",
-      "Samy Bengio et al",
-      "<a href=\"https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf\">Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks</a>",
-      "NIPS 2015",
-      "DL, RNN, scheduled-sampling",
+    ], 
+    [
+      "26/05/2016", 
+      "Samy Bengio et al", 
+      "<a href=\"https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf\">Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks</a>", 
+      "NIPS 2015", 
+      "DL, RNN, scheduled-sampling", 
       "n"
-    ],
-    [
-      "26/05/2016",
-      "Sergey Ioffe, Christian Szegedy",
-      "<a href=\"http://arxiv.org/pdf/1502.03167v3.pdf\">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>",
-      "JMLR 2015",
-      "batch-norm, DL",
+    ], 
+    [
+      "26/05/2016", 
+      "Sergey Ioffe, Christian Szegedy", 
+      "<a href=\"http://arxiv.org/pdf/1502.03167v3.pdf\">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>", 
+      "JMLR 2015", 
+      "batch-norm, DL", 
       "n"
-    ],
-    [
-      "25/05/2016",
-      "Kelvin Xu et al",
-      "<a href=\"http://arxiv.org/abs/1502.03044\">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a>",
-      "JMLR 2015",
-      "CV, DL, attention, caption",
+    ], 
+    [
+      "25/05/2016", 
+      "Kelvin Xu et al", 
+      "<a href=\"http://arxiv.org/abs/1502.03044\">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a>", 
+      "JMLR 2015", 
+      "CV, DL, attention, caption", 
       "n"
-    ],
-    [
-      "24/05/2016",
-      "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly",
-      "<a href=\"https://papers.nips.cc/paper/5866-pointer-networks.pdf\">Pointer Networks</a>",
-      "NIPS 2015",
-      "DL, Pointer-Nets",
+    ], 
+    [
+      "24/05/2016", 
+      "Oriol Vinyals, Meire Fortunato, Navdeep Jaitly", 
+      "<a href=\"https://papers.nips.cc/paper/5866-pointer-networks.pdf\">Pointer Networks</a>", 
+      "NIPS 2015", 
+      "DL, Pointer-Nets", 
       "n"
-    ],
-    [
-      "24/05/2016",
-      "Oriol Vinyals, Samy Bengio, Manjunath Kudlur",
-      "<a href=\"http://arxiv.org/pdf/1511.06391v3.pdf\">Order Matters : Sequence to Sequence for sets</a>",
-      "ICLR 2016",
-      "DL, seq2seq, ordered, sorting",
+    ], 
+    [
+      "24/05/2016", 
+      "Oriol Vinyals, Samy Bengio, Manjunath Kudlur", 
+      "<a href=\"http://arxiv.org/pdf/1511.06391v3.pdf\">Order Matters : Sequence to Sequence for sets</a>", 
+      "ICLR 2016", 
+      "DL, seq2seq, ordered, sorting", 
       "n"
-    ],
-    [
-      "23/05/2016",
-      "Bahdanau, Cho, Bengio",
-      "<a href=\"http://arxiv.org/pdf/1409.0473.pdf\">Neural Machine Translation by Jointly Learning to Align and Translate</a>",
-      "ICLR 2015",
-      "DL, NMT",
+    ], 
+    [
+      "23/05/2016", 
+      "Bahdanau, Cho, Bengio", 
+      "<a href=\"http://arxiv.org/pdf/1409.0473.pdf\">Neural Machine Translation by Jointly Learning to Align and Translate</a>", 
+      "ICLR 2015", 
+      "DL, NMT", 
       "n"
-    ],
-    [
-      "23/05/2016",
-      "Maaten, Hinton,",
-      "<a href=\"http://www.cs.toronto.edu/~hinton/absps/tsne.pdf\">Visualizing Data using t-SNE</a>",
-      "JMLR 2008",
-      "ML, Embeddings",
+    ], 
+    [
+      "23/05/2016", 
+      "Maaten, Hinton,", 
+      "<a href=\"http://www.cs.toronto.edu/~hinton/absps/tsne.pdf\">Visualizing Data using t-SNE</a>", 
+      "JMLR 2008", 
+      "ML, Embeddings", 
       "n"
-    ],
-    [
-      "22/05/2016",
-      "Kyunghyun Cho et al",
-      "<a href=\"http://arxiv.org/pdf/1406.1078v3.pdf\">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>",
-      "ACL 2014",
-      "DL, NLP, RNN-ED",
+    ], 
+    [
+      "22/05/2016", 
+      "Kyunghyun Cho et al", 
+      "<a href=\"http://arxiv.org/pdf/1406.1078v3.pdf\">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>", 
+      "ACL 2014", 
+      "DL, NLP, RNN-ED", 
       "n"
-    ],
-    [
-      "22/05/2016",
-      "Kaiming He et al",
-      "<a href=\"https://arxiv.org/pdf/1512.03385v1.pdf\">Deep Residual Learning for Image Recognition</a>",
-      "2015",
-      "CV, DL, ResNets",
+    ], 
+    [
+      "22/05/2016", 
+      "Kaiming He et al", 
+      "<a href=\"https://arxiv.org/pdf/1512.03385v1.pdf\">Deep Residual Learning for Image Recognition</a>", 
+      "2015", 
+      "CV, DL, ResNets", 
       "n"
-    ],
-    [
-      "22/05/2016",
-      "Alex Graves et al",
-      "<a href=\"https://arxiv.org/pdf/1410.5401v2.pdf\">Neural Turing Machines</a>",
-      "2014",
-      "DL, NTM",
+    ], 
+    [
+      "22/05/2016", 
+      "Alex Graves et al", 
+      "<a href=\"https://arxiv.org/pdf/1410.5401v2.pdf\">Neural Turing Machines</a>", 
+      "2014", 
+      "DL, NTM", 
       "n"
-    ],
-    [
-      "21/05/2016",
-      "Ioannis Tsochantaridis et al",
-      "<a href=\"http://machinelearning.org/proceedings/icml2004/papers/76.pdf\">Support Vector Machine Learning for Interdependent and Structured Output Spaces</a>",
-      "ICML 2004",
-      "ML, StructSVM",
-      "n"
-    ],
-    [
-      "21/05/2016",
-      "Ian Goodfellow et al",
-      "<a href=\"http://arxiv.org/abs/1406.2661\">Generative Adversarial Networks</a>",
-      "NIPS 2014",
-      "DL, GAN, generative",
-      "n"
-    ],
-    [
-      "21/05/2016",
-      "Ilya Sutskever, Oriol Vinyals, and Quoc Le",
-      "<a href=\"http://arxiv.org/pdf/1409.3215.pdf\">Sequence to Sequence learning with neural networks</a>",
-      "NIPS 2014",
-      "DL, Seq2Seq",
-      "n"
-    ],
-    [
-      "20/05/2016",
-      "Diederik Kingma, Jimmy Ba",
-      "<a href=\"https://arxiv.org/pdf/1412.6980.pdf\">Adam : A Method for Stochastic Optimization</a>",
-      "ICLR 2015",
-      "ML, Optimization, ADAM",
-      "n"
-    ],
-    [
-      "20/05/2016",
-      "Lukasz Kaiser, Ilya Sutskever",
-      "<a href=\"http://arxiv.org/pdf/1511.08228v3.pdf\">Neural GPUs Learn Algorithms</a>",
-      "ICLR 2016",
-      "DL",
-      "n"
-    ],
-    [
-      "19/05/2016",
-      "Alex Graves",
-      "<a href=\"http://arxiv.org/pdf/1308.0850v5.pdf\">Generating Sequences With Recurrent Neural Networks</a>",
-      "2014",
-      "DL",
-      "n"
-    ],
-    [
-      "19/05/2016",
-      "Scott Reed et al",
-      "<a href=\"http://arxiv.org/pdf/1605.05396v1.pdf\">Generative Adversarial Text to Image Synthesis</a>",
-      "ICML 2016",
-      "CV, DL",
-      "n"
-    ],
-    [
-      "18/05/2016",
-      "Andriy Mnih et al",
-      "<a href=\"https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf\">Learning word embeddings efficiently with noise-contrastive estimation</a>",
-      "NIPS 2013",
-      "DL, NLP",
-      "n"
-    ],
-    [
-      "18/05/2016",
-      "Samuel Bowman et al",
-      "<a href=\"http://arxiv.org/pdf/1511.06349v4.pdf\">Generating Sentences from a Continuous Space</a>",
-      "2015",
-      "DL, NLP",
-      "n"
-    ],
-    [
-      "18/05/2016",
-      "Leslie Kaebling et al",
-      "<a href=\"https://www.jair.org/media/301/live-301-1562-jair.pdf\">Reinforcement Learning: A Survey</a>",
-      "JAIR 1996",
-      "AI, ML, RL",
-      "n"
-    ],
-    [
-      "18/05/2016",
-      "Ronald Williams",
-      "<a href=\"http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf\">Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning</a>",
-      "Machine Learning 1992",
-      "AI, ML, REINFORCE",
-      "n"
-    ],
-    [
-      "17/05/2016",
-      "Gavin Taylor et al",
-      "<a href=\"http://arxiv.org/pdf/1605.02026.pdf\">Training Neural Networks Without Gradients: A Scalable ADMM Approach</a>",
-      "ICML 2016",
-      "DL",
-      "n"
-    ],
-    [
-      "17/05/2016",
-      "David Arthur et al",
-      "<a href=\"http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf\">k-means++: The Advantages of Careful Seeding</a>",
-      "SODA 2007",
-      "Clustering, ML",
+    ], 
+    [
+      "21/05/2016", 
+      "Ioannis Tsochantaridis et al", 
+      "<a href=\"http://machinelearning.org/proceedings/icml2004/papers/76.pdf\">Support Vector Machine Learning for Interdependent and Structured Output Spaces</a>", 
+      "ICML 2004", 
+      "ML, StructSVM", 
+      "n"
+    ], 
+    [
+      "21/05/2016", 
+      "Ian Goodfellow et al", 
+      "<a href=\"http://arxiv.org/abs/1406.2661\">Generative Adversarial Networks</a>", 
+      "NIPS 2014", 
+      "DL, GAN, generative", 
+      "n"
+    ], 
+    [
+      "21/05/2016", 
+      "Ilya Sutskever, Oriol Vinyals, and Quoc Le", 
+      "<a href=\"http://arxiv.org/pdf/1409.3215.pdf\">Sequence to Sequence learning with neural networks</a>", 
+      "NIPS 2014", 
+      "DL, Seq2Seq", 
+      "n"
+    ], 
+    [
+      "20/05/2016", 
+      "Diederik Kingma, Jimmy Ba", 
+      "<a href=\"https://arxiv.org/pdf/1412.6980.pdf\">Adam : A Method for Stochastic Optimization</a>", 
+      "ICLR 2015", 
+      "ML, Optimization, ADAM", 
+      "n"
+    ], 
+    [
+      "20/05/2016", 
+      "Lukasz Kaiser, Ilya Sutskever", 
+      "<a href=\"http://arxiv.org/pdf/1511.08228v3.pdf\">Neural GPUs Learn Algorithms</a>", 
+      "ICLR 2016", 
+      "DL", 
+      "n"
+    ], 
+    [
+      "19/05/2016", 
+      "Alex Graves", 
+      "<a href=\"http://arxiv.org/pdf/1308.0850v5.pdf\">Generating Sequences With Recurrent Neural Networks</a>", 
+      "2014", 
+      "DL", 
+      "n"
+    ], 
+    [
+      "19/05/2016", 
+      "Scott Reed et al", 
+      "<a href=\"http://arxiv.org/pdf/1605.05396v1.pdf\">Generative Adversarial Text to Image Synthesis</a>", 
+      "ICML 2016", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
+      "18/05/2016", 
+      "Andriy Mnih et al", 
+      "<a href=\"https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf\">Learning word embeddings efficiently with noise-contrastive estimation</a>", 
+      "NIPS 2013", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
+      "18/05/2016", 
+      "Samuel Bowman et al", 
+      "<a href=\"http://arxiv.org/pdf/1511.06349v4.pdf\">Generating Sentences from a Continuous Space</a>", 
+      "2015", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
+      "18/05/2016", 
+      "Leslie Kaebling et al", 
+      "<a href=\"https://www.jair.org/media/301/live-301-1562-jair.pdf\">Reinforcement Learning: A Survey</a>", 
+      "JAIR 1996", 
+      "AI, ML, RL", 
+      "n"
+    ], 
+    [
+      "18/05/2016", 
+      "Ronald Williams", 
+      "<a href=\"http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf\">Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning</a>", 
+      "Machine Learning 1992", 
+      "AI, ML, REINFORCE", 
+      "n"
+    ], 
+    [
+      "17/05/2016", 
+      "Gavin Taylor et al", 
+      "<a href=\"http://arxiv.org/pdf/1605.02026.pdf\">Training Neural Networks Without Gradients: A Scalable ADMM Approach</a>", 
+      "ICML 2016", 
+      "DL", 
+      "n"
+    ], 
+    [
+      "17/05/2016", 
+      "David Arthur et al", 
+      "<a href=\"http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf\">k-means++: The Advantages of Careful Seeding</a>", 
+      "SODA 2007", 
+      "Clustering, ML", 
       "n"
     ]
   ]
