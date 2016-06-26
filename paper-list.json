@@ -2,6 +2,14 @@
   "data": [
     [
       "26/06/2016", 
+      "Yizong Cheng", 
+      "<a href=\"http://cmp.felk.cvut.cz/cmp/courses/EP33VKR/2007/Cheng-PAMI1995.pdf\">Mean Shift, Mode Seeking, and Clustering</a>", 
+      "IEEE, 1995", 
+      "ML, Clustering", 
+      "n"
+    ], 
+    [
+      "26/06/2016", 
       "Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov", 
       "<a href=\"http://arxiv.org/pdf/1606.06630.pdf\">On Multiplicative Integration with Recurrent Neural Networks</a>", 
       "arXiv", 

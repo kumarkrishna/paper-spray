@@ -34,7 +34,10 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-* <a href="http://arxiv.org/pdf/1606.06630v1.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
+* <a href="http://cmp.felk.cvut.cz/cmp/courses/EP33VKR/2007/Cheng-PAMI1995.pdf">Mean Shift, Mode Seeking, and Clustering</a>  
+```26/06/2016, ML, Clustering```  
+```Yizong Cheng, IEEE, 1995```  
+* <a href="http://arxiv.org/pdf/1606.06630.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
 ```26/06/2016, RNN architecture```  
 ```Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov, arXiv```  
 * <a href="http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf">Adaptive Online Gradient Descent</a>  
