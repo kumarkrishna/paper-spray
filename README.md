@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1606.06630v1.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
+```26/06/2016, RNN architecture```  
+```Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov, arXiv```  
 * <a href="http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf">Adaptive Online Gradient Descent</a>  
 ```25/06/2016, optimization, gradient descent```  
 ```Peter L. Bartlett, Elad Hazan, Alexander Rakhlin, NIPS 2007```  

@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "26/06/2016", 
+      "Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov", 
+      "<a href=\"http://arxiv.org/pdf/1606.06630v1.pdf\">On Multiplicative Integration with Recurrent Neural Networks</a>", 
+      "arXiv", 
+      "RNN architecture", 
+      "n"
+    ], 
+    [
       "25/06/2016", 
       "Peter L. Bartlett, Elad Hazan, Alexander Rakhlin", 
       "<a href=\"http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf\">Adaptive Online Gradient Descent</a>", 
