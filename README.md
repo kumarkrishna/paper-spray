@@ -34,7 +34,10 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-* <a href="http://arxiv.org/pdf/1606.06630v1.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
+* <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
+```27/06/2016, DL, NTM, neural data structures```  
+```Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
+* <a href="http://arxiv.org/pdf/1606.06630.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
 ```26/06/2016, RNN architecture```  
 ```Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov, arXiv```  
 * <a href="http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf">Adaptive Online Gradient Descent</a>  
