@@ -34,6 +34,24 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1511.06038v4.pdf">Neural Variational Inference for Text Processing</a>  
+```29/06/2016, DL, NLP```  
+```Yishu Miao, Lei Yu, Phil Blunsom, arXiv```  
+* <a href="http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf">Human-level control through deep reinforcement learning</a>  
+```19/06/2016, RL, AI, DL```  
+```Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Nature```  
+* <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
+```27/06/2016, DL, NTM, neural data structures```  
+```Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
+* <a href="http://arxiv.org/pdf/1606.06630.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
+```26/06/2016, RNN architecture```  
+```Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov, arXiv```  
+* <a href="http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf">Adaptive Online Gradient Descent</a>  
+```25/06/2016, optimization, gradient descent```  
+```Peter L. Bartlett, Elad Hazan, Alexander Rakhlin, NIPS 2007```  
+* <a href="https://visualgenome.org/static/paper/Visual_Genome.pdf">Visual Genome</a>  
+```24/06/2016, vision, nlp multimodal dataset```  
+```Ranjay Krishna et. al., Dataset```  
 * <a href="http://arxiv.org/pdf/1511.07404.pdf">Learning Visual Predictive Models of Physics for Playing Billiards</a>  
 ```23/06/2016, CV, DL```  
 ```Katerina Fragkiadaki, Pulkit Agrawal, Sergey Levine, Jitendra Malik, ICLR 2016```  
@@ -85,6 +103,12 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>  
 ```17/06/2016, DL, CV```  
 ```Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee, ICML 2016```  
+* <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
+```17/06/2016, DL, dropout```  
+```Sida I. Wang, Christopher D. Manning, ICML 2013```  
+* <a href="http://arxiv.org/pdf/1503.04069v1.pdf">LSTM: A Search Space Odyssey</a>  
+```19/06/2016, DL, NLP```  
+```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv```  
 * <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
 ```17/06/2016, DL, dropout```  
 ```Sida I. Wang, Christopher D. Manning, ICML 2013```  

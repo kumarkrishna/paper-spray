@@ -1,6 +1,54 @@
 {
   "data": [
     [
+      "29/06/2016", 
+      "Yishu Miao, Lei Yu, Phil Blunsom", 
+      "<a href=\"http://arxiv.org/pdf/1511.06038v4.pdf\">Neural Variational Inference for Text Processing</a>", 
+      "arXiv", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
+      "19/06/2016", 
+      "Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu", 
+      "<a href=\"http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf\">Human-level control through deep reinforcement learning</a>", 
+      "Nature", 
+      "RL, AI, DL", 
+      "n"
+    ], 
+    [
+      "27/06/2016", 
+      "Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom", 
+      "<a href=\"https://arxiv.org/pdf/1506.02516.pdf\">Learning to Transduce with Unbounded Memory</a>", 
+      "NIPS 2015", 
+      "DL, NTM, neural data structures", 
+      "n"
+    ], 
+    [
+      "26/06/2016", 
+      "Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov", 
+      "<a href=\"http://arxiv.org/pdf/1606.06630.pdf\">On Multiplicative Integration with Recurrent Neural Networks</a>", 
+      "arXiv", 
+      "RNN architecture", 
+      "n"
+    ], 
+    [
+      "25/06/2016", 
+      "Peter L. Bartlett, Elad Hazan, Alexander Rakhlin", 
+      "<a href=\"http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf\">Adaptive Online Gradient Descent</a>", 
+      "NIPS 2007", 
+      "optimization, gradient descent", 
+      "n"
+    ], 
+    [
+      "24/06/2016", 
+      "Ranjay Krishna et. al.", 
+      "<a href=\"https://visualgenome.org/static/paper/Visual_Genome.pdf\">Visual Genome</a>", 
+      "Dataset", 
+      "vision, nlp multimodal dataset", 
+      "n"
+    ], 
+    [
       "23/06/2016", 
       "Katerina Fragkiadaki, Pulkit Agrawal, Sergey Levine, Jitendra Malik", 
       "<a href=\"http://arxiv.org/pdf/1511.07404.pdf\">Learning Visual Predictive Models of Physics for Playing Billiards</a>", 
@@ -135,6 +183,22 @@
       "ICML 2016", 
       "DL, CV", 
       ""
+    ], 
+    [
+      "17/06/2016", 
+      "Sida I. Wang, Christopher D. Manning", 
+      "<a href=\"http://nlp.stanford.edu/pubs/sidaw13fast.pdf\">Fast dropout training</a>", 
+      "ICML 2013", 
+      "DL, dropout", 
+      "n"
+    ], 
+    [
+      "19/06/2016", 
+      "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber", 
+      "<a href=\"http://arxiv.org/pdf/1503.04069v1.pdf\">LSTM: A Search Space Odyssey</a>", 
+      "arXiv", 
+      "DL, NLP", 
+      "n"
     ], 
     [
       "17/06/2016", 
