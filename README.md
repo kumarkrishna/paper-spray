@@ -39,7 +39,70 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Nature```  
 * <a href="http://arxiv.org/pdf/1503.04069v1.pdf">LSTM: A Search Space Odyssey</a>  
 ```13/03/2015, DL, NLP```  
-```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv```  
+```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv``` 
+* <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
+```27/06/2016, DL, NTM, neural data structures```  
+```Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
+* <a href="http://arxiv.org/pdf/1606.06630.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
+```26/06/2016, RNN architecture```  
+```Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov, arXiv```  
+* <a href="http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf">Adaptive Online Gradient Descent</a>  
+```25/06/2016, optimization, gradient descent```  
+```Peter L. Bartlett, Elad Hazan, Alexander Rakhlin, NIPS 2007```  
+* <a href="https://visualgenome.org/static/paper/Visual_Genome.pdf">Visual Genome</a>  
+```24/06/2016, vision, nlp multimodal dataset```  
+```Ranjay Krishna et. al., Dataset```  
+* <a href="http://arxiv.org/pdf/1511.07404.pdf">Learning Visual Predictive Models of Physics for Playing Billiards</a>  
+```23/06/2016, CV, DL```  
+```Katerina Fragkiadaki, Pulkit Agrawal, Sergey Levine, Jitendra Malik, ICLR 2016```  
+* <a href="http://arxiv.org/abs/1606.05908">Tutorial on Variational Autoencoders</a>  
+```22/06/2016, DL, VAE```  
+```Carl Doersch, arXiv```  
+* <a href="https://arxiv.org/abs/1604.08772">Towards Conceptual Compression</a>  
+```22/06/2016, DL```  
+```Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra, arXiv```  
+* <a href="http://arxiv.org/abs/1603.01417">Dynamic Memory Networks for Visual and Textual Question Answering</a>  
+```22/06/2016, CV, DL, NLP, MemNets```  
+```Caiming Xiong, Stephen Merity, Richard Socher, ICML 2016```  
+* <a href="http://arxiv.org/abs/1511.06432">Delving Deeper into Convolutional Networks for Learning Video Representations</a>  
+```22/06/2016, CV, DL , videos```  
+```Nicolas Ballas, Li Yao, Chris Pal, Aaron Courville, ICLR 2016```  
+* <a href="http://arxiv.org/abs/1502.08029">Describing Videos by Exploiting Temporal Structure</a>  
+```22/06/2016, CV, DL, video```  
+```Li Yao, Atousa Torabi, Kyunghyun Cho, Nicolas Ballas, Christopher Pal, Hugo Larochelle, Aaron Courville, ICCV 2015```  
+* <a href="http://arxiv.org/abs/1606.03476">Generative Adversarial Imitation Learning</a>  
+```21/06/2016, DL, generative```  
+```Jonathan Ho, Stefano Ermon, arXiv```  
+* <a href="https://arxiv.org/pdf/1606.00709v1.pdf">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>  
+```21/06/2016, DL, GAN, f-GAN```  
+```Sebastian Nowozin, Botond Cseke, Ryota Tomioka, arXiv```  
+* <a href="http://arxiv.org/abs/1505.05770">Variational Inference with Normalizing Flows</a>  
+```21/06/2016, DL, VAE, inference```  
+```Danilo Jimenez Rezende, Shakir Mohamed, ICML 2015```  
+* <a href="http://arxiv.org/abs/1506.02216">A Recurrent Latent Variable Model for Sequential Data</a>  
+```20/06/2016, DL, VRNN```  
+```Junyoung Chung, Kyle Kastner, Laurent Dinh, Kratarth Goel, Aaron Courville, Yoshua Bengio, NIPS 2015```  
+* <a href="http://arxiv.org/abs/1406.5298">Semi-Supervised Learning with Deep Generative Models</a>  
+```20/06/2016, DL, generative```  
+```Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling, NIPS 2014```  
+* <a href="http://arxiv.org/abs/1506.02557">Variational Dropout and the Local Reparameterization Trick</a>  
+```19/06/2016, DL, dropout```  
+```Diederik P. Kingma, Tim Salimans, Max Welling, NIPS 2015```  
+* <a href="http://arxiv.org/abs/1505.01121">Ask Your Neurons: A Neural-based Approach to Answering Questions about Images</a>  
+```19/06/2016, CV, DL, NLP```  
+```Mateusz Malinowski, Marcus Rohrbach, Mario Fritz, ICCV 2015```  
+* <a href="http://arxiv.org/abs/1511.02793">Generating Images from Captions with Attention</a>  
+```19/06/2016, CV, DL```  
+```Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov, ICLR 2016```  
+* <a href="https://arxiv.org/abs/1606.03657">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>  
+```18/06/2016, DL, InfoGAN```  
+```Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel, arXiv```  
+* <a href="http://arxiv.org/abs/1606.03498">Improved Techniques for Training GANs</a>  
+```18/06/2016, DL, GAN```  
+```Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen, arXiv```  
+* <a href="http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>  
+```17/06/2016, DL, CV```  
+```Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee, ICML 2016```  
 * <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
 ```17/06/2016, DL, dropout```  
 ```Sida I. Wang, Christopher D. Manning, ICML 2013```  
