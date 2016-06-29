@@ -76,7 +76,7 @@ def main():
     newpaper.append(reviewlink)
 
     data["data"] = [newpaper] + data["data"]
-    data["data"] = sorted(data["data"], key=lambda x: datetime.datetime.strptime(x[0], '%d/%m/%Y'), reverse=True)
+    data["data"] = sorted(data["data"], key=lambda x: datetime.strptime(x[0], '%d/%m/%Y'), reverse=True)
 
     for i in range(len(data["data"])):
         for j in range(len(data["data"][i])):
