@@ -34,12 +34,12 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1511.06038v4.pdf">Neural Variational Inference for Text Processing</a>  
+```29/06/2016, DL, NLP```  
+```Yishu Miao, Lei Yu, Phil Blunsom, arXiv```  
 * <a href="http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf">Human-level control through deep reinforcement learning</a>  
-```26/02/2015, RL, AI, DL```  
+```19/06/2016, RL, AI, DL```  
 ```Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Nature```  
-* <a href="http://arxiv.org/pdf/1503.04069v1.pdf">LSTM: A Search Space Odyssey</a>  
-```13/03/2015, DL, NLP```  
-```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv``` 
 * <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
 ```27/06/2016, DL, NTM, neural data structures```  
 ```Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
@@ -106,6 +106,12 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
 ```17/06/2016, DL, dropout```  
 ```Sida I. Wang, Christopher D. Manning, ICML 2013```  
+* <a href="http://arxiv.org/pdf/1503.04069v1.pdf">LSTM: A Search Space Odyssey</a>  
+```19/06/2016, DL, NLP```  
+```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv```  
+* <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
+```17/06/2016, DL, dropout```  
+```Sida I. Wang, Christopher D. Manning, ICML 2013```  
 * <a href="https://www.semanticscholar.org/paper/Stating-the-Obvious-Extracting-Visual-Common-Sense-Yatskar-Ordonez/0dcc768631d9ede8a3679e980b37204b782781b2/pdf">Stating the Obvious: Extracting Visual Common Sense Knowledge</a>  
 ```15/06/2016, DL, NLP```  
 ```Mark Yatskar, Vicente Ordonez, Ali Farhadi, NAACL 2016```  
@@ -167,7 +173,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```09/06/2016, DL, NLP```  
 ```Sigrid Klerke, Yoav Goldberg, Anders Sogaard, NAACL 2016, Best Short Paper```  
 * <a href="http://arxiv.org/pdf/1604.04378v1.pdf">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>  
-```08/06/2016, DL, NLP```  
+```15/06/2016, DL, NLP```  
 ```Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo, IJCAI 2016```  
 * <a href="http://arxiv.org/abs/1506.05751">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>  
 ```08/06/2016, DL, CV, GAN, LAPGAN```  
