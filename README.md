@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1505.01596">Learning to See by Moving</a>  
+```30/09/2016, CV, DL```  
+```Pulkit Agrawal, Joao Carreira, Jitendra Malik, ICCV 2015```  
 * <a href="http://arxiv.org/abs/1412.3773">Distinguishing cause from effect using observational data: methods and benchmarks</a>  
 ```29/06/2016, ML, cause-inference```  
 ```Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Scholkopf, JMLR 2016```  

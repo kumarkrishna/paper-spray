@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "30/09/2016", 
+      "Pulkit Agrawal, Joao Carreira, Jitendra Malik", 
+      "<a href=\"http://arxiv.org/abs/1505.01596\">Learning to See by Moving</a>", 
+      "ICCV 2015", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
       "29/06/2016", 
       "Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Scholkopf", 
       "<a href=\"http://arxiv.org/abs/1412.3773\">Distinguishing cause from effect using observational data: methods and benchmarks</a>", 
