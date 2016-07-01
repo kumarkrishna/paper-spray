@@ -35,6 +35,18 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 ## Papers
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+* <a href="http://arxiv.org/abs/1505.01596">Learning to See by Moving</a>  
+```30/09/2016, CV, DL```  
+```Pulkit Agrawal, Joao Carreira, Jitendra Malik, ICCV 2015```  
+* <a href="http://arxiv.org/abs/1412.3773">Distinguishing cause from effect using observational data: methods and benchmarks</a>  
+```29/06/2016, ML, cause-inference```  
+```Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Scholkopf, JMLR 2016```  
+* <a href="http://arxiv.org/pdf/1511.06038v4.pdf">Neural Variational Inference for Text Processing</a>  
+```29/06/2016, DL, NLP```  
+```Yishu Miao, Lei Yu, Phil Blunsom, arXiv```  
+>>>>>>> 989f38a5159ce157c537e1f760f2f9bf3dc01fcb
 * <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
 ```27/06/2016, DL, NTM, neural data structures```  
 ```Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
@@ -85,6 +97,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1406.5298">Semi-Supervised Learning with Deep Generative Models</a>  
 ```20/06/2016, DL, generative```  
 ```Diederik P. Kingma, Danilo J. Rezende, Shakir Mohamed, Max Welling, NIPS 2014```  
+* <a href="http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf">Human-level control through deep reinforcement learning</a>  
+```19/06/2016, RL, AI, DL```  
+```Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Nature```  
 * <a href="http://arxiv.org/abs/1506.02557">Variational Dropout and the Local Reparameterization Trick</a>  
 ```19/06/2016, DL, dropout```  
 ```Diederik P. Kingma, Tim Salimans, Max Welling, NIPS 2015```  
@@ -94,6 +109,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1511.02793">Generating Images from Captions with Attention</a>  
 ```19/06/2016, CV, DL```  
 ```Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov, ICLR 2016```  
+* <a href="http://arxiv.org/pdf/1503.04069v1.pdf">LSTM: A Search Space Odyssey</a>  
+```19/06/2016, DL, NLP```  
+```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv```  
 * <a href="https://arxiv.org/abs/1606.03657">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>  
 ```18/06/2016, DL, InfoGAN```  
 ```Xi Chen, Yan Duan, Rein Houthooft, John Schulman, Ilya Sutskever, Pieter Abbeel, arXiv```  
@@ -103,6 +121,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://web.eecs.umich.edu/~honglak/icml2016-crelu-full.pdf"> Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units</a>  
 ```17/06/2016, DL, CV```  
 ```Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee, ICML 2016```  
+* <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
+```17/06/2016, DL, dropout```  
+```Sida I. Wang, Christopher D. Manning, ICML 2013```  
 * <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
 ```17/06/2016, DL, dropout```  
 ```Sida I. Wang, Christopher D. Manning, ICML 2013```  
@@ -223,9 +244,6 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://www-devel.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/morereadings/PsychSci97-RR.pdf">To See or not to See : The need for attention to perrceive changes in scenes</a>  
 ```01/06/2016, attention, vision```  
 ```Ronald Rensink, Kevin O'Regan, James Clark, Psychological Science, 1997```  
-* <a href="http://www.utexas.edu/cola/files/1515661">Eye movements in natural behaviour</a>  
-```01/06/2015, eye-movement, attention```  
-```Mary Hayhoe, Dana Ballard, Trends in Cognitive Sciences, 2005```  
 * <a href="http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf">Teaching Machines to Read and Comprehend</a>  
 ```01/06/2016, DL, NLP, attention```  
 ```Karl Moritz Hermann, Tomas Kocisky, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
@@ -367,3 +385,6 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf">k-means++: The Advantages of Careful Seeding</a>  
 ```17/05/2016, Clustering, ML```  
 ```David Arthur et al, SODA 2007```  
+* <a href="http://www.utexas.edu/cola/files/1515661">Eye movements in natural behaviour</a>  
+```01/06/2015, eye-movement, attention```  
+```Mary Hayhoe, Dana Ballard, Trends in Cognitive Sciences, 2005```  
