@@ -34,9 +34,15 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+<<<<<<< HEAD
 * <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
 ```27/06/2016, DL, NTM, neural data structures```  
 ```Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
+=======
+* <a href="http://cmp.felk.cvut.cz/cmp/courses/EP33VKR/2007/Cheng-PAMI1995.pdf">Mean Shift, Mode Seeking, and Clustering</a>  
+```26/06/2016, ML, Clustering```  
+```Yizong Cheng, IEEE, 1995```  
+>>>>>>> fcff8ab3b0b561c9d22588c82227fa6711124b29
 * <a href="http://arxiv.org/pdf/1606.06630.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
 ```26/06/2016, RNN architecture```  
 ```Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov, arXiv```  
