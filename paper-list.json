@@ -19,7 +19,7 @@
     [
         "29/06/2016",
         "Yishu Miao, Lei Yu, Phil Blunsom",
-        "<a href=\"http://arxiv.org/pdf/1511.06038v4.pdf\">Neural Variational Inference for Text Processing</a>",
+        "<a href=\"http://arxiv.org/pdf/1511.06038.pdf\">Neural Variational Inference for Text Processing</a>",
         "arXiv",
         "DL, NLP",
         "n"
@@ -115,7 +115,7 @@
     [
       "21/06/2016",
       "Sebastian Nowozin, Botond Cseke, Ryota Tomioka",
-      "<a href=\"https://arxiv.org/pdf/1606.00709v1.pdf\">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>",
+      "<a href=\"https://arxiv.org/pdf/1606.00709.pdf\">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>",
       "arXiv",
       "DL, GAN, f-GAN",
       "n"
@@ -179,7 +179,7 @@
     [
       "19/06/2016",
       "Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber",
-      "<a href=\"http://arxiv.org/pdf/1503.04069v1.pdf\">LSTM: A Search Space Odyssey</a>",
+      "<a href=\"http://arxiv.org/pdf/1503.04069.pdf\">LSTM: A Search Space Odyssey</a>",
       "arXiv",
       "DL, NLP",
       "n"
@@ -331,7 +331,7 @@
     [
       "13/06/2016",
       "Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler",
-      "<a href=\"http://arxiv.org/pdf/1506.06726v1.pdf\">Skip-Thought Vectors</a>",
+      "<a href=\"http://arxiv.org/pdf/1506.06726.pdf\">Skip-Thought Vectors</a>",
       "NIPS 2015",
       "DL, NLP",
       "n"
@@ -347,7 +347,7 @@
     [
       "11/06/2016",
       "Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra",
-      "<a href=\"https://arxiv.org/pdf/1502.04623v2.pdf\">DRAW: A Recurrent Neural Network for Image Generation</a>",
+      "<a href=\"https://arxiv.org/pdf/1502.04623.pdf\">DRAW: A Recurrent Neural Network for Image Generation</a>",
       "JMLR 2015",
       "CV, DL, DRAW",
       "n"
@@ -355,7 +355,7 @@
     [
       "10/06/2016",
       "Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville",
-      "<a href=\"http://arxiv.org/pdf/1511.07838v7.pdf\">Dynamic Capacity Networks</a>",
+      "<a href=\"http://arxiv.org/pdf/1511.07838.pdf\">Dynamic Capacity Networks</a>",
       "JMLR, 2016",
       "DL",
       "n"
@@ -371,7 +371,7 @@
     [
       "10/06/2016",
       "Alec Radford, Luke Metz, Soumith Chintala",
-      "<a href=\"https://arxiv.org/pdf/1511.06434v2.pdf\">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>",
+      "<a href=\"https://arxiv.org/pdf/1511.06434.pdf\">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>",
       "ICLR 2016",
       "CV, DL, DCGAN",
       "n"
@@ -379,7 +379,7 @@
     [
       "09/06/2016",
       "Sigrid Klerke, Yoav Goldberg, Anders Sogaard",
-      "<a href=\"https://arxiv.org/pdf/1604.03357v1.pdf\">Improving sentence compression by learning to predict gaze</a>",
+      "<a href=\"https://arxiv.org/pdf/1604.03357.pdf\">Improving sentence compression by learning to predict gaze</a>",
       "NAACL 2016, Best Short Paper",
       "DL, NLP",
       "n"
@@ -387,7 +387,7 @@
     [
       "08/06/2016",
       "Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo",
-      "<a href=\"http://arxiv.org/pdf/1604.04378v1.pdf\">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>",
+      "<a href=\"http://arxiv.org/pdf/1604.04378.pdf\">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>",
       "IJCAI 2016",
       "DL, NLP",
       "n"
@@ -419,7 +419,7 @@
     [
       "07/06/2016",
       "Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville",
-      "<a href=\"https://arxiv.org/pdf/1606.00704v1.pdf\">Adversarially Learned Inference</a>",
+      "<a href=\"https://arxiv.org/pdf/1606.00704.pdf\">Adversarially Learned Inference</a>",
       "Subt. NIPS 2016",
       "ML, DL, inference, generative model",
       "n"
@@ -443,7 +443,7 @@
     [
       "06/06/2016",
       "Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy, Noah A. Smith",
-      "<a href=\"http://arxiv.org/pdf/1411.4166v4.pdf\">Retrofitting Word Vectors to Semantic Lexicons</a>",
+      "<a href=\"http://arxiv.org/pdf/1411.4166.pdf\">Retrofitting Word Vectors to Semantic Lexicons</a>",
       "NAACL 2015",
       "NLP, word vectors",
       "n"
@@ -475,7 +475,7 @@
     [
       "05/06/2016",
       "Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei AEfros",
-      "<a href=\"https://arxiv.org/pdf/1604.07379v1.pdf\">Context Encoders: Feature Learning by Inpainting</a>",
+      "<a href=\"https://arxiv.org/pdf/1604.07379.pdf\">Context Encoders: Feature Learning by Inpainting</a>",
       "CVPR 2016",
       "CV, DL, context-encoder",
       "n"
@@ -491,7 +491,7 @@
     [
       "03/06/2016",
       "Ian Goodfellow, David Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio",
-      "<a href=\"https://arxiv.org/pdf/1302.4389v4.pdf\">Maxout Networks</a>",
+      "<a href=\"https://arxiv.org/pdf/1302.4389.pdf\">Maxout Networks</a>",
       "JMLR 2013",
       "DL, dropout, maxout",
       "n"
@@ -499,7 +499,7 @@
     [
       "02/06/2016",
       "Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber",
-      "<a href=\"http://arxiv.org/pdf/1402.3511v1.pdf\">A Clockwork RNN</a>",
+      "<a href=\"http://arxiv.org/pdf/1402.3511.pdf\">A Clockwork RNN</a>",
       "JMLR 2014",
       "DL, RNN, clock-work",
       "n"
@@ -571,7 +571,7 @@
     [
       "01/06/2016",
       "Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio",
-      "<a href=\"http://arxiv.org/pdf/1605.08803v1.pdf\">Density estimation using Real NVP</a>",
+      "<a href=\"http://arxiv.org/pdf/1605.08803.pdf\">Density estimation using Real NVP</a>",
       "Google Brain",
       "DL, latent space, image generation",
       "n"
@@ -587,7 +587,7 @@
     [
       "31/05/2016",
       "Wojciech Zaremba",
-      "<a href=\"http://arxiv.org/pdf/1505.00521v3.pdf\">Reinforcement Learning Neural Turing Machines</a>",
+      "<a href=\"http://arxiv.org/pdf/1505.00521.pdf\">Reinforcement Learning Neural Turing Machines</a>",
       "ICLR 2016",
       "DL, NTM, RL",
       "n"
@@ -619,7 +619,7 @@
     [
       "30/05/2016",
       "Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov",
-      "<a href=\"http://arxiv.org/pdf/1511.06342v4.pdf\">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>",
+      "<a href=\"http://arxiv.org/pdf/1511.06342.pdf\">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>",
       "ICLR 2016",
       "DL, RL, actor-mimic",
       "n"
@@ -651,7 +651,7 @@
     [
       "28/05/2016",
       "Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun",
-      "<a href=\"http://arxiv.org/pdf/1511.06361v6.pdf\">Order-Embeddings of Images and Language</a>",
+      "<a href=\"http://arxiv.org/pdf/1511.06361.pdf\">Order-Embeddings of Images and Language</a>",
       "ICLR 2016",
       "CV, DL, image-caption, hierarchy",
       "n"
@@ -659,7 +659,7 @@
     [
       "28/05/2016",
       "Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov",
-      "<a href=\"http://arxiv.org/pdf/1511.04119v3.pdf\">Action Recognition using Visual Attention</a>",
+      "<a href=\"http://arxiv.org/pdf/1511.04119.pdf\">Action Recognition using Visual Attention</a>",
       "ICLR 2016",
       "CV, DL, action-recognition, attention",
       "n"
@@ -683,7 +683,7 @@
     [
       "27/05/2016",
       "Jason Weston, Sumit Chopra, Antoine Bordes",
-      "<a href=\"http://arxiv.org/pdf/1410.3916v11.pdf\">Memory Networks</a>",
+      "<a href=\"http://arxiv.org/pdf/1410.39161.pdf\">Memory Networks</a>",
       "ICLR 2015",
       "DL, memory-networks",
       "n"
@@ -715,7 +715,7 @@
     [
       "26/05/2016",
       "Andrej Karpathy, Li Fei-Fei",
-      "<a href=\"http://arxiv.org/pdf/1412.2306v2.pdf\">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>",
+      "<a href=\"http://arxiv.org/pdf/1412.2306.pdf\">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>",
       "CVPR 2015",
       "CV, DL, image-captioning, NLP",
       "n"
@@ -739,7 +739,7 @@
     [
       "26/05/2016",
       "Sergey Ioffe, Christian Szegedy",
-      "<a href=\"http://arxiv.org/pdf/1502.03167v3.pdf\">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>",
+      "<a href=\"http://arxiv.org/pdf/1502.03167.pdf\">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>",
       "JMLR 2015",
       "batch-norm, DL",
       "n"
@@ -763,7 +763,7 @@
     [
       "24/05/2016",
       "Oriol Vinyals, Samy Bengio, Manjunath Kudlur",
-      "<a href=\"http://arxiv.org/pdf/1511.06391v3.pdf\">Order Matters : Sequence to Sequence for sets</a>",
+      "<a href=\"http://arxiv.org/pdf/1511.06391.pdf\">Order Matters : Sequence to Sequence for sets</a>",
       "ICLR 2016",
       "DL, seq2seq, ordered, sorting",
       "n"
@@ -787,7 +787,7 @@
     [
       "22/05/2016",
       "Kyunghyun Cho et al",
-      "<a href=\"http://arxiv.org/pdf/1406.1078v3.pdf\">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>",
+      "<a href=\"http://arxiv.org/pdf/1406.1078.pdf\">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>",
       "ACL 2014",
       "DL, NLP, RNN-ED",
       "n"
@@ -795,7 +795,7 @@
     [
       "22/05/2016",
       "Kaiming He et al",
-      "<a href=\"https://arxiv.org/pdf/1512.03385v1.pdf\">Deep Residual Learning for Image Recognition</a>",
+      "<a href=\"https://arxiv.org/pdf/1512.03385.pdf\">Deep Residual Learning for Image Recognition</a>",
       "2015",
       "CV, DL, ResNets",
       "n"
@@ -803,7 +803,7 @@
     [
       "22/05/2016",
       "Alex Graves et al",
-      "<a href=\"https://arxiv.org/pdf/1410.5401v2.pdf\">Neural Turing Machines</a>",
+      "<a href=\"https://arxiv.org/pdf/1410.5401.pdf\">Neural Turing Machines</a>",
       "2014",
       "DL, NTM",
       "n"
@@ -843,7 +843,7 @@
     [
       "20/05/2016",
       "Lukasz Kaiser, Ilya Sutskever",
-      "<a href=\"http://arxiv.org/pdf/1511.08228v3.pdf\">Neural GPUs Learn Algorithms</a>",
+      "<a href=\"http://arxiv.org/pdf/1511.08228.pdf\">Neural GPUs Learn Algorithms</a>",
       "ICLR 2016",
       "DL",
       "n"
@@ -851,7 +851,7 @@
     [
       "19/05/2016",
       "Alex Graves",
-      "<a href=\"http://arxiv.org/pdf/1308.0850v5.pdf\">Generating Sequences With Recurrent Neural Networks</a>",
+      "<a href=\"http://arxiv.org/pdf/1308.0850.pdf\">Generating Sequences With Recurrent Neural Networks</a>",
       "2014",
       "DL",
       "n"
@@ -859,7 +859,7 @@
     [
       "19/05/2016",
       "Scott Reed et al",
-      "<a href=\"http://arxiv.org/pdf/1605.05396v1.pdf\">Generative Adversarial Text to Image Synthesis</a>",
+      "<a href=\"http://arxiv.org/pdf/1605.05396.pdf\">Generative Adversarial Text to Image Synthesis</a>",
       "ICML 2016",
       "CV, DL",
       "n"
@@ -875,7 +875,7 @@
     [
       "18/05/2016",
       "Samuel Bowman et al",
-      "<a href=\"http://arxiv.org/pdf/1511.06349v4.pdf\">Generating Sentences from a Continuous Space</a>",
+      "<a href=\"http://arxiv.org/pdf/1511.06349.pdf\">Generating Sentences from a Continuous Space</a>",
       "2015",
       "DL, NLP",
       "n"
