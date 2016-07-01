@@ -34,9 +34,6 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 * <a href="http://arxiv.org/abs/1505.01596">Learning to See by Moving</a>  
 ```30/09/2016, CV, DL```  
 ```Pulkit Agrawal, Joao Carreira, Jitendra Malik, ICCV 2015```  
@@ -46,18 +43,12 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/pdf/1511.06038v4.pdf">Neural Variational Inference for Text Processing</a>  
 ```29/06/2016, DL, NLP```  
 ```Yishu Miao, Lei Yu, Phil Blunsom, arXiv```  
->>>>>>> 989f38a5159ce157c537e1f760f2f9bf3dc01fcb
 * <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
 ```27/06/2016, DL, NTM, neural data structures```  
 ```Edward Grefenstette, Karl Moritz Hermann, Mustafa Suleyman, Phil Blunsom, NIPS 2015```  
-=======
 * <a href="http://cmp.felk.cvut.cz/cmp/courses/EP33VKR/2007/Cheng-PAMI1995.pdf">Mean Shift, Mode Seeking, and Clustering</a>  
 ```26/06/2016, ML, Clustering```  
 ```Yizong Cheng, IEEE, 1995```  
->>>>>>> fcff8ab3b0b561c9d22588c82227fa6711124b29
-* <a href="http://arxiv.org/pdf/1606.06630.pdf">On Multiplicative Integration with Recurrent Neural Networks</a>  
-```26/06/2016, RNN architecture```  
-```Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov, arXiv```  
 * <a href="http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf">Adaptive Online Gradient Descent</a>  
 ```25/06/2016, optimization, gradient descent```  
 ```Peter L. Bartlett, Elad Hazan, Alexander Rakhlin, NIPS 2007```  
