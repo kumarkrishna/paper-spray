@@ -37,10 +37,13 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1505.01596">Learning to See by Moving</a>  
 ```30/09/2016, CV, DL```  
 ```Pulkit Agrawal, Joao Carreira, Jitendra Malik, ICCV 2015```  
+* <a href="https://arxiv.org/pdf/1502.02476v4.pdf">An Infinite Restricted Boltzmann Machine</a>  
+```01/07/2016, ML, RBM```  
+```Marc-Alexandre Cote, Hugo Larochelle, Neural Computation```  
 * <a href="http://arxiv.org/abs/1412.3773">Distinguishing cause from effect using observational data: methods and benchmarks</a>  
 ```29/06/2016, ML, cause-inference```  
 ```Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Scholkopf, JMLR 2016```  
-* <a href="http://arxiv.org/pdf/1511.06038v4.pdf">Neural Variational Inference for Text Processing</a>  
+* <a href="http://arxiv.org/pdf/1511.06038.pdf">Neural Variational Inference for Text Processing</a>  
 ```29/06/2016, DL, NLP```  
 ```Yishu Miao, Lei Yu, Phil Blunsom, arXiv```  
 * <a href="https://arxiv.org/pdf/1506.02516.pdf">Learning to Transduce with Unbounded Memory</a>  
@@ -76,7 +79,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1606.03476">Generative Adversarial Imitation Learning</a>  
 ```21/06/2016, DL, generative```  
 ```Jonathan Ho, Stefano Ermon, arXiv```  
-* <a href="https://arxiv.org/pdf/1606.00709v1.pdf">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>  
+* <a href="https://arxiv.org/pdf/1606.00709.pdf">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>  
 ```21/06/2016, DL, GAN, f-GAN```  
 ```Sebastian Nowozin, Botond Cseke, Ryota Tomioka, arXiv```  
 * <a href="http://arxiv.org/abs/1505.05770">Variational Inference with Normalizing Flows</a>  
@@ -100,7 +103,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1511.02793">Generating Images from Captions with Attention</a>  
 ```19/06/2016, CV, DL```  
 ```Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba, Ruslan Salakhutdinov, ICLR 2016```  
-* <a href="http://arxiv.org/pdf/1503.04069v1.pdf">LSTM: A Search Space Odyssey</a>  
+* <a href="http://arxiv.org/pdf/1503.04069.pdf">LSTM: A Search Space Odyssey</a>  
 ```19/06/2016, DL, NLP```  
 ```Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, arXiv```  
 * <a href="https://arxiv.org/abs/1606.03657">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>  
@@ -157,28 +160,28 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1603.06277">Composing graphical models with neural networks for structured representations and fast inference</a>  
 ```14/06/2016, DL, graphical-models```  
 ```Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams, arXiv```  
-* <a href="http://arxiv.org/pdf/1506.06726v1.pdf">Skip-Thought Vectors</a>  
+* <a href="http://arxiv.org/pdf/1506.06726.pdf">Skip-Thought Vectors</a>  
 ```13/06/2016, DL, NLP```  
 ```Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler, NIPS 2015```  
 * <a href="http://arxiv.org/pdf/1512.08512.pdf">Visually Indicated Sounds</a>  
 ```12/06/2016, CV, DL```  
 ```Andrew Owens, Philip Isola, Josh McDermott, Antonio Torralba, Edward Adelson, William Freeman, CVPR 2016```  
-* <a href="https://arxiv.org/pdf/1502.04623v2.pdf">DRAW: A Recurrent Neural Network for Image Generation</a>  
+* <a href="https://arxiv.org/pdf/1502.04623.pdf">DRAW: A Recurrent Neural Network for Image Generation</a>  
 ```11/06/2016, CV, DL, DRAW```  
 ```Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra, JMLR 2015```  
-* <a href="http://arxiv.org/pdf/1511.07838v7.pdf">Dynamic Capacity Networks</a>  
+* <a href="http://arxiv.org/pdf/1511.07838.pdf">Dynamic Capacity Networks</a>  
 ```10/06/2016, DL```  
 ```Amjad Almahairi, Nicolas Ballas, Tim Cooijmans, Yin Zheng, Hugo Larochelle, Aaron Courville, JMLR, 2016```  
 * <a href="https://arxiv.org/pdf/1412.7210.pdf">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>  
 ```10/06/2016, CV, DL, ladder-networks```  
 ```Antii Rasmus, Tapani Raiko, Harri Valpola, ICLR 2015```  
-* <a href="https://arxiv.org/pdf/1511.06434v2.pdf">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>  
+* <a href="https://arxiv.org/pdf/1511.06434.pdf">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>  
 ```10/06/2016, CV, DL, DCGAN```  
 ```Alec Radford, Luke Metz, Soumith Chintala, ICLR 2016```  
-* <a href="https://arxiv.org/pdf/1604.03357v1.pdf">Improving sentence compression by learning to predict gaze</a>  
+* <a href="https://arxiv.org/pdf/1604.03357.pdf">Improving sentence compression by learning to predict gaze</a>  
 ```09/06/2016, DL, NLP```  
 ```Sigrid Klerke, Yoav Goldberg, Anders Sogaard, NAACL 2016, Best Short Paper```  
-* <a href="http://arxiv.org/pdf/1604.04378v1.pdf">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>  
+* <a href="http://arxiv.org/pdf/1604.04378.pdf">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>  
 ```08/06/2016, DL, NLP```  
 ```Shengxian Wan, Yanyan Lan, Jun Xu, Jiafeng Guo, IJCAI 2016```  
 * <a href="http://arxiv.org/abs/1506.05751">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>  
@@ -190,7 +193,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">A Neural Probabilistic Language Model</a>  
 ```07/06/2016, DL, NLP```  
 ```Yoshua Bengio, Rejean Ducharme, Pascal Vincent, Christian Jauvin, JMLR 2003```  
-* <a href="https://arxiv.org/pdf/1606.00704v1.pdf">Adversarially Learned Inference</a>  
+* <a href="https://arxiv.org/pdf/1606.00704.pdf">Adversarially Learned Inference</a>  
 ```07/06/2016, ML, DL, inference, generative model```  
 ```Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville, Subt. NIPS 2016```  
 * <a href="https://arxiv.org/abs/1312.6114">Auto-Encoding Variational Bayes</a>  
@@ -199,7 +202,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1506.08941">Language Understanding for Text-based Games Using Deep Reinforcement Learning</a>  
 ```06/06/2016, DL, NLP, RL```  
 ```Karthik Narasimhan, Tejas Kulkarni, Regina Barzilay, EMNLP 2015```  
-* <a href="http://arxiv.org/pdf/1411.4166v4.pdf">Retrofitting Word Vectors to Semantic Lexicons</a>  
+* <a href="http://arxiv.org/pdf/1411.4166.pdf">Retrofitting Word Vectors to Semantic Lexicons</a>  
 ```06/06/2016, NLP, word vectors```  
 ```Manaal Faruqui, Jesse Dodge, Sujay K. Jauhar, Chris Dyer, Eduard Hovy, Noah A. Smith, NAACL 2015```  
 * <a href="http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>  
@@ -211,16 +214,16 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf">Neural Word Embedding as Implicit Matrix Factorization</a>  
 ```06/06/2016, DL, NLP, word vectors```  
 ```Omer Levy, Yoav Goldberg, NIPS 2014```  
-* <a href="https://arxiv.org/pdf/1604.07379v1.pdf">Context Encoders: Feature Learning by Inpainting</a>  
+* <a href="https://arxiv.org/pdf/1604.07379.pdf">Context Encoders: Feature Learning by Inpainting</a>  
 ```05/06/2016, CV, DL, context-encoder```  
 ```Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei AEfros, CVPR 2016```  
 * <a href="http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf">Long Short-term Memory</a>  
 ```04/06/2016, DL, RNN, LSTM```  
 ```Sepp Hochreiter, Jurgen Schmidhuber, Neural Computation, 1997```  
-* <a href="https://arxiv.org/pdf/1302.4389v4.pdf">Maxout Networks</a>  
+* <a href="https://arxiv.org/pdf/1302.4389.pdf">Maxout Networks</a>  
 ```03/06/2016, DL, dropout, maxout```  
 ```Ian Goodfellow, David Farley, Mehdi Mirza, Aaron Courville, Yoshua Bengio, JMLR 2013```  
-* <a href="http://arxiv.org/pdf/1402.3511v1.pdf">A Clockwork RNN</a>  
+* <a href="http://arxiv.org/pdf/1402.3511.pdf">A Clockwork RNN</a>  
 ```02/06/2016, DL, RNN, clock-work```  
 ```Jan Koutnik, Klaus Greff, Faustino Gomez, Jurgen Schmidhuber, JMLR 2014```  
 * <a href="http://arxiv.org/pdf/1601.06733.pdf">Long Short-Term Memory-Networks for Machine Reading</a>  
@@ -247,13 +250,13 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>  
 ```01/06/2016, DL, RL```  
 ```Volodymyr Mnih, Adria Puigdomenech Badia, Mehdi Mirza, Alex Graves, Timothy P. Lillicrap, Tim Harley, David Silver, Koray Kavukcuoglu, 2016```  
-* <a href="http://arxiv.org/pdf/1605.08803v1.pdf">Density estimation using Real NVP</a>  
+* <a href="http://arxiv.org/pdf/1605.08803.pdf">Density estimation using Real NVP</a>  
 ```01/06/2016, DL, latent space, image generation```  
 ```Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio, Google Brain```  
 * <a href="https://papers.nips.cc/paper/4334-sparse-filtering.pdf">Sparse Filtering</a>  
 ```01/06/2016, ML, DL, sparse```  
 ```Jiquan Ngiam, Pang Wei Koh, Zhenghao Chen, Sonia Bhaskar, Andrew Y. Ng, NIPS 2011```  
-* <a href="http://arxiv.org/pdf/1505.00521v3.pdf">Reinforcement Learning Neural Turing Machines</a>  
+* <a href="http://arxiv.org/pdf/1505.00521.pdf">Reinforcement Learning Neural Turing Machines</a>  
 ```31/05/2016, DL, NTM, RL```  
 ```Wojciech Zaremba, ICLR 2016```  
 * <a href="https://arxiv.org/abs/1510.03009">Neural Networks with Few Multiplications</a>  
@@ -265,7 +268,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1506.07285">Ask Me Anything: Dynamic Memory Networks for Natural Language Processing</a>  
 ```30/05/2016, DL, DMN, NLP, dynamic-memory-networks```  
 ```Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher, ICML 2016```  
-* <a href="http://arxiv.org/pdf/1511.06342v4.pdf">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>  
+* <a href="http://arxiv.org/pdf/1511.06342.pdf">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>  
 ```30/05/2016, DL, RL, actor-mimic```  
 ```Emilio Parisotto, Jimmy Ba, Ruslan Salakhutdinov, ICLR 2016```  
 * <a href="http://arxiv.org/abs/1511.06279">Neural Programmer-Interpreters</a>  
@@ -277,10 +280,10 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1512.02902">MovieQA : Understanding Stories in Movies through Question-Answering</a>  
 ```28/05/2016, CV, DL, QA, movie-story```  
 ```Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, CVPR 2016```  
-* <a href="http://arxiv.org/pdf/1511.06361v6.pdf">Order-Embeddings of Images and Language</a>  
+* <a href="http://arxiv.org/pdf/1511.06361.pdf">Order-Embeddings of Images and Language</a>  
 ```28/05/2016, CV, DL, image-caption, hierarchy```  
 ```Ivan Vendrov, Ryan Kiros, Sanja Fidler, Raquel Urtasun, ICLR 2016```  
-* <a href="http://arxiv.org/pdf/1511.04119v3.pdf">Action Recognition using Visual Attention</a>  
+* <a href="http://arxiv.org/pdf/1511.04119.pdf">Action Recognition using Visual Attention</a>  
 ```28/05/2016, CV, DL, action-recognition, attention```  
 ```Shikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov, ICLR 2016```  
 * <a href="http://arxiv.org/abs/1503.08895">End-To-End Memory Networks</a>  
@@ -289,7 +292,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1511.06581">Dueling Network Architectures for Deep Reinforcement Learning</a>  
 ```27/05/2016, DL, dueling-networks, RL```  
 ```Ziyu Whang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas, ICML 2016```  
-* <a href="http://arxiv.org/pdf/1410.3916v11.pdf">Memory Networks</a>  
+* <a href="http://arxiv.org/pdf/1410.39161.pdf">Memory Networks</a>  
 ```27/05/2016, DL, memory-networks```  
 ```Jason Weston, Sumit Chopra, Antoine Bordes, ICLR 2015```  
 * <a href="http://arxiv.org/abs/1312.5602">Playing Atari with Deep Reinforcement Learning</a>  
@@ -301,7 +304,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf">An Introduction to Variational Methods for Graphical Models</a>  
 ```26/05/2016, graphical-models, ML, variational-methods```  
 ```Michael Jordan et al, Machine Learning 1999```  
-* <a href="http://arxiv.org/pdf/1412.2306v2.pdf">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>  
+* <a href="http://arxiv.org/pdf/1412.2306.pdf">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>  
 ```26/05/2016, CV, DL, image-captioning, NLP```  
 ```Andrej Karpathy, Li Fei-Fei, CVPR 2015```  
 * <a href="https://arxiv.org/pdf/1505.00468.pdf">VQA : Visual Question Answering</a>  
@@ -310,7 +313,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf">Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks</a>  
 ```26/05/2016, DL, RNN, scheduled-sampling```  
 ```Samy Bengio et al, NIPS 2015```  
-* <a href="http://arxiv.org/pdf/1502.03167v3.pdf">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>  
+* <a href="http://arxiv.org/pdf/1502.03167.pdf">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>  
 ```26/05/2016, batch-norm, DL```  
 ```Sergey Ioffe, Christian Szegedy, JMLR 2015```  
 * <a href="http://arxiv.org/abs/1502.03044">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a>  
@@ -319,7 +322,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://papers.nips.cc/paper/5866-pointer-networks.pdf">Pointer Networks</a>  
 ```24/05/2016, DL, Pointer-Nets```  
 ```Oriol Vinyals, Meire Fortunato, Navdeep Jaitly, NIPS 2015```  
-* <a href="http://arxiv.org/pdf/1511.06391v3.pdf">Order Matters : Sequence to Sequence for sets</a>  
+* <a href="http://arxiv.org/pdf/1511.06391.pdf">Order Matters : Sequence to Sequence for sets</a>  
 ```24/05/2016, DL, seq2seq, ordered, sorting```  
 ```Oriol Vinyals, Samy Bengio, Manjunath Kudlur, ICLR 2016```  
 * <a href="http://arxiv.org/pdf/1409.0473.pdf">Neural Machine Translation by Jointly Learning to Align and Translate</a>  
@@ -328,13 +331,13 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://www.cs.toronto.edu/~hinton/absps/tsne.pdf">Visualizing Data using t-SNE</a>  
 ```23/05/2016, ML, Embeddings```  
 ```Maaten, Hinton,, JMLR 2008```  
-* <a href="http://arxiv.org/pdf/1406.1078v3.pdf">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>  
+* <a href="http://arxiv.org/pdf/1406.1078.pdf">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>  
 ```22/05/2016, DL, NLP, RNN-ED```  
 ```Kyunghyun Cho et al, ACL 2014```  
-* <a href="https://arxiv.org/pdf/1512.03385v1.pdf">Deep Residual Learning for Image Recognition</a>  
+* <a href="https://arxiv.org/pdf/1512.03385.pdf">Deep Residual Learning for Image Recognition</a>  
 ```22/05/2016, CV, DL, ResNets```  
 ```Kaiming He et al, 2015```  
-* <a href="https://arxiv.org/pdf/1410.5401v2.pdf">Neural Turing Machines</a>  
+* <a href="https://arxiv.org/pdf/1410.5401.pdf">Neural Turing Machines</a>  
 ```22/05/2016, DL, NTM```  
 ```Alex Graves et al, 2014```  
 * <a href="http://machinelearning.org/proceedings/icml2004/papers/76.pdf">Support Vector Machine Learning for Interdependent and Structured Output Spaces</a>  
@@ -349,19 +352,19 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/pdf/1412.6980.pdf">Adam : A Method for Stochastic Optimization</a>  
 ```20/05/2016, ML, Optimization, ADAM```  
 ```Diederik Kingma, Jimmy Ba, ICLR 2015```  
-* <a href="http://arxiv.org/pdf/1511.08228v3.pdf">Neural GPUs Learn Algorithms</a>  
+* <a href="http://arxiv.org/pdf/1511.08228.pdf">Neural GPUs Learn Algorithms</a>  
 ```20/05/2016, DL```  
 ```Lukasz Kaiser, Ilya Sutskever, ICLR 2016```  
-* <a href="http://arxiv.org/pdf/1308.0850v5.pdf">Generating Sequences With Recurrent Neural Networks</a>  
+* <a href="http://arxiv.org/pdf/1308.0850.pdf">Generating Sequences With Recurrent Neural Networks</a>  
 ```19/05/2016, DL```  
 ```Alex Graves, 2014```  
-* <a href="http://arxiv.org/pdf/1605.05396v1.pdf">Generative Adversarial Text to Image Synthesis</a>  
+* <a href="http://arxiv.org/pdf/1605.05396.pdf">Generative Adversarial Text to Image Synthesis</a>  
 ```19/05/2016, CV, DL```  
 ```Scott Reed et al, ICML 2016```  
 * <a href="https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf">Learning word embeddings efficiently with noise-contrastive estimation</a>  
 ```18/05/2016, DL, NLP```  
 ```Andriy Mnih et al, NIPS 2013```  
-* <a href="http://arxiv.org/pdf/1511.06349v4.pdf">Generating Sentences from a Continuous Space</a>  
+* <a href="http://arxiv.org/pdf/1511.06349.pdf">Generating Sentences from a Continuous Space</a>  
 ```18/05/2016, DL, NLP```  
 ```Samuel Bowman et al, 2015```  
 * <a href="https://www.jair.org/media/301/live-301-1562-jair.pdf">Reinforcement Learning: A Survey</a>  
