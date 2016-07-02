@@ -118,9 +118,6 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
 ```17/06/2016, DL, dropout```  
 ```Sida I. Wang, Christopher D. Manning, ICML 2013```  
-* <a href="http://nlp.stanford.edu/pubs/sidaw13fast.pdf">Fast dropout training</a>  
-```17/06/2016, DL, dropout```  
-```Sida I. Wang, Christopher D. Manning, ICML 2013```  
 * <a href="https://www.semanticscholar.org/paper/Stating-the-Obvious-Extracting-Visual-Common-Sense-Yatskar-Ordonez/0dcc768631d9ede8a3679e980b37204b782781b2/pdf">Stating the Obvious: Extracting Visual Common Sense Knowledge</a>  
 ```15/06/2016, DL, NLP```  
 ```Mark Yatskar, Vicente Ordonez, Ali Farhadi, NAACL 2016```  
