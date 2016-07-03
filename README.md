@@ -37,6 +37,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1505.01596">Learning to See by Moving</a>  
 ```30/09/2016, CV, DL```  
 ```Pulkit Agrawal, Joao Carreira, Jitendra Malik, ICCV 2015```  
+* <a href="http://arxiv.org/pdf/1606.02447.pdf">Learning Language Games through Interaction</a>  
+```03/07/2016, DL, NLP```  
+```Sida Wang, Percy Liang, Chris Manning, ACL 2016```  
 * <a href="http://arxiv.org/pdf/1412.6856.pdf">Object Detectors emerge in Deep Scene CNNs</a>  
 ```02/07/2016, CV, DL```  
 ```Bolei Zhou, Aditya Khosla, Agata Lapedriza, Aude Oliva, Antonio Torralba, ICLR 2015```  
