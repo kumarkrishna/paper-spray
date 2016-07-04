@@ -34,9 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
-* <a href="http://arxiv.org/abs/1505.01596">Learning to See by Moving</a>  
-```30/09/2016, CV, DL```  
-```Pulkit Agrawal, Joao Carreira, Jitendra Malik, ICCV 2015```  
+* <a href="http://people.csail.mit.edu/khosla/papers/nips2012_khosla.pdf">Memorability of Image Regions</a>  
+```04/07/2016, CV, DL```  
+```Aditya Khosla, Jianxiong Xiao, Antonio Torralba, Aude Oliva, NIPS 2012```  
 * <a href="http://arxiv.org/pdf/1508.06615v4.pdf">Character-Aware Neural Language Models</a>  
 ```04/07/2016, DL, NLP```  
 ```Yoon Kim, Yacine Jernite, David Sontag, Alexander M. Rush, AAAI 2016```  
@@ -49,6 +49,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/pdf/1502.02476v4.pdf">An Infinite Restricted Boltzmann Machine</a>  
 ```01/07/2016, ML, RBM```  
 ```Marc-Alexandre Cote, Hugo Larochelle, Neural Computation```  
+* <a href="http://arxiv.org/abs/1505.01596">Learning to See by Moving</a>  
+```30/06/2016, CV, DL```  
+```Pulkit Agrawal, Joao Carreira, Jitendra Malik, ICCV 2015```  
 * <a href="http://arxiv.org/abs/1412.3773">Distinguishing cause from effect using observational data: methods and benchmarks</a>  
 ```29/06/2016, ML, cause-inference```  
 ```Joris M. Mooij, Jonas Peters, Dominik Janzing, Jakob Zscheischler, Bernhard Scholkopf, JMLR 2016```  

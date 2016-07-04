@@ -1,10 +1,10 @@
 {
   "data": [
     [
-      "30/09/2016", 
-      "Pulkit Agrawal, Joao Carreira, Jitendra Malik", 
-      "<a href=\"http://arxiv.org/abs/1505.01596\">Learning to See by Moving</a>", 
-      "ICCV 2015", 
+      "04/07/2016", 
+      "Aditya Khosla, Jianxiong Xiao, Antonio Torralba, Aude Oliva", 
+      "<a href=\"http://people.csail.mit.edu/khosla/papers/nips2012_khosla.pdf\">Memorability of Image Regions</a>", 
+      "NIPS 2012", 
       "CV, DL", 
       "n"
     ], 
@@ -38,6 +38,14 @@
       "<a href=\"https://arxiv.org/pdf/1502.02476v4.pdf\">An Infinite Restricted Boltzmann Machine</a>", 
       "Neural Computation", 
       "ML, RBM", 
+      "n"
+    ], 
+    [
+      "30/06/2016", 
+      "Pulkit Agrawal, Joao Carreira, Jitendra Malik", 
+      "<a href=\"http://arxiv.org/abs/1505.01596\">Learning to See by Moving</a>", 
+      "ICCV 2015", 
+      "CV, DL", 
       "n"
     ], 
     [
