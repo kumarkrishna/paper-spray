@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1511.06732">Sequence Level Training with Recurrent Neural Networks</a>  
+```06/07/2016, DL, RNN```  
+```Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba, ICLR 2016```  
 * <a href="http://people.csail.mit.edu/khosla/papers/nips2012_khosla.pdf">Memorability of Image Regions</a>  
 ```04/07/2016, CV, DL```  
 ```Aditya Khosla, Jianxiong Xiao, Antonio Torralba, Aude Oliva, NIPS 2012```  
