@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1606.01933.pdf">A Decomposable Attention Model for Natural Language Inference</a>  
+```09/07/2016, DL, NLP```  
+```Ankur P. Parikh, Oscar Tackstrom, Dipanjan Das, Jakob Uszkoreit, arXiv```  
 * <a href="http://arxiv.org/abs/1511.06732">Sequence Level Training with Recurrent Neural Networks</a>  
 ```06/07/2016, DL, RNN```  
 ```Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba, ICLR 2016```  
