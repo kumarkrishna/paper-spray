@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "14/07/2016", 
+      "Jun Yin, Xin Jiang, Zhengdong Lu, Lifeng Shang, Hang Li, Xiaoming Li", 
+      "<a href=\"http://arxiv.org/pdf/1512.01337v4.pdf\">Neural Generative Question Answering</a>", 
+      "ICLR 2016", 
+      "DL, NLP, QA", 
+      "n"
+    ], 
+    [
       "09/07/2016", 
       "Ankur P. Parikh, Oscar Tackstrom, Dipanjan Das, Jakob Uszkoreit", 
       "<a href=\"http://arxiv.org/pdf/1606.01933.pdf\">A Decomposable Attention Model for Natural Language Inference</a>", 

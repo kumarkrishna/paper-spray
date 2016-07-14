@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/pdf/1512.01337v4.pdf">Neural Generative Question Answering</a>  
+```14/07/2016, DL, NLP, QA```  
+```Jun Yin, Xin Jiang, Zhengdong Lu, Lifeng Shang, Hang Li, Xiaoming Li, ICLR 2016```  
 * <a href="http://arxiv.org/pdf/1606.01933.pdf">A Decomposable Attention Model for Natural Language Inference</a>  
 ```09/07/2016, DL, NLP```  
 ```Ankur P. Parikh, Oscar Tackstrom, Dipanjan Das, Jakob Uszkoreit, arXiv```  
