@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1411.1784v1.pdf">Conditional Generative Aversarial Nets</a>  
+```14/07/2016, GAN, DL```  
+```Mehdi Mirza, Simon Osindero, NIPS DL Workshop, 2014```  
 * <a href="http://arxiv.org/pdf/1512.01337v4.pdf">Neural Generative Question Answering</a>  
 ```14/07/2016, DL, NLP, QA```  
 ```Jun Yin, Xin Jiang, Zhengdong Lu, Lifeng Shang, Hang Li, Xiaoming Li, ICLR 2016```  

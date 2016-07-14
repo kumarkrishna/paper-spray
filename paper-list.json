@@ -2,6 +2,14 @@
   "data": [
     [
       "14/07/2016", 
+      "Mehdi Mirza, Simon Osindero", 
+      "<a href=\"https://arxiv.org/pdf/1411.1784v1.pdf\">Conditional Generative Aversarial Nets</a>", 
+      "NIPS DL Workshop, 2014", 
+      "GAN, DL", 
+      "n"
+    ], 
+    [
+      "14/07/2016", 
       "Jun Yin, Xin Jiang, Zhengdong Lu, Lifeng Shang, Hang Li, Xiaoming Li", 
       "<a href=\"http://arxiv.org/pdf/1512.01337v4.pdf\">Neural Generative Question Answering</a>", 
       "ICLR 2016", 
