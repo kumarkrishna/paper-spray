@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://papers.nips.cc/paper/901-higher-order-statistical-decorrelation-without-information-loss.pdf">Higher Order Statistical Decorrelation without Information Loss</a>  
+```18/07/2016, DL, IT```  
+```Gustavo Deco, Wilfried Brauer, NIPS 1995```  
 * <a href="https://arxiv.org/pdf/1411.1784v1.pdf">Conditional Generative Aversarial Nets</a>  
 ```14/07/2016, GAN, DL```  
 ```Mehdi Mirza, Simon Osindero, NIPS DL Workshop, 2014```  

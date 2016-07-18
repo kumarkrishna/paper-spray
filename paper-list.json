@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "18/07/2016", 
+      "Gustavo Deco, Wilfried Brauer", 
+      "<a href=\"https://papers.nips.cc/paper/901-higher-order-statistical-decorrelation-without-information-loss.pdf\">Higher Order Statistical Decorrelation without Information Loss</a>", 
+      "NIPS 1995", 
+      "DL, IT", 
+      "n"
+    ], 
+    [
       "14/07/2016", 
       "Mehdi Mirza, Simon Osindero", 
       "<a href=\"https://arxiv.org/pdf/1411.1784v1.pdf\">Conditional Generative Aversarial Nets</a>", 
