@@ -2,6 +2,14 @@
   "data": [
     [
       "18/07/2016", 
+      "Laurent Dinh, David Krueger, Yoshua Bengio", 
+      "<a href=\"https://arxiv.org/abs/1410.8516\">NICE: Non-linear Independent Components Estimation</a>", 
+      "ICLR 2015", 
+      "DL", 
+      "n"
+    ], 
+    [
+      "18/07/2016", 
       "Gustavo Deco, Wilfried Brauer", 
       "<a href=\"https://papers.nips.cc/paper/901-higher-order-statistical-decorrelation-without-information-loss.pdf\">Higher Order Statistical Decorrelation without Information Loss</a>", 
       "NIPS 1995", 

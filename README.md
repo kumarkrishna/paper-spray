@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1410.8516">NICE: Non-linear Independent Components Estimation</a>  
+```18/07/2016, DL```  
+```Laurent Dinh, David Krueger, Yoshua Bengio, ICLR 2015```  
 * <a href="https://papers.nips.cc/paper/901-higher-order-statistical-decorrelation-without-information-loss.pdf">Higher Order Statistical Decorrelation without Information Loss</a>  
 ```18/07/2016, DL, IT```  
 ```Gustavo Deco, Wilfried Brauer, NIPS 1995```  
