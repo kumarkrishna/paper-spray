@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1606.01549v1.pdf">Gated-Attention Readers for Text Comprehension</a>  
+```19/07/2016, DL, NLP```  
+```Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov, arXiv```  
 * <a href="https://arxiv.org/abs/1601.06759">Pixel Recurrent Neural Networks</a>  
 ```19/07/2016, DL, RNN```  
 ```Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu, ICML 2016```  

@@ -2,6 +2,14 @@
   "data": [
     [
       "19/07/2016", 
+      "Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov", 
+      "<a href=\"https://arxiv.org/pdf/1606.01549v1.pdf\">Gated-Attention Readers for Text Comprehension</a>", 
+      "arXiv", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
+      "19/07/2016", 
       "Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu", 
       "<a href=\"https://arxiv.org/abs/1601.06759\">Pixel Recurrent Neural Networks</a>", 
       "ICML 2016", 
