@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "19/07/2016", 
+      "Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu", 
+      "<a href=\"https://arxiv.org/abs/1601.06759\">Pixel Recurrent Neural Networks</a>", 
+      "ICML 2016", 
+      "DL, RNN", 
+      "n"
+    ], 
+    [
       "18/07/2016", 
       "Laurent Dinh, David Krueger, Yoshua Bengio", 
       "<a href=\"https://arxiv.org/abs/1410.8516\">NICE: Non-linear Independent Components Estimation</a>", 

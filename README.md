@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1601.06759">Pixel Recurrent Neural Networks</a>  
+```19/07/2016, DL, RNN```  
+```Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu, ICML 2016```  
 * <a href="https://arxiv.org/abs/1410.8516">NICE: Non-linear Independent Components Estimation</a>  
 ```18/07/2016, DL```  
 ```Laurent Dinh, David Krueger, Yoshua Bengio, ICLR 2015```  
