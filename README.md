@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1210.7559">Tensor decompositions for learning latent variable models</a>  
+```19/07/2016, ML, TF```  
+```Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky, JMLR 2014```  
 * <a href="https://arxiv.org/abs/1601.06759">Pixel Recurrent Neural Networks</a>  
 ```19/07/2016, DL, RNN```  
 ```Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu, ICML 2016```  

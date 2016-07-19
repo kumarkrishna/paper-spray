@@ -2,6 +2,14 @@
   "data": [
     [
       "19/07/2016", 
+      "Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky", 
+      "<a href=\"http://arxiv.org/abs/1210.7559\">Tensor decompositions for learning latent variable models</a>", 
+      "JMLR 2014", 
+      "ML, TF", 
+      "n"
+    ], 
+    [
+      "19/07/2016", 
       "Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu", 
       "<a href=\"https://arxiv.org/abs/1601.06759\">Pixel Recurrent Neural Networks</a>", 
       "ICML 2016", 
