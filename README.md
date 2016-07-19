@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1602.05908v1">Efficient approaches for escaping higher order saddle points in non-convex optimization</a>  
+```19/07/2016, ML, non-convex-optimization```  
+```Anima Anandkumar, Rong Ge, COLT 2016```  
 * <a href="http://arxiv.org/abs/1210.7559">Tensor decompositions for learning latent variable models</a>  
 ```19/07/2016, ML, TF```  
 ```Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky, JMLR 2014```  
