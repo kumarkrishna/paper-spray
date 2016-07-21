@@ -2,6 +2,14 @@
   "data": [
     [
       "20/07/2016", 
+      "Danilo Jimenez Rezende, Shakir Mohamed, Daan Wierstra", 
+      "<a href=\"https://arxiv.org/abs/1401.4082\">Stochastic backpropagation and approximate inference in deep generative models</a>", 
+      "ICML 2014", 
+      "generative-models", 
+      "n"
+    ], 
+    [
+      "20/07/2016", 
       "Tim Salimans, Diederik P. Kingma, Max Welling", 
       "<a href=\"https://arxiv.org/abs/1410.6460\">Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</a>", 
       "ICML 2015", 

@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1401.4082">Stochastic backpropagation and approximate inference in deep generative models</a>  
+```20/07/2016, generative-models```  
+```Danilo Jimenez Rezende, Shakir Mohamed, Daan Wierstra, ICML 2014```  
 * <a href="https://arxiv.org/abs/1410.6460">Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</a>  
 ```20/07/2016, MCMC, VAE```  
 ```Tim Salimans, Diederik P. Kingma, Max Welling, ICML 2015```  
