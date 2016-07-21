@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1511.00363">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>  
+```21/07/2016, DL, binary-connect```  
+```Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David, NIPS 2015```  
 * <a href="https://arxiv.org/abs/1401.4082">Stochastic backpropagation and approximate inference in deep generative models</a>  
 ```20/07/2016, generative-models```  
 ```Danilo Jimenez Rezende, Shakir Mohamed, Daan Wierstra, ICML 2014```  

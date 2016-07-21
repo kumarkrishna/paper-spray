@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "21/07/2016", 
+      "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David", 
+      "<a href=\"http://arxiv.org/abs/1511.00363\">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>", 
+      "NIPS 2015", 
+      "DL, binary-connect", 
+      "n"
+    ], 
+    [
       "20/07/2016", 
       "Danilo Jimenez Rezende, Shakir Mohamed, Daan Wierstra", 
       "<a href=\"https://arxiv.org/abs/1401.4082\">Stochastic backpropagation and approximate inference in deep generative models</a>", 
