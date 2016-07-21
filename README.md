@@ -424,6 +424,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf">k-means++: The Advantages of Careful Seeding</a>  
 ```17/05/2016, Clustering, ML```  
 ```David Arthur et al, SODA 2007```  
+* <a href="https://arxiv.org/abs/1604.03640">Bridging the Gaps Betweeen Residual Learning, Recurrent Neural Networks and Visual Cortex</a>  
+```13/04/2016, CV, DL, cortex```  
+```Quanli Liao, Tomas Poggio, arxiv```  
 * <a href="http://www.utexas.edu/cola/files/1515661">Eye movements in natural behaviour</a>  
 ```01/06/2015, eye-movement, attention```  
 ```Mary Hayhoe, Dana Ballard, Trends in Cognitive Sciences, 2005```  
