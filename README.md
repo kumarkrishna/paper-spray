@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1410.6460">Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</a>  
+```20/07/2016, MCMC, VAE```  
+```Tim Salimans, Diederik P. Kingma, Max Welling, ICML 2015```  
 * <a href="http://arxiv.org/abs/1602.05908v1">Efficient approaches for escaping higher order saddle points in non-convex optimization</a>  
 ```19/07/2016, ML, non-convex-optimization```  
 ```Anima Anandkumar, Rong Ge, COLT 2016```  

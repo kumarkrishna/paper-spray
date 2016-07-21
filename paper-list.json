@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "20/07/2016", 
+      "Tim Salimans, Diederik P. Kingma, Max Welling", 
+      "<a href=\"https://arxiv.org/abs/1410.6460\">Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</a>", 
+      "ICML 2015", 
+      "MCMC, VAE", 
+      "n"
+    ], 
+    [
       "19/07/2016", 
       "Anima Anandkumar, Rong Ge", 
       "<a href=\"http://arxiv.org/abs/1602.05908v1\">Efficient approaches for escaping higher order saddle points in non-convex optimization</a>", 
