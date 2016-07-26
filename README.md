@@ -40,6 +40,21 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/pdf/1606.01549v1.pdf">Gated-Attention Readers for Text Comprehension</a>  
 ```19/07/2016, DL, NLP```  
 ```Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov, arXiv```  
+* <a href="http://arxiv.org/abs/1511.00363">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>  
+```21/07/2016, DL, binary-connect```  
+```Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David, NIPS 2015```  
+* <a href="https://arxiv.org/abs/1401.4082">Stochastic backpropagation and approximate inference in deep generative models</a>  
+```20/07/2016, generative-models```  
+```Danilo Jimenez Rezende, Shakir Mohamed, Daan Wierstra, ICML 2014```  
+* <a href="https://arxiv.org/abs/1410.6460">Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</a>  
+```20/07/2016, MCMC, VAE```  
+```Tim Salimans, Diederik P. Kingma, Max Welling, ICML 2015```  
+* <a href="http://arxiv.org/abs/1602.05908v1">Efficient approaches for escaping higher order saddle points in non-convex optimization</a>  
+```19/07/2016, ML, non-convex-optimization```  
+```Anima Anandkumar, Rong Ge, COLT 2016```  
+* <a href="http://arxiv.org/abs/1210.7559">Tensor decompositions for learning latent variable models</a>  
+```19/07/2016, ML, TF```  
+```Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky, JMLR 2014```  
 * <a href="https://arxiv.org/abs/1601.06759">Pixel Recurrent Neural Networks</a>  
 ```19/07/2016, DL, RNN```  
 ```Aaron van den Oord, Nal Kalchbrenner, Koray Kavukcuoglu, ICML 2016```  
@@ -415,6 +430,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf">k-means++: The Advantages of Careful Seeding</a>  
 ```17/05/2016, Clustering, ML```  
 ```David Arthur et al, SODA 2007```  
+* <a href="https://arxiv.org/abs/1604.03640">Bridging the Gaps Betweeen Residual Learning, Recurrent Neural Networks and Visual Cortex</a>  
+```13/04/2016, CV, DL, cortex```  
+```Quanli Liao, Tomas Poggio, arxiv```  
 * <a href="http://www.utexas.edu/cola/files/1515661">Eye movements in natural behaviour</a>  
 ```01/06/2015, eye-movement, attention```  
 ```Mary Hayhoe, Dana Ballard, Trends in Cognitive Sciences, 2005```  

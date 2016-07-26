@@ -7,6 +7,38 @@
       "arXiv", 
       "DL, NLP, Attention memory", 
       "n"
+    ],
+    [
+      "21/07/2016", 
+      "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David", 
+      "<a href=\"http://arxiv.org/abs/1511.00363\">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>", 
+      "NIPS 2015", 
+      "DL, binary-connect", 
+      "n"
+    ], 
+    [
+      "20/07/2016", 
+      "Danilo Jimenez Rezende, Shakir Mohamed, Daan Wierstra", 
+      "<a href=\"https://arxiv.org/abs/1401.4082\">Stochastic backpropagation and approximate inference in deep generative models</a>", 
+      "ICML 2014", 
+      "generative-models", 
+      "n"
+    ], 
+    [
+      "20/07/2016", 
+      "Tim Salimans, Diederik P. Kingma, Max Welling", 
+      "<a href=\"https://arxiv.org/abs/1410.6460\">Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</a>", 
+      "ICML 2015", 
+      "MCMC, VAE", 
+      "n"
+    ], 
+    [
+      "19/07/2016", 
+      "Anima Anandkumar, Rong Ge", 
+      "<a href=\"http://arxiv.org/abs/1602.05908v1\">Efficient approaches for escaping higher order saddle points in non-convex optimization</a>", 
+      "COLT 2016", 
+      "ML, non-convex-optimization", 
+      "n"
     ], 
     [
       "19/07/2016", 
@@ -14,6 +46,14 @@
       "<a href=\"https://arxiv.org/pdf/1606.01549v1.pdf\">Gated-Attention Readers for Text Comprehension</a>", 
       "arXiv", 
       "DL, NLP", 
+      "n"
+    ],
+    [
+      "19/07/2016",
+      "Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky", 
+      "<a href=\"http://arxiv.org/abs/1210.7559\">Tensor decompositions for learning latent variable models</a>", 
+      "JMLR 2014", 
+      "ML, TF", 
       "n"
     ], 
     [
@@ -1014,6 +1054,14 @@
       "<a href=\"http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf\">k-means++: The Advantages of Careful Seeding</a>", 
       "SODA 2007", 
       "Clustering, ML", 
+      "n"
+    ], 
+    [
+      "13/04/2016", 
+      "Quanli Liao, Tomas Poggio", 
+      "<a href=\"https://arxiv.org/abs/1604.03640\">Bridging the Gaps Betweeen Residual Learning, Recurrent Neural Networks and Visual Cortex</a>", 
+      "arxiv", 
+      "CV, DL, cortex", 
       "n"
     ], 
     [
