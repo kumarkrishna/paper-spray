@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "26/07/2016", 
+      "Yiming Cui, Zhipeng Chen, Si Wei", 
+      "<a href=\"https://arxiv.org/pdf/1607.04423v2.pdf\">Attention-over-Attention Neural Networks for Reading Comprehension</a>", 
+      "arXiv", 
+      "DL, NLP, Attention memory", 
+      "n"
+    ],
+    [
       "21/07/2016", 
       "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David", 
       "<a href=\"http://arxiv.org/abs/1511.00363\">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>", 
@@ -34,6 +42,14 @@
     ], 
     [
       "19/07/2016", 
+      "Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov", 
+      "<a href=\"https://arxiv.org/pdf/1606.01549v1.pdf\">Gated-Attention Readers for Text Comprehension</a>", 
+      "arXiv", 
+      "DL, NLP", 
+      "n"
+    ],
+    [
+      "19/07/2016",
       "Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky", 
       "<a href=\"http://arxiv.org/abs/1210.7559\">Tensor decompositions for learning latent variable models</a>", 
       "JMLR 2014", 

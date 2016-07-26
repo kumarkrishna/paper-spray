@@ -34,6 +34,12 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1607.04423v2.pdf">Attention-over-Attention Neural Networks for Reading Comprehension</a>  
+```26/07/2016, DL, NLP, Attention memory```  
+```Yiming Cui, Zhipeng Chen, Si Wei, arXiv```  
+* <a href="https://arxiv.org/pdf/1606.01549v1.pdf">Gated-Attention Readers for Text Comprehension</a>  
+```19/07/2016, DL, NLP```  
+```Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov, arXiv```  
 * <a href="http://arxiv.org/abs/1511.00363">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>  
 ```21/07/2016, DL, binary-connect```  
 ```Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David, NIPS 2015```  
