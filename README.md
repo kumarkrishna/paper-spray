@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1607.04423v2.pdf">Attention-over-Attention Neural Networks for Reading Comprehension</a>  
+```26/07/2016, DL, NLP, Attention memory```  
+```Yiming Cui, Zhipeng Chen, Si Wei, arXiv```  
 * <a href="https://arxiv.org/pdf/1606.01549v1.pdf">Gated-Attention Readers for Text Comprehension</a>  
 ```19/07/2016, DL, NLP```  
 ```Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov, arXiv```  

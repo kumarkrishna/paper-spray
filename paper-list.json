@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "26/07/2016", 
+      "Yiming Cui, Zhipeng Chen, Si Wei", 
+      "<a href=\"https://arxiv.org/pdf/1607.04423v2.pdf\">Attention-over-Attention Neural Networks for Reading Comprehension</a>", 
+      "arXiv", 
+      "DL, NLP, Attention memory", 
+      "n"
+    ], 
+    [
       "19/07/2016", 
       "Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov", 
       "<a href=\"https://arxiv.org/pdf/1606.01549v1.pdf\">Gated-Attention Readers for Text Comprehension</a>", 
