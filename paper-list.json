@@ -7,7 +7,7 @@
       "arXiv", 
       "DL, NLP, Attention memory", 
       "n"
-    ],
+    ], 
     [
       "21/07/2016", 
       "Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David", 
@@ -47,9 +47,9 @@
       "arXiv", 
       "DL, NLP", 
       "n"
-    ],
+    ], 
     [
-      "19/07/2016",
+      "19/07/2016", 
       "Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky", 
       "<a href=\"http://arxiv.org/abs/1210.7559\">Tensor decompositions for learning latent variable models</a>", 
       "JMLR 2014", 
@@ -566,6 +566,14 @@
       "<a href=\"https://arxiv.org/pdf/1606.00704.pdf\">Adversarially Learned Inference</a>", 
       "Subt. NIPS 2016", 
       "ML, DL, inference, generative model", 
+      "n"
+    ], 
+    [
+      "06/06/2016", 
+      "Ke Li, Jitendar Malik", 
+      "<a href=\"https://arxiv.org/pdf/1606.01885v1.pdf\">Learning to Optimize</a>", 
+      "arxiv", 
+      "DL, optimization", 
       "n"
     ], 
     [

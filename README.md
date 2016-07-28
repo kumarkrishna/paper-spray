@@ -37,9 +37,6 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/pdf/1607.04423v2.pdf">Attention-over-Attention Neural Networks for Reading Comprehension</a>  
 ```26/07/2016, DL, NLP, Attention memory```  
 ```Yiming Cui, Zhipeng Chen, Si Wei, arXiv```  
-* <a href="https://arxiv.org/pdf/1606.01549v1.pdf">Gated-Attention Readers for Text Comprehension</a>  
-```19/07/2016, DL, NLP```  
-```Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov, arXiv```  
 * <a href="http://arxiv.org/abs/1511.00363">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>  
 ```21/07/2016, DL, binary-connect```  
 ```Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David, NIPS 2015```  
@@ -52,6 +49,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://arxiv.org/abs/1602.05908v1">Efficient approaches for escaping higher order saddle points in non-convex optimization</a>  
 ```19/07/2016, ML, non-convex-optimization```  
 ```Anima Anandkumar, Rong Ge, COLT 2016```  
+* <a href="https://arxiv.org/pdf/1606.01549v1.pdf">Gated-Attention Readers for Text Comprehension</a>  
+```19/07/2016, DL, NLP```  
+```Bhuwan Dhingra, Hanxiao Liu, William W. Cohen, Ruslan Salakhutdinov, arXiv```  
 * <a href="http://arxiv.org/abs/1210.7559">Tensor decompositions for learning latent variable models</a>  
 ```19/07/2016, ML, TF```  
 ```Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, Matus Telgarsky, JMLR 2014```  
@@ -247,6 +247,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/pdf/1606.00704.pdf">Adversarially Learned Inference</a>  
 ```07/06/2016, ML, DL, inference, generative model```  
 ```Vincent Dumoulin, Ishmael Belghazi, Ben Poole, Alex Lamb, Martin Arjovsky, Olivier Mastropietro, Aaron Courville, Subt. NIPS 2016```  
+* <a href="https://arxiv.org/pdf/1606.01885v1.pdf">Learning to Optimize</a>  
+```06/06/2016, DL, optimization```  
+```Ke Li, Jitendar Malik, arxiv```  
 * <a href="https://arxiv.org/abs/1312.6114">Auto-Encoding Variational Bayes</a>  
 ```06/06/2016, VAE```  
 ```Diederik P Kingma, Max Welling, ICLR 2014```  
