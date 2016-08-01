@@ -439,3 +439,6 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="http://www.utexas.edu/cola/files/1515661">Eye movements in natural behaviour</a>  
 ```01/06/2015, eye-movement, attention```  
 ```Mary Hayhoe, Dana Ballard, Trends in Cognitive Sciences, 2005```  
+* <a href="http://arxiv.org/pdf/1402.0119v2.pdf">Randomized Nonlinear Component Analysis</a>  
+```13/05/2014, RNCA, ML```  
+```David Lopez-Paz, Suvrit Sra, Alex Smola, Zoubin Grahramani, Bernhard Scholkopf, ICML, 2014```  

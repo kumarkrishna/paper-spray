@@ -1079,6 +1079,14 @@
       "Trends in Cognitive Sciences, 2005", 
       "eye-movement, attention", 
       "n"
+    ], 
+    [
+      "13/05/2014", 
+      "David Lopez-Paz, Suvrit Sra, Alex Smola, Zoubin Grahramani, Bernhard Scholkopf", 
+      "<a href=\"http://arxiv.org/pdf/1402.0119v2.pdf\">Randomized Nonlinear Component Analysis</a>", 
+      "ICML, 2014", 
+      "RNCA, ML", 
+      "n"
     ]
   ]
 }
