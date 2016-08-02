@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "02/08/2016", 
+      "Peng Tang, Xinggang Wang, Baoguang Shi, Xiang Bai, Wenyu Liu, Zhuowen Tu", 
+      "<a href=\"http://arxiv.org/abs/1608.00182\">Deep FisherNet for Object Classification</a>", 
+      "arXiv", 
+      "CV, DL, object classification", 
+      "n"
+    ], 
+    [
       "26/07/2016", 
       "Yiming Cui, Zhipeng Chen, Si Wei", 
       "<a href=\"https://arxiv.org/pdf/1607.04423v2.pdf\">Attention-over-Attention Neural Networks for Reading Comprehension</a>", 

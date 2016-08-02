@@ -34,6 +34,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1608.00182">Deep FisherNet for Object Classification</a>  
+```02/08/2016, CV, DL, object classification```  
+```Peng Tang, Xinggang Wang, Baoguang Shi, Xiang Bai, Wenyu Liu, Zhuowen Tu, arXiv```  
 * <a href="https://arxiv.org/pdf/1607.04423v2.pdf">Attention-over-Attention Neural Networks for Reading Comprehension</a>  
 ```26/07/2016, DL, NLP, Attention memory```  
 ```Yiming Cui, Zhipeng Chen, Si Wei, arXiv```  
