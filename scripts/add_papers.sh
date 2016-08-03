@@ -6,7 +6,7 @@ python scripts/add_papers.py
 python scripts/create_readme.py
 
 git add .
-echo "Enter commit message" 
+echo "Enter commit message"
 read commitmsg
 git commit -m "$commitmsg"
 git push origin master
