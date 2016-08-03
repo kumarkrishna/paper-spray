@@ -38,6 +38,9 @@ been created for convenience.
 The scripts give a warning when adding duplicate papers. In that case,
 enter 'n' when asked to abort adding the paper.
 
+The webpage for paper-spray reads the json file and creates a table using js libraries.
+There is no need of generating static html pages for any change in the json file.
+
 <!---
 CLI for adding papers :
 * Add ```$paperspraypath``` as environment variable for path to the github repository.
