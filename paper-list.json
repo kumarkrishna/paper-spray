@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "18/08/2016", 
+      "L\u00e9on Bottou, Frank E. Curtis, Jorge Nocedal", 
+      "<a href=\"https://arxiv.org/abs/1606.04838\">Optimization Methods for Large-Scale Machine Learning</a>", 
+      "arXiv", 
+      "ML, optimization", 
+      "n"
+    ], 
+    [
       "02/08/2016", 
       "Peng Tang, Xinggang Wang, Baoguang Shi, Xiang Bai, Wenyu Liu, Zhuowen Tu", 
       "<a href=\"http://arxiv.org/abs/1608.00182\">Deep FisherNet for Object Classification</a>", 

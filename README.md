@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1606.04838">Optimization Methods for Large-Scale Machine Learning</a>  
+```18/08/2016, ML, optimization```  
+```Léon Bottou, Frank E. Curtis, Jorge Nocedal, arXiv```  
 * <a href="http://arxiv.org/abs/1608.00182">Deep FisherNet for Object Classification</a>  
 ```02/08/2016, CV, DL, object classification```  
 ```Peng Tang, Xinggang Wang, Baoguang Shi, Xiang Bai, Wenyu Liu, Zhuowen Tu, arXiv```  
