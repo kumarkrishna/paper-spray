@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1608.04980">Mollifying Networks</a>  
+```18/08/2016, ML, optimization```  
+```Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio, arXiv```  
 * <a href="https://arxiv.org/abs/1606.04838">Optimization Methods for Large-Scale Machine Learning</a>  
 ```18/08/2016, ML, optimization```  
 ```Léon Bottou, Frank E. Curtis, Jorge Nocedal, arXiv```  
