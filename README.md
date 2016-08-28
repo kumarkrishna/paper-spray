@@ -2,12 +2,18 @@
 
 This is a list of interesting research papers maintained by
 [Kumar](https://github.com/kumarkrishna) and [Biswa](https://github.com/biswajitsc),
-mainly in Machine Learning, but definitely not limited to it.
+mainly in Machine Learning, particularly Deep Learning, but definitely not
+limited to it.
 This is mainly an initiative to inculcate a reading habit among ourselves.
 Suggested reads are always welcome!
 
+Currently we do not have a clear cut decision strategy to decide which papers
+to add and which to not. We mostly add papers which have come in the limelight
+either because the author is popular or it is an interesting novel idea. This
+strategy ignores a lot of significant papers, and hence contributions are welcome.
+
 We would try submit only links which are freely available, but we may also add
-few links which can be accessed freely only from an university network.
+few links which can be accessed freely from an university network.
 
 __We have created a webpage for [Paper-Spray](https://biswajitsc.github.io/paper-spray.html)
 containing a searchable list of the papers in the json file.__
