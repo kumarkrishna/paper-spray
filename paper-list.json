@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "28/08/2016", 
+      "Gao Huang, Zhuang Liu, Kilian Q. Weinberger", 
+      "<a href=\"http://arxiv.org/pdf/1608.06993.pdf\">Densely Connected Convolutional Networks</a>", 
+      "arXiv", 
+      "DL, CNN", 
+      "n"
+    ], 
+    [
       "18/08/2016", 
       "Caglar Gulcehre, Marcin Moczulski, Francesco Visin, Yoshua Bengio", 
       "<a href=\"http://arxiv.org/abs/1608.04980\">Mollifying Networks</a>", 
