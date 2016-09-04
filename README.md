@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1609.00150">Reward Augmented Maximum Likelihood for Neural Structured Prediction</a>  
+```01/09/2016, DL, RL, MLE```  
+```Mohammad Norouzi, Samy Bengio, Zhifeng Chen, Navdeep Jaitly, Mike Schuster, Yonghui Wu, Dale Schuurmans, NIPS 2016```  
 * <a href="http://arxiv.org/pdf/1608.06993.pdf">Densely Connected Convolutional Networks</a>  
 ```28/08/2016, DL, CNN```  
 ```Gao Huang, Zhuang Liu, Kilian Q. Weinberger, arXiv```  
