@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1608.08225">Why does deep and cheap learning work so well?</a>  
+```10/09/2016, DL, ML, physics```  
+```Henry W. Lin, Max Tegmark, arXiv```  
 * <a href="http://arxiv.org/abs/1609.00150">Reward Augmented Maximum Likelihood for Neural Structured Prediction</a>  
 ```01/09/2016, DL, RL, MLE```  
 ```Mohammad Norouzi, Samy Bengio, Zhifeng Chen, Navdeep Jaitly, Mike Schuster, Yonghui Wu, Dale Schuurmans, NIPS 2016```  
