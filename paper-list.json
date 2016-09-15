@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "15/09/2016", 
+      "Jun-Yan Zhu, Philipp Kr\u00e4henb\u00fchl, Eli Shechtman and Alexei A. Efros", 
+      "<a href=\"https://people.eecs.berkeley.edu/~junyanz/projects/gvm/\">Generative Visual Manipulation on the Natural Image Manifold</a>", 
+      "ECCV 2016", 
+      "CV, DL, GAN", 
+      "n"
+    ], 
+    [
       "10/09/2016", 
       "Henry W. Lin, Max Tegmark", 
       "<a href=\"https://arxiv.org/abs/1608.08225\">Why does deep and cheap learning work so well?</a>", 

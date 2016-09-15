@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://people.eecs.berkeley.edu/~junyanz/projects/gvm/">Generative Visual Manipulation on the Natural Image Manifold</a>  
+```15/09/2016, CV, DL, GAN```  
+```Jun-Yan Zhu, Philipp Krähenbühl, Eli Shechtman and Alexei A. Efros, ECCV 2016```  
 * <a href="https://arxiv.org/abs/1608.08225">Why does deep and cheap learning work so well?</a>  
 ```10/09/2016, DL, ML, physics```  
 ```Henry W. Lin, Max Tegmark, arXiv```  
