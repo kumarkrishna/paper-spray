@@ -2,6 +2,14 @@
   "data": [
     [
       "16/09/2016", 
+      "Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi", 
+      "<a href=\"http://arxiv.org/abs/1609.04802v1\">Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network</a>", 
+      "arXiv", 
+      "CV, GAN, super resolution", 
+      "n"
+    ], 
+    [
+      "16/09/2016", 
       "Junbo Zhao, Michael Mathieu, Yann LeCun", 
       "<a href=\"http://arxiv.org/abs/1609.03126\">Energy-based Generative Adversarial Network</a>", 
       "arXiv", 

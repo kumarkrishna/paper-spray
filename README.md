@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1609.04802v1">Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network</a>  
+```16/09/2016, CV, GAN, super resolution```  
+```Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi, arXiv```  
 * <a href="http://arxiv.org/abs/1609.03126">Energy-based Generative Adversarial Network</a>  
 ```16/09/2016, GAN, DL, generative model, energy function```  
 ```Junbo Zhao, Michael Mathieu, Yann LeCun, arXiv```  
