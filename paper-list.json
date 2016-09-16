@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "16/09/2016", 
+      "Junbo Zhao, Michael Mathieu, Yann LeCun", 
+      "<a href=\"http://arxiv.org/abs/1609.03126\">Energy-based Generative Adversarial Network</a>", 
+      "arXiv", 
+      "GAN, DL, generative model, energy function", 
+      "n"
+    ], 
+    [
       "15/09/2016", 
       "Carl Vondrick, Hamed Pirsiavash, Antonio Torralba", 
       "<a href=\"http://web.mit.edu/vondrick/tinyvideo/\">Generating Videos with Scene Dynamics</a>", 

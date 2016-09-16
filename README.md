@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1609.03126">Energy-based Generative Adversarial Network</a>  
+```16/09/2016, GAN, DL, generative model, energy function```  
+```Junbo Zhao, Michael Mathieu, Yann LeCun, arXiv```  
 * <a href="http://web.mit.edu/vondrick/tinyvideo/">Generating Videos with Scene Dynamics</a>  
 ```15/09/2016, CV, DL, GAN```  
 ```Carl Vondrick, Hamed Pirsiavash, Antonio Torralba, NIPS 2016```  
