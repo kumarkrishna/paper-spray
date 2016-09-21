@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://arxiv.org/abs/1609.05473">SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient</a>  
+```21/09/2016, GAN, sequence generation, policy gradient```  
+```Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu, arXiv```  
 * <a href="http://arxiv.org/abs/1609.04802v1">Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network</a>  
 ```16/09/2016, CV, GAN, super resolution```  
 ```Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi, arXiv```  
