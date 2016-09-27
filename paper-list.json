@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "27/09/2016", 
+      "Yann LeCun, Sumit Chopra, Raia Hadsell, Marc\u2019Aurelio Ranzato, and Fu Jie Huang", 
+      "<a href=\"http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf\">A Tutorial on Energy-Based Learning</a>", 
+      "", 
+      "ML, energy models", 
+      "n"
+    ], 
+    [
       "21/09/2016", 
       "Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu", 
       "<a href=\"http://arxiv.org/abs/1609.05473\">SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient</a>", 

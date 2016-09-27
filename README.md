@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf">A Tutorial on Energy-Based Learning</a>  
+```27/09/2016, ML, energy models```  
+```Yann LeCun, Sumit Chopra, Raia Hadsell, Marc’Aurelio Ranzato, and Fu Jie Huang, ```  
 * <a href="http://arxiv.org/abs/1609.05473">SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient</a>  
 ```21/09/2016, GAN, sequence generation, policy gradient```  
 ```Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu, arXiv```  
