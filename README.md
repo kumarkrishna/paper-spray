@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1607.06450">Layer Normalization</a>  
+```21/10/2016, DL, optimization```  
+```Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton, arXiv```  
 * <a href="https://arxiv.org/abs/1602.03264">A Theory of Generative ConvNet</a>  
 ```21/10/2016, ML, statistics, generative, cnn```  
 ```Jianwen Xie, Yang Lu, Song-Chun Zhu, Ying Nian Wu, ICML 2016```  
