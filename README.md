@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1609.05518v2.pdf">Towards Deep Symbolic Reinforcement Learning</a>  
+```21/10/2016, DL, RL```  
+```Marta Garnelo, Kai Arulkumaran, Murray Shanahan, arxiv```  
 * <a href="https://arxiv.org/abs/1607.06450">Layer Normalization</a>  
 ```21/10/2016, DL, optimization```  
 ```Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton, arXiv```  
