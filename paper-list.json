@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "21/10/2016", 
+      "Jianwen Xie, Yang Lu, Song-Chun Zhu, Ying Nian Wu", 
+      "<a href=\"https://arxiv.org/abs/1602.03264\">A Theory of Generative ConvNet</a>", 
+      "ICML 2016", 
+      "ML, statistics, generative, cnn", 
+      "n"
+    ], 
+    [
       "27/09/2016", 
       "Yann LeCun, Sumit Chopra, Raia Hadsell, Marc\u2019Aurelio Ranzato, and Fu Jie Huang", 
       "<a href=\"http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf\">A Tutorial on Energy-Based Learning</a>", 
