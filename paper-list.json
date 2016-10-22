@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "22/10/2016", 
+      "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato, Ryan P. Adams", 
+      "<a href=\"https://arxiv.org/abs/1502.05336\">Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks</a>", 
+      "JMLR", 
+      "DL, optimization, bayesian", 
+      "n"
+    ], 
+    [
       "21/10/2016", 
       "Marta Garnelo, Kai Arulkumaran, Murray Shanahan", 
       "<a href=\"https://arxiv.org/pdf/1609.05518v2.pdf\">Towards Deep Symbolic Reinforcement Learning</a>", 
