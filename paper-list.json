@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "25/10/2016", 
+      "Bradly Stadie, Sergey Levine, Pieter Abbeel", 
+      "<a href=\"https://arxiv.org/abs/1507.00814\">Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models</a>", 
+      "arxiv", 
+      "DL, RL", 
+      "n"
+    ], 
+    [
       "22/10/2016", 
       "Jos\u00e9 Miguel Hern\u00e1ndez-Lobato, Ryan P. Adams", 
       "<a href=\"https://arxiv.org/abs/1502.05336\">Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks</a>", 
