@@ -2,6 +2,14 @@
   "data": [
     [
       "25/10/2016", 
+      "Shipra Agrawal, Navin Goyal", 
+      "<a href=\"http://jmlr.org/proceedings/papers/v23/agrawal12/agrawal12.pdf\">Analysis of Thompson Sampling for the Multi-armed Bandit Problem</a>", 
+      "JMLR 2012", 
+      "Sampling, Bandits", 
+      "n"
+    ], 
+    [
+      "25/10/2016", 
       "Bradly Stadie, Sergey Levine, Pieter Abbeel", 
       "<a href=\"https://arxiv.org/abs/1507.00814\">Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models</a>", 
       "arxiv", 

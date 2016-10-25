@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://jmlr.org/proceedings/papers/v23/agrawal12/agrawal12.pdf">Analysis of Thompson Sampling for the Multi-armed Bandit Problem</a>  
+```25/10/2016, Sampling, Bandits```  
+```Shipra Agrawal, Navin Goyal, JMLR 2012```  
 * <a href="https://arxiv.org/abs/1507.00814">Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models</a>  
 ```25/10/2016, DL, RL```  
 ```Bradly Stadie, Sergey Levine, Pieter Abbeel, arxiv```  
