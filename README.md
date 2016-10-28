@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1610.08613">Can Active Memory Replace Attention?</a>  
+```28/10/2016, DL```  
+```Lukasz Kaiser, Samy Bengio, NIPS 2016```  
 * <a href="http://jmlr.org/proceedings/papers/v23/agrawal12/agrawal12.pdf">Analysis of Thompson Sampling for the Multi-armed Bandit Problem</a>  
 ```25/10/2016, Sampling, Bandits```  
 ```Shipra Agrawal, Navin Goyal, JMLR 2012```  

@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "28/10/2016", 
+      "Lukasz Kaiser, Samy Bengio", 
+      "<a href=\"https://arxiv.org/abs/1610.08613\">Can Active Memory Replace Attention?</a>", 
+      "NIPS 2016", 
+      "DL", 
+      "n"
+    ], 
+    [
       "25/10/2016", 
       "Shipra Agrawal, Navin Goyal", 
       "<a href=\"http://jmlr.org/proceedings/papers/v23/agrawal12/agrawal12.pdf\">Analysis of Thompson Sampling for the Multi-armed Bandit Problem</a>", 
