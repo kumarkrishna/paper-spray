@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1609.07843.pdf">Pointer Sentinel Mixture Models</a>  
+```30/10/2016, DL, NLP```  
+```Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher, rxiv```  
 * <a href="https://arxiv.org/abs/1610.08613">Can Active Memory Replace Attention?</a>  
 ```28/10/2016, DL```  
 ```Lukasz Kaiser, Samy Bengio, NIPS 2016```  

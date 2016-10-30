@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "30/10/2016", 
+      "Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher", 
+      "<a href=\"https://arxiv.org/pdf/1609.07843.pdf\">Pointer Sentinel Mixture Models</a>", 
+      "rxiv", 
+      "DL, NLP", 
+      "n"
+    ], 
+    [
       "28/10/2016", 
       "Lukasz Kaiser, Samy Bengio", 
       "<a href=\"https://arxiv.org/abs/1610.08613\">Can Active Memory Replace Attention?</a>", 
