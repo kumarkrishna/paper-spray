@@ -1,6 +1,30 @@
 {
   "data": [
     [
+      "31/10/2016", 
+      "Scott Linderman, Andrew Miller, Ryan Adams, David Blei, Liam Paninski, Matthew Johnson", 
+      "<a href=\"https://arxiv.org/pdf/1610.08466v1.pdf\">Recurrent Switching Linear Dynamical Systems</a>", 
+      "arxiv", 
+      "ML", 
+      "n"
+    ], 
+    [
+      "31/10/2016", 
+      "Rajesh Ranganath, Jaan ALtosaar, Dustin Tran, David M. Blei", 
+      "<a href=\"https://arxiv.org/abs/1610.09033\">Operator Variational Inference</a>", 
+      "arxiv", 
+      "ML, variational", 
+      "n"
+    ], 
+    [
+      "31/10/2016", 
+      "Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio", 
+      "<a href=\"https://arxiv.org/abs/1610.09038\">Professor Forcing: A New Algorithm for Training Recurrent Networks</a>", 
+      "NIPS 2016", 
+      "DL, RNN", 
+      "n"
+    ], 
+    [
       "30/10/2016", 
       "Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher", 
       "<a href=\"https://arxiv.org/pdf/1609.07843.pdf\">Pointer Sentinel Mixture Models</a>", 

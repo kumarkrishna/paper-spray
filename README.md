@@ -56,6 +56,15 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1610.08466v1.pdf">Recurrent Switching Linear Dynamical Systems</a>  
+```31/10/2016, ML```  
+```Scott Linderman, Andrew Miller, Ryan Adams, David Blei, Liam Paninski, Matthew Johnson, arxiv```  
+* <a href="https://arxiv.org/abs/1610.09033">Operator Variational Inference</a>  
+```31/10/2016, ML, variational```  
+```Rajesh Ranganath, Jaan ALtosaar, Dustin Tran, David M. Blei, arxiv```  
+* <a href="https://arxiv.org/abs/1610.09038">Professor Forcing: A New Algorithm for Training Recurrent Networks</a>  
+```31/10/2016, DL, RNN```  
+```Alex Lamb, Anirudh Goyal, Ying Zhang, Saizheng Zhang, Aaron Courville, Yoshua Bengio, NIPS 2016```  
 * <a href="https://arxiv.org/pdf/1609.07843.pdf">Pointer Sentinel Mixture Models</a>  
 ```30/10/2016, DL, NLP```  
 ```Stephen Merity, Caiming Xiong, James Bradbury, Richard Socher, rxiv```  
