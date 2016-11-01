@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/pdf/1607.03474v3.pdf">Recurrent Highway Networks</a>  
+```01/11/2016, DL, RNN```  
+```Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutnik, Jurgen Schmidhuber, arxiv```  
 * <a href="https://arxiv.org/pdf/1610.08466v1.pdf">Recurrent Switching Linear Dynamical Systems</a>  
 ```31/10/2016, ML```  
 ```Scott Linderman, Andrew Miller, Ryan Adams, David Blei, Liam Paninski, Matthew Johnson, arxiv```  

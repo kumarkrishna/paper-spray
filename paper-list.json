@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "01/11/2016", 
+      "Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutnik, Jurgen Schmidhuber", 
+      "<a href=\"https://arxiv.org/pdf/1607.03474v3.pdf\">Recurrent Highway Networks</a>", 
+      "arxiv", 
+      "DL, RNN", 
+      "n"
+    ], 
+    [
       "31/10/2016", 
       "Scott Linderman, Andrew Miller, Ryan Adams, David Blei, Liam Paninski, Matthew Johnson", 
       "<a href=\"https://arxiv.org/pdf/1610.08466v1.pdf\">Recurrent Switching Linear Dynamical Systems</a>", 
