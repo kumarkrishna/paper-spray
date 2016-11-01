@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1610.10099">Neural Machine Translation in Linear Time</a>  
+```01/11/2016, NMT, DL, dilated-convolutions```  
+```Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, Koray Kavukcuoglu, arxiv```  
 * <a href="https://arxiv.org/pdf/1607.03474v3.pdf">Recurrent Highway Networks</a>  
 ```01/11/2016, DL, RNN```  
 ```Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutnik, Jurgen Schmidhuber, arxiv```  
