@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a>  
+```01/11/2016, CV, DL```  
+```Fisher Yu, Vladlen Klotun, ICLR 2016```  
 * <a href="https://arxiv.org/abs/1610.10099">Neural Machine Translation in Linear Time</a>  
 ```01/11/2016, NMT, DL, dilated-convolutions```  
 ```Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, Koray Kavukcuoglu, arxiv```  

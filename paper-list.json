@@ -2,6 +2,14 @@
   "data": [
     [
       "01/11/2016", 
+      "Fisher Yu, Vladlen Klotun", 
+      "<a href=\"https://arxiv.org/abs/1511.07122\">Multi-Scale Context Aggregation by Dilated Convolutions</a>", 
+      "ICLR 2016", 
+      "CV, DL", 
+      "n"
+    ], 
+    [
+      "01/11/2016", 
       "Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den Oord, Alex Graves, Koray Kavukcuoglu", 
       "<a href=\"https://arxiv.org/abs/1610.10099\">Neural Machine Translation in Linear Time</a>", 
       "arxiv", 
