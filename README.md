@@ -56,6 +56,15 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1611.00035">Full-Capacity Unitary Recurrent Neural Networks</a>  
+```02/11/2016, DL```  
+```Scott Wisdom, Thomas Powers, John R. Hershey, Jonathan Le Roux, Les Atlas, NIPS 2016```  
+* <a href="https://arxiv.org/abs/1610.09585">Conditional Image Synthesis With Auxiliary Classifier GANs</a>  
+```02/11/2016, CV, DL, GAN```  
+```Augustus Odena, Christopher Olan, Jonatho Shlens, arxiv```  
+* <a href="https://arxiv.org/abs/1611.00336">Stochastic Variational Deep Kernel Learning</a>  
+```02/11/2016, DL, ML```  
+```Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing, NIPS 2016```  
 * <a href="https://arxiv.org/abs/1511.07122">Multi-Scale Context Aggregation by Dilated Convolutions</a>  
 ```01/11/2016, CV, DL```  
 ```Fisher Yu, Vladlen Klotun, ICLR 2016```  

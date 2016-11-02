@@ -1,6 +1,30 @@
 {
   "data": [
     [
+      "02/11/2016", 
+      "Scott Wisdom, Thomas Powers, John R. Hershey, Jonathan Le Roux, Les Atlas", 
+      "<a href=\"https://arxiv.org/abs/1611.00035\">Full-Capacity Unitary Recurrent Neural Networks</a>", 
+      "NIPS 2016", 
+      "DL", 
+      "n"
+    ], 
+    [
+      "02/11/2016", 
+      "Augustus Odena, Christopher Olan, Jonatho Shlens", 
+      "<a href=\"https://arxiv.org/abs/1610.09585\">Conditional Image Synthesis With Auxiliary Classifier GANs</a>", 
+      "arxiv", 
+      "CV, DL, GAN", 
+      "n"
+    ], 
+    [
+      "02/11/2016", 
+      "Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing", 
+      "<a href=\"https://arxiv.org/abs/1611.00336\">Stochastic Variational Deep Kernel Learning</a>", 
+      "NIPS 2016", 
+      "DL, ML", 
+      "n"
+    ], 
+    [
       "01/11/2016", 
       "Fisher Yu, Vladlen Klotun", 
       "<a href=\"https://arxiv.org/abs/1511.07122\">Multi-Scale Context Aggregation by Dilated Convolutions</a>", 
