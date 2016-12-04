@@ -107,6 +107,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/abs/1602.03264">A Theory of Generative ConvNet</a>  
 ```21/10/2016, ML, statistics, generative, cnn```  
 ```Jianwen Xie, Yang Lu, Song-Chun Zhu, Ying Nian Wu, ICML 2016```  
+* <a href="https://arxiv.org/abs/1611.09961">Semantic Facial Expression Editing using Autoencoded Flow</a>  
+```04/10/2016, autoencoder, latent space, image manipulation```  
+```Raymond Yeh, Ziwei Liu, Dan B Goldman, Aseem Agarwala, arXiv```  
 * <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf">A Tutorial on Energy-Based Learning</a>  
 ```27/09/2016, ML, energy models```  
 ```Yann LeCun, Sumit Chopra, Raia Hadsell, Marc’Aurelio Ranzato, and Fu Jie Huang, ```  
