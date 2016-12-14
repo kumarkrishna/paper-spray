@@ -1,6 +1,30 @@
 {
   "data": [
     [
+      "15/12/2016", 
+      "Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra", 
+      "<a href=\"https://arxiv.org/abs/1509.02971\">Continous Control with Deep Reinforcement Learning</a>", 
+      "ICLR 2016", 
+      "DL, RL, DDPG", 
+      "n"
+    ], 
+    [
+      "04/12/2016", 
+      "Anh Nguyen, Jason Yosinski, Yoshua Bengio, Alexey Dosovitskiy, Jeff Clune", 
+      "<a href=\"https://arxiv.org/abs/1612.00005\">Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space</a>", 
+      "arXiv", 
+      "generative model, latent space", 
+      "n"
+    ], 
+    [
+      "04/12/2016", 
+      "Raymond Yeh, Ziwei Liu, Dan B Goldman, Aseem Agarwala", 
+      "<a href=\"https://arxiv.org/abs/1611.09961\">Semantic Facial Expression Editing using Autoencoded Flow</a>", 
+      "arXiv", 
+      "autoencoder, latent space, image manipulation", 
+      "n"
+    ], 
+    [
       "02/11/2016", 
       "Scott Wisdom, Thomas Powers, John R. Hershey, Jonathan Le Roux, Les Atlas", 
       "<a href=\"https://arxiv.org/abs/1611.00035\">Full-Capacity Unitary Recurrent Neural Networks</a>", 
@@ -134,22 +158,6 @@
       "<a href=\"https://arxiv.org/abs/1602.03264\">A Theory of Generative ConvNet</a>", 
       "ICML 2016", 
       "ML, statistics, generative, cnn", 
-      "n"
-    ], 
-    [
-      "04/12/2016", 
-      "Anh Nguyen, Jason Yosinski, Yoshua Bengio, Alexey Dosovitskiy, Jeff Clune", 
-      "<a href=\"https://arxiv.org/abs/1612.00005\">Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space</a>", 
-      "arXiv", 
-      "generative model, latent space", 
-      "n"
-    ], 
-    [
-      "04/12/2016", 
-      "Raymond Yeh, Ziwei Liu, Dan B Goldman, Aseem Agarwala", 
-      "<a href=\"https://arxiv.org/abs/1611.09961\">Semantic Facial Expression Editing using Autoencoded Flow</a>", 
-      "arXiv", 
-      "autoencoder, latent space, image manipulation", 
       "n"
     ], 
     [
