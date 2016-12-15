@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1611.07004v1">Image-to-Image Translation with Conditional Adversarial Networks</a>  
+```15/12/2016, CV, DL, GAN```  
+```Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A.Efros, arxiv```  
 * <a href="https://arxiv.org/abs/1509.02971">Continous Control with Deep Reinforcement Learning</a>  
 ```15/12/2016, DL, RL, DDPG```  
 ```Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra, ICLR 2016```  

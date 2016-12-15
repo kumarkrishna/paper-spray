@@ -2,6 +2,14 @@
   "data": [
     [
       "15/12/2016", 
+      "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A.Efros", 
+      "<a href=\"https://arxiv.org/abs/1611.07004v1\">Image-to-Image Translation with Conditional Adversarial Networks</a>", 
+      "arxiv", 
+      "CV, DL, GAN", 
+      "n"
+    ], 
+    [
+      "15/12/2016", 
       "Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra", 
       "<a href=\"https://arxiv.org/abs/1509.02971\">Continous Control with Deep Reinforcement Learning</a>", 
       "ICLR 2016", 
