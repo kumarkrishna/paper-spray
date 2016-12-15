@@ -2,6 +2,14 @@
   "data": [
     [
       "15/12/2016", 
+      "Kurt Cutajar, Michael Osborne, John Cunningham, Maurizio Filippone", 
+      "<a href=\"http://www.jmlr.org/proceedings/papers/v48/cutajar16.pdf\">Preconditioning Kernel Matrices</a>", 
+      "ICML 2016", 
+      "kernel methods", 
+      "n"
+    ], 
+    [
+      "15/12/2016", 
       "Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A.Efros", 
       "<a href=\"https://arxiv.org/abs/1611.07004v1\">Image-to-Image Translation with Conditional Adversarial Networks</a>", 
       "arxiv", 

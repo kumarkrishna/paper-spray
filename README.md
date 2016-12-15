@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="http://www.jmlr.org/proceedings/papers/v48/cutajar16.pdf">Preconditioning Kernel Matrices</a>  
+```15/12/2016, kernel methods```  
+```Kurt Cutajar, Michael Osborne, John Cunningham, Maurizio Filippone, ICML 2016```  
 * <a href="https://arxiv.org/abs/1611.07004v1">Image-to-Image Translation with Conditional Adversarial Networks</a>  
 ```15/12/2016, CV, DL, GAN```  
 ```Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A.Efros, arxiv```  
