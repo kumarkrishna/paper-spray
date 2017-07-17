@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1707.02286">Emergence of Locomotion Behaviours in Rich Environments</a>  
+```16/07/2017, RL, Robotics, PPO```  
+```Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin Riedmiller, David Silver, arXiv```  
 * <a href="https://arxiv.org/abs/1509.02971">Continuous control with deep reinforcement learning</a>  
 ```16/07/2017, RL, DDPG```  
 ```Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra, ICLR 2016```  

@@ -2,6 +2,14 @@
   "data": [
     [
       "16/07/2017", 
+      "Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin Riedmiller, David Silver", 
+      "<a href=\"https://arxiv.org/abs/1707.02286\">Emergence of Locomotion Behaviours in Rich Environments</a>", 
+      "arXiv", 
+      "RL, Robotics, PPO", 
+      "n"
+    ], 
+    [
+      "16/07/2017", 
       "Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra", 
       "<a href=\"https://arxiv.org/abs/1509.02971\">Continuous control with deep reinforcement learning</a>", 
       "ICLR 2016", 
