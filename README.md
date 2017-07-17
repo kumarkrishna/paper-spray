@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1502.05477">Trust Region Policy Optimization</a>  
+```16/07/2017, RL, Robotics```  
+```John Schulman, Sergey Levine, Philipp Moritz, Michael Jorda, Pieter Abbeel, ICML, 2015```  
 * <a href="http://www.jmlr.org/proceedings/papers/v48/cutajar16.pdf">Preconditioning Kernel Matrices</a>  
 ```15/12/2016, kernel methods```  
 ```Kurt Cutajar, Michael Osborne, John Cunningham, Maurizio Filippone, ICML 2016```  
