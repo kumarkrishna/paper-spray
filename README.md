@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1509.02971">Continuous control with deep reinforcement learning</a>  
+```16/07/2017, RL, DDPG```  
+```Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra, ICLR 2016```  
 * <a href="https://arxiv.org/abs/1502.05477">Trust Region Policy Optimization</a>  
 ```16/07/2017, RL, Robotics```  
 ```John Schulman, Sergey Levine, Philipp Moritz, Michael Jorda, Pieter Abbeel, ICML, 2015```  
