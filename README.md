@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://books.google.com/books/about/Function_Optimization_Using_Connectionis.html?id=g9TLGwAACAAJ">Function Optimization Using Connectionist Reinforcement Learning Algorithms</a>  
+```16/08/2017, RL```  
+```Ronald J. Williams, Jing Peng, Connection Science```  
 * <a href="https://arxiv.org/abs/1703.00887">How to Escape Saddle Points Efficiently</a>  
 ```16/08/2017, ML, Non-Convex```  
 ```Chi Jin, Rong Ge, Praneeth Netrapalli, Sham M. Kakade, Michael I. Jordan, ICML 2017```  
