@@ -1423,6 +1423,14 @@
       "ICML, 2014", 
       "RNCA, ML", 
       ""
+    ], 
+    [
+      "01/03/1951", 
+      "S. Kullback and R. A. Leibler", 
+      "<a href=\"http://www.jstor.org/stable/2236703?seq=1#page_scan_tab_contents\">On Information and Sufficiency</a>", 
+      "The Annals of Mathematical Statistics", 
+      "classics, KL-divergence, information theory", 
+      "<a href=\"https://kumarkrishna.github.io/pages/classics/on-information-and-sufficiency.html\">\\[Review\\]</a>"
     ]
   ]
 }
