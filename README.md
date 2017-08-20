@@ -64,7 +64,7 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```Ronald J. Williams, Jing Peng, Connection Science```   
 * <a href="https://arxiv.org/abs/1703.00887">How to Escape Saddle Points Efficiently</a>  
 ```16/08/2017, ML, Non-Convex```  
-```Chi Jin, Rong Ge, Praneeth Netrapalli, Sham M. Kakade, Michael I. Jordan, ICML 2017``` a href="http://www.offconvex.org/2017/07/19/saddle-efficiency/">\[Review\]</a>  
+```Chi Jin, Rong Ge, Praneeth Netrapalli, Sham M. Kakade, Michael I. Jordan, ICML 2017``` <a href="http://www.offconvex.org/2017/07/19/saddle-efficiency/">\[Review\]</a>  
 * <a href="https://arxiv.org/abs/1707.02286">Emergence of Locomotion Behaviours in Rich Environments</a>  
 ```16/07/2017, RL, Robotics, PPO```  
 ```Nicolas Heess, Dhruva TB, Srinivasan Sriram, Jay Lemmon, Josh Merel, Greg Wayne, Yuval Tassa, Tom Erez, Ziyu Wang, S. M. Ali Eslami, Martin Riedmiller, David Silver, arXiv```   
@@ -143,6 +143,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 * <a href="https://arxiv.org/abs/1602.03264">A Theory of Generative ConvNet</a>  
 ```21/10/2016, ML, statistics, generative, cnn```  
 ```Jianwen Xie, Yang Lu, Song-Chun Zhu, Ying Nian Wu, ICML 2016```   
+* <a href="https://arxiv.org/abs/1611.01796">Modular Multitask Reinforcement Learning with Policy Sketches</a>  
+```06/10/2016, RL, policy sketch```  
+```Jacob Andreas, Dan Klein, Sergey Levine, ICML 2017```   
 * <a href="http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf">A Tutorial on Energy-Based Learning</a>  
 ```27/09/2016, ML, energy models```  
 ```Yann LeCun, Sumit Chopra, Raia Hadsell, Marc’Aurelio Ranzato, and Fu Jie Huang, ```   

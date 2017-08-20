@@ -233,6 +233,14 @@
       ""
     ], 
     [
+      "06/10/2016", 
+      "Jacob Andreas, Dan Klein, Sergey Levine", 
+      "<a href=\"https://arxiv.org/abs/1611.01796\">Modular Multitask Reinforcement Learning with Policy Sketches</a>", 
+      "ICML 2017", 
+      "RL, policy sketch", 
+      ""
+    ], 
+    [
       "27/09/2016", 
       "Yann LeCun, Sumit Chopra, Raia Hadsell, Marc\u2019Aurelio Ranzato, and Fu Jie Huang", 
       "<a href=\"http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf\">A Tutorial on Energy-Based Learning</a>", 
