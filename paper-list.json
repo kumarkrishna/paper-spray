@@ -1,6 +1,14 @@
 {
   "data": [
     [
+      "17/08/2017", 
+      "Yuhuai Wu, Elman Mansimov, Shun Liao, Roger Grosse, Jimmy Ba", 
+      "<a href=\"https://arxiv.org/abs/1708.05144\">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>", 
+      "arXiv", 
+      "RL, K-FAC", 
+      "<a href=\"https://blog.openai.com/baselines-acktr-a2c/\">\\[Review\\]</a"
+    ], 
+    [
       "16/08/2017", 
       "Ronald J. Williams, Jing Peng", 
       "<a href=\"https://books.google.com/books/about/Function_Optimization_Using_Connectionis.html?id=g9TLGwAACAAJ\">Function Optimization Using Connectionist Reinforcement Learning Algorithms</a>", 

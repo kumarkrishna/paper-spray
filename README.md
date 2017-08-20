@@ -56,6 +56,9 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 
 
 ## Papers
+* <a href="https://arxiv.org/abs/1708.05144">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>  
+```17/08/2017, RL, K-FAC```  
+```Yuhuai Wu, Elman Mansimov, Shun Liao, Roger Grosse, Jimmy Ba, arXiv```  
 * <a href="https://books.google.com/books/about/Function_Optimization_Using_Connectionis.html?id=g9TLGwAACAAJ">Function Optimization Using Connectionist Reinforcement Learning Algorithms</a>  
 ```16/08/2017, RL```  
 ```Ronald J. Williams, Jing Peng, Connection Science```  
