@@ -6,7 +6,7 @@
       "<a href=\"https://arxiv.org/abs/1708.05144\">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>", 
       "arXiv", 
       "RL, K-FAC", 
-      "<a href=\"https://blog.openai.com/baselines-acktr-a2c/\">\\[Review\\]</a"
+      "<a href=\"https://blog.openai.com/baselines-acktr-a2c/\">\\[Review\\]</a>"
     ], 
     [
       "16/08/2017", 
@@ -14,7 +14,7 @@
       "<a href=\"https://books.google.com/books/about/Function_Optimization_Using_Connectionis.html?id=g9TLGwAACAAJ\">Function Optimization Using Connectionist Reinforcement Learning Algorithms</a>", 
       "Connection Science", 
       "RL", 
-      "n"
+      ""
     ], 
     [
       "16/08/2017", 
@@ -22,7 +22,7 @@
       "<a href=\"https://arxiv.org/abs/1703.00887\">How to Escape Saddle Points Efficiently</a>", 
       "ICML 2017", 
       "ML, Non-Convex", 
-      "http://www.offconvex.org/2017/07/19/saddle-efficiency/"
+      "a href=\"http://www.offconvex.org/2017/07/19/saddle-efficiency/\">\\[Review\\]</a>"
     ], 
     [
       "16/07/2017", 
@@ -30,7 +30,7 @@
       "<a href=\"https://arxiv.org/abs/1707.02286\">Emergence of Locomotion Behaviours in Rich Environments</a>", 
       "arXiv", 
       "RL, Robotics, PPO", 
-      "n"
+      ""
     ], 
     [
       "16/07/2017", 
@@ -38,7 +38,7 @@
       "<a href=\"https://arxiv.org/abs/1509.02971\">Continuous control with deep reinforcement learning</a>", 
       "ICLR 2016", 
       "RL, DDPG", 
-      "n"
+      ""
     ], 
     [
       "16/07/2017", 
@@ -46,7 +46,7 @@
       "<a href=\"https://arxiv.org/abs/1502.05477\">Trust Region Policy Optimization</a>", 
       "ICML, 2015", 
       "RL, Robotics", 
-      "n"
+      ""
     ], 
     [
       "14/06/2017", 
@@ -62,7 +62,7 @@
       "<a href=\"http://www.jmlr.org/proceedings/papers/v48/cutajar16.pdf\">Preconditioning Kernel Matrices</a>", 
       "ICML 2016", 
       "kernel methods", 
-      "n"
+      ""
     ], 
     [
       "15/12/2016", 
@@ -70,7 +70,7 @@
       "<a href=\"https://arxiv.org/abs/1611.07004v1\">Image-to-Image Translation with Conditional Adversarial Networks</a>", 
       "arxiv", 
       "CV, DL, GAN", 
-      "n"
+      ""
     ], 
     [
       "15/12/2016", 
@@ -78,7 +78,7 @@
       "<a href=\"https://arxiv.org/abs/1509.02971\">Continous Control with Deep Reinforcement Learning</a>", 
       "ICLR 2016", 
       "DL, RL, DDPG", 
-      "n"
+      ""
     ], 
     [
       "04/12/2016", 
@@ -86,7 +86,7 @@
       "<a href=\"https://arxiv.org/abs/1612.00005\">Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space</a>", 
       "arXiv", 
       "generative model, latent space", 
-      "n"
+      ""
     ], 
     [
       "04/12/2016", 
@@ -94,7 +94,7 @@
       "<a href=\"https://arxiv.org/abs/1611.09961\">Semantic Facial Expression Editing using Autoencoded Flow</a>", 
       "arXiv", 
       "autoencoder, latent space, image manipulation", 
-      "n"
+      ""
     ], 
     [
       "02/11/2016", 
@@ -102,7 +102,7 @@
       "<a href=\"https://arxiv.org/abs/1611.00035\">Full-Capacity Unitary Recurrent Neural Networks</a>", 
       "NIPS 2016", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "02/11/2016", 
@@ -110,7 +110,7 @@
       "<a href=\"https://arxiv.org/abs/1610.09585\">Conditional Image Synthesis With Auxiliary Classifier GANs</a>", 
       "arxiv", 
       "CV, DL, GAN", 
-      "n"
+      ""
     ], 
     [
       "02/11/2016", 
@@ -118,7 +118,7 @@
       "<a href=\"https://arxiv.org/abs/1611.00336\">Stochastic Variational Deep Kernel Learning</a>", 
       "NIPS 2016", 
       "DL, ML", 
-      "n"
+      ""
     ], 
     [
       "01/11/2016", 
@@ -126,7 +126,7 @@
       "<a href=\"https://arxiv.org/abs/1511.07122\">Multi-Scale Context Aggregation by Dilated Convolutions</a>", 
       "ICLR 2016", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "01/11/2016", 
@@ -134,7 +134,7 @@
       "<a href=\"https://arxiv.org/abs/1610.10099\">Neural Machine Translation in Linear Time</a>", 
       "arxiv", 
       "NMT, DL, dilated-convolutions", 
-      "n"
+      ""
     ], 
     [
       "01/11/2016", 
@@ -142,7 +142,7 @@
       "<a href=\"https://arxiv.org/pdf/1607.03474v3.pdf\">Recurrent Highway Networks</a>", 
       "arxiv", 
       "DL, RNN", 
-      "n"
+      ""
     ], 
     [
       "31/10/2016", 
@@ -150,7 +150,7 @@
       "<a href=\"https://arxiv.org/pdf/1610.08466v1.pdf\">Recurrent Switching Linear Dynamical Systems</a>", 
       "arxiv", 
       "ML", 
-      "n"
+      ""
     ], 
     [
       "31/10/2016", 
@@ -158,7 +158,7 @@
       "<a href=\"https://arxiv.org/abs/1610.09033\">Operator Variational Inference</a>", 
       "arxiv", 
       "ML, variational", 
-      "n"
+      ""
     ], 
     [
       "31/10/2016", 
@@ -166,7 +166,7 @@
       "<a href=\"https://arxiv.org/abs/1610.09038\">Professor Forcing: A New Algorithm for Training Recurrent Networks</a>", 
       "NIPS 2016", 
       "DL, RNN", 
-      "n"
+      ""
     ], 
     [
       "30/10/2016", 
@@ -174,7 +174,7 @@
       "<a href=\"https://arxiv.org/pdf/1609.07843.pdf\">Pointer Sentinel Mixture Models</a>", 
       "rxiv", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "28/10/2016", 
@@ -182,7 +182,7 @@
       "<a href=\"https://arxiv.org/abs/1610.08613\">Can Active Memory Replace Attention?</a>", 
       "NIPS 2016", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "25/10/2016", 
@@ -190,7 +190,7 @@
       "<a href=\"http://jmlr.org/proceedings/papers/v23/agrawal12/agrawal12.pdf\">Analysis of Thompson Sampling for the Multi-armed Bandit Problem</a>", 
       "JMLR 2012", 
       "Sampling, Bandits", 
-      "n"
+      ""
     ], 
     [
       "25/10/2016", 
@@ -198,7 +198,7 @@
       "<a href=\"https://arxiv.org/abs/1507.00814\">Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models</a>", 
       "arxiv", 
       "DL, RL", 
-      "n"
+      ""
     ], 
     [
       "22/10/2016", 
@@ -206,7 +206,7 @@
       "<a href=\"https://arxiv.org/abs/1502.05336\">Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks</a>", 
       "JMLR", 
       "DL, optimization, bayesian", 
-      "n"
+      ""
     ], 
     [
       "21/10/2016", 
@@ -214,7 +214,7 @@
       "<a href=\"https://arxiv.org/pdf/1609.05518v2.pdf\">Towards Deep Symbolic Reinforcement Learning</a>", 
       "arxiv", 
       "DL, RL", 
-      "n"
+      ""
     ], 
     [
       "21/10/2016", 
@@ -222,7 +222,7 @@
       "<a href=\"https://arxiv.org/abs/1607.06450\">Layer Normalization</a>", 
       "arXiv", 
       "DL, optimization", 
-      "n"
+      ""
     ], 
     [
       "21/10/2016", 
@@ -230,7 +230,7 @@
       "<a href=\"https://arxiv.org/abs/1602.03264\">A Theory of Generative ConvNet</a>", 
       "ICML 2016", 
       "ML, statistics, generative, cnn", 
-      "n"
+      ""
     ], 
     [
       "27/09/2016", 
@@ -238,7 +238,7 @@
       "<a href=\"http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf\">A Tutorial on Energy-Based Learning</a>", 
       "", 
       "ML, energy models", 
-      "n"
+      ""
     ], 
     [
       "21/09/2016", 
@@ -246,7 +246,7 @@
       "<a href=\"http://arxiv.org/abs/1609.05473\">SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient</a>", 
       "arXiv", 
       "GAN, sequence generation, policy gradient", 
-      "n"
+      ""
     ], 
     [
       "16/09/2016", 
@@ -254,7 +254,7 @@
       "<a href=\"http://arxiv.org/abs/1609.04802v1\">Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network</a>", 
       "arXiv", 
       "CV, GAN, super resolution", 
-      "n"
+      ""
     ], 
     [
       "16/09/2016", 
@@ -262,7 +262,7 @@
       "<a href=\"http://arxiv.org/abs/1609.03126\">Energy-based Generative Adversarial Network</a>", 
       "arXiv", 
       "GAN, DL, generative model, energy function", 
-      "n"
+      ""
     ], 
     [
       "15/09/2016", 
@@ -270,7 +270,7 @@
       "<a href=\"http://web.mit.edu/vondrick/tinyvideo/\">Generating Videos with Scene Dynamics</a>", 
       "NIPS 2016", 
       "CV, DL, GAN", 
-      "n"
+      ""
     ], 
     [
       "15/09/2016", 
@@ -278,7 +278,7 @@
       "<a href=\"https://people.eecs.berkeley.edu/~junyanz/projects/gvm/\">Generative Visual Manipulation on the Natural Image Manifold</a>", 
       "ECCV 2016", 
       "CV, DL, GAN", 
-      "n"
+      ""
     ], 
     [
       "10/09/2016", 
@@ -286,7 +286,7 @@
       "<a href=\"https://arxiv.org/abs/1608.08225\">Why does deep and cheap learning work so well?</a>", 
       "arXiv", 
       "DL, ML, physics", 
-      "n"
+      ""
     ], 
     [
       "01/09/2016", 
@@ -294,7 +294,7 @@
       "<a href=\"http://arxiv.org/abs/1609.00150\">Reward Augmented Maximum Likelihood for Neural Structured Prediction</a>", 
       "NIPS 2016", 
       "DL, RL, MLE", 
-      "n"
+      ""
     ], 
     [
       "28/08/2016", 
@@ -302,7 +302,7 @@
       "<a href=\"http://arxiv.org/pdf/1608.06993.pdf\">Densely Connected Convolutional Networks</a>", 
       "arXiv", 
       "DL, CNN", 
-      "n"
+      ""
     ], 
     [
       "18/08/2016", 
@@ -310,7 +310,7 @@
       "<a href=\"http://arxiv.org/abs/1608.04980\">Mollifying Networks</a>", 
       "arXiv", 
       "ML, optimization", 
-      "n"
+      ""
     ], 
     [
       "18/08/2016", 
@@ -318,7 +318,7 @@
       "<a href=\"https://arxiv.org/abs/1606.04838\">Optimization Methods for Large-Scale Machine Learning</a>", 
       "arXiv", 
       "ML, optimization", 
-      "n"
+      ""
     ], 
     [
       "02/08/2016", 
@@ -326,7 +326,7 @@
       "<a href=\"http://arxiv.org/abs/1608.00182\">Deep FisherNet for Object Classification</a>", 
       "arXiv", 
       "CV, DL, object classification", 
-      "n"
+      ""
     ], 
     [
       "26/07/2016", 
@@ -334,7 +334,7 @@
       "<a href=\"https://arxiv.org/pdf/1607.04423v2.pdf\">Attention-over-Attention Neural Networks for Reading Comprehension</a>", 
       "arXiv", 
       "DL, NLP, Attention memory", 
-      "n"
+      ""
     ], 
     [
       "21/07/2016", 
@@ -342,7 +342,7 @@
       "<a href=\"http://arxiv.org/abs/1511.00363\">BinaryConnect : Training Deep Neural Networks with binary weights during propagations</a>", 
       "NIPS 2015", 
       "DL, binary-connect", 
-      "n"
+      ""
     ], 
     [
       "20/07/2016", 
@@ -350,7 +350,7 @@
       "<a href=\"https://arxiv.org/abs/1401.4082\">Stochastic backpropagation and approximate inference in deep generative models</a>", 
       "ICML 2014", 
       "generative-models", 
-      "n"
+      ""
     ], 
     [
       "20/07/2016", 
@@ -358,7 +358,7 @@
       "<a href=\"https://arxiv.org/abs/1410.6460\">Markov Chain Monte Carlo and Variational Inference: Bridging the Gap</a>", 
       "ICML 2015", 
       "MCMC, VAE", 
-      "n"
+      ""
     ], 
     [
       "19/07/2016", 
@@ -366,7 +366,7 @@
       "<a href=\"http://arxiv.org/abs/1602.05908v1\">Efficient approaches for escaping higher order saddle points in non-convex optimization</a>", 
       "COLT 2016", 
       "ML, non-convex-optimization", 
-      "n"
+      ""
     ], 
     [
       "19/07/2016", 
@@ -374,7 +374,7 @@
       "<a href=\"https://arxiv.org/pdf/1606.01549v1.pdf\">Gated-Attention Readers for Text Comprehension</a>", 
       "arXiv", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "19/07/2016", 
@@ -382,7 +382,7 @@
       "<a href=\"http://arxiv.org/abs/1210.7559\">Tensor decompositions for learning latent variable models</a>", 
       "JMLR 2014", 
       "ML, TF", 
-      "n"
+      ""
     ], 
     [
       "19/07/2016", 
@@ -390,7 +390,7 @@
       "<a href=\"https://arxiv.org/abs/1601.06759\">Pixel Recurrent Neural Networks</a>", 
       "ICML 2016", 
       "DL, RNN", 
-      "n"
+      ""
     ], 
     [
       "18/07/2016", 
@@ -398,7 +398,7 @@
       "<a href=\"https://arxiv.org/abs/1410.8516\">NICE: Non-linear Independent Components Estimation</a>", 
       "ICLR 2015", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "18/07/2016", 
@@ -406,7 +406,7 @@
       "<a href=\"https://papers.nips.cc/paper/901-higher-order-statistical-decorrelation-without-information-loss.pdf\">Higher Order Statistical Decorrelation without Information Loss</a>", 
       "NIPS 1995", 
       "DL, IT", 
-      "n"
+      ""
     ], 
     [
       "14/07/2016", 
@@ -414,7 +414,7 @@
       "<a href=\"https://arxiv.org/pdf/1411.1784v1.pdf\">Conditional Generative Aversarial Nets</a>", 
       "NIPS DL Workshop, 2014", 
       "GAN, DL", 
-      "n"
+      ""
     ], 
     [
       "14/07/2016", 
@@ -422,7 +422,7 @@
       "<a href=\"http://arxiv.org/pdf/1512.01337v4.pdf\">Neural Generative Question Answering</a>", 
       "ICLR 2016", 
       "DL, NLP, QA", 
-      "n"
+      ""
     ], 
     [
       "09/07/2016", 
@@ -430,7 +430,7 @@
       "<a href=\"http://arxiv.org/pdf/1606.01933.pdf\">A Decomposable Attention Model for Natural Language Inference</a>", 
       "arXiv", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "06/07/2016", 
@@ -438,7 +438,7 @@
       "<a href=\"http://arxiv.org/abs/1511.06732\">Sequence Level Training with Recurrent Neural Networks</a>", 
       "ICLR 2016", 
       "DL, RNN", 
-      "n"
+      ""
     ], 
     [
       "04/07/2016", 
@@ -446,7 +446,7 @@
       "<a href=\"http://people.csail.mit.edu/khosla/papers/nips2012_khosla.pdf\">Memorability of Image Regions</a>", 
       "NIPS 2012", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "04/07/2016", 
@@ -454,7 +454,7 @@
       "<a href=\"http://arxiv.org/pdf/1508.06615v4.pdf\">Character-Aware Neural Language Models</a>", 
       "AAAI 2016", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "03/07/2016", 
@@ -462,7 +462,7 @@
       "<a href=\"http://arxiv.org/pdf/1606.02447.pdf\">Learning Language Games through Interaction</a>", 
       "ACL 2016", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "02/07/2016", 
@@ -470,7 +470,7 @@
       "<a href=\"http://arxiv.org/pdf/1412.6856.pdf\">Object Detectors emerge in Deep Scene CNNs</a>", 
       "ICLR 2015", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "01/07/2016", 
@@ -478,7 +478,7 @@
       "<a href=\"https://arxiv.org/pdf/1502.02476v4.pdf\">An Infinite Restricted Boltzmann Machine</a>", 
       "Neural Computation", 
       "ML, RBM", 
-      "n"
+      ""
     ], 
     [
       "30/06/2016", 
@@ -486,7 +486,7 @@
       "<a href=\"http://arxiv.org/abs/1505.01596\">Learning to See by Moving</a>", 
       "ICCV 2015", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "29/06/2016", 
@@ -494,7 +494,7 @@
       "<a href=\"http://arxiv.org/abs/1412.3773\">Distinguishing cause from effect using observational data: methods and benchmarks</a>", 
       "JMLR 2016", 
       "ML, cause-inference", 
-      "n"
+      ""
     ], 
     [
       "29/06/2016", 
@@ -502,7 +502,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.06038.pdf\">Neural Variational Inference for Text Processing</a>", 
       "arXiv", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "27/06/2016", 
@@ -510,7 +510,7 @@
       "<a href=\"https://arxiv.org/pdf/1506.02516.pdf\">Learning to Transduce with Unbounded Memory</a>", 
       "NIPS 2015", 
       "DL, NTM, neural data structures", 
-      "n"
+      ""
     ], 
     [
       "26/06/2016", 
@@ -518,7 +518,7 @@
       "<a href=\"http://cmp.felk.cvut.cz/cmp/courses/EP33VKR/2007/Cheng-PAMI1995.pdf\">Mean Shift, Mode Seeking, and Clustering</a>", 
       "IEEE, 1995", 
       "ML, Clustering", 
-      "n"
+      ""
     ], 
     [
       "25/06/2016", 
@@ -526,7 +526,7 @@
       "<a href=\"http://papers.nips.cc/paper/3319-adaptive-online-gradient-descent.pdf\">Adaptive Online Gradient Descent</a>", 
       "NIPS 2007", 
       "optimization, gradient descent", 
-      "n"
+      ""
     ], 
     [
       "24/06/2016", 
@@ -534,7 +534,7 @@
       "<a href=\"https://visualgenome.org/static/paper/Visual_Genome.pdf\">Visual Genome</a>", 
       "Dataset", 
       "vision, nlp multimodal dataset", 
-      "n"
+      ""
     ], 
     [
       "23/06/2016", 
@@ -542,7 +542,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.07404.pdf\">Learning Visual Predictive Models of Physics for Playing Billiards</a>", 
       "ICLR 2016", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "22/06/2016", 
@@ -550,7 +550,7 @@
       "<a href=\"http://arxiv.org/abs/1606.05908\">Tutorial on Variational Autoencoders</a>", 
       "arXiv", 
       "DL, VAE", 
-      "n"
+      ""
     ], 
     [
       "22/06/2016", 
@@ -558,7 +558,7 @@
       "<a href=\"https://arxiv.org/abs/1604.08772\">Towards Conceptual Compression</a>", 
       "arXiv", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "22/06/2016", 
@@ -566,7 +566,7 @@
       "<a href=\"http://arxiv.org/abs/1603.01417\">Dynamic Memory Networks for Visual and Textual Question Answering</a>", 
       "ICML 2016", 
       "CV, DL, NLP, MemNets", 
-      "n"
+      ""
     ], 
     [
       "22/06/2016", 
@@ -574,7 +574,7 @@
       "<a href=\"http://arxiv.org/abs/1511.06432\">Delving Deeper into Convolutional Networks for Learning Video Representations</a>", 
       "ICLR 2016", 
       "CV, DL , videos", 
-      "n"
+      ""
     ], 
     [
       "22/06/2016", 
@@ -582,7 +582,7 @@
       "<a href=\"http://arxiv.org/abs/1502.08029\">Describing Videos by Exploiting Temporal Structure</a>", 
       "ICCV 2015", 
       "CV, DL, video", 
-      "n"
+      ""
     ], 
     [
       "21/06/2016", 
@@ -590,7 +590,7 @@
       "<a href=\"http://arxiv.org/abs/1606.03476\">Generative Adversarial Imitation Learning</a>", 
       "arXiv", 
       "DL, generative", 
-      "n"
+      ""
     ], 
     [
       "21/06/2016", 
@@ -598,7 +598,7 @@
       "<a href=\"https://arxiv.org/pdf/1606.00709.pdf\">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a>", 
       "arXiv", 
       "DL, GAN, f-GAN", 
-      "n"
+      ""
     ], 
     [
       "21/06/2016", 
@@ -606,7 +606,7 @@
       "<a href=\"http://arxiv.org/abs/1505.05770\">Variational Inference with Normalizing Flows</a>", 
       "ICML 2015", 
       "DL, VAE, inference", 
-      "n"
+      ""
     ], 
     [
       "20/06/2016", 
@@ -614,7 +614,7 @@
       "<a href=\"http://arxiv.org/abs/1506.02216\">A Recurrent Latent Variable Model for Sequential Data</a>", 
       "NIPS 2015", 
       "DL, VRNN", 
-      "n"
+      ""
     ], 
     [
       "20/06/2016", 
@@ -622,7 +622,7 @@
       "<a href=\"http://arxiv.org/abs/1406.5298\">Semi-Supervised Learning with Deep Generative Models</a>", 
       "NIPS 2014", 
       "DL, generative", 
-      "n"
+      ""
     ], 
     [
       "19/06/2016", 
@@ -630,7 +630,7 @@
       "<a href=\"http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf\">Human-level control through deep reinforcement learning</a>", 
       "Nature", 
       "RL, AI, DL", 
-      "n"
+      ""
     ], 
     [
       "19/06/2016", 
@@ -638,7 +638,7 @@
       "<a href=\"http://arxiv.org/abs/1506.02557\">Variational Dropout and the Local Reparameterization Trick</a>", 
       "NIPS 2015", 
       "DL, dropout", 
-      "n"
+      ""
     ], 
     [
       "19/06/2016", 
@@ -646,7 +646,7 @@
       "<a href=\"http://arxiv.org/abs/1505.01121\">Ask Your Neurons: A Neural-based Approach to Answering Questions about Images</a>", 
       "ICCV 2015", 
       "CV, DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "19/06/2016", 
@@ -654,7 +654,7 @@
       "<a href=\"http://arxiv.org/abs/1511.02793\">Generating Images from Captions with Attention</a>", 
       "ICLR 2016", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "19/06/2016", 
@@ -662,7 +662,7 @@
       "<a href=\"http://arxiv.org/pdf/1503.04069.pdf\">LSTM: A Search Space Odyssey</a>", 
       "arXiv", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "18/06/2016", 
@@ -670,7 +670,7 @@
       "<a href=\"https://arxiv.org/abs/1606.03657\">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a>", 
       "arXiv", 
       "DL, InfoGAN", 
-      "n"
+      ""
     ], 
     [
       "18/06/2016", 
@@ -678,7 +678,7 @@
       "<a href=\"http://arxiv.org/abs/1606.03498\">Improved Techniques for Training GANs</a>", 
       "arXiv", 
       "DL, GAN", 
-      "n"
+      ""
     ], 
     [
       "17/06/2016", 
@@ -694,7 +694,7 @@
       "<a href=\"http://nlp.stanford.edu/pubs/sidaw13fast.pdf\">Fast dropout training</a>", 
       "ICML 2013", 
       "DL, dropout", 
-      "n"
+      ""
     ], 
     [
       "15/06/2016", 
@@ -702,7 +702,7 @@
       "<a href=\"https://www.semanticscholar.org/paper/Stating-the-Obvious-Extracting-Visual-Common-Sense-Yatskar-Ordonez/0dcc768631d9ede8a3679e980b37204b782781b2/pdf\">Stating the Obvious: Extracting Visual Common Sense Knowledge</a>", 
       "NAACL 2016", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "15/06/2016", 
@@ -710,7 +710,7 @@
       "<a href=\"https://arxiv.org/abs/1605.06676\">Learning to Communicate with Deep Multi-Agent Reinforcement Learning</a>", 
       "arXiv", 
       "DL, RL", 
-      "n"
+      ""
     ], 
     [
       "15/06/2016", 
@@ -718,7 +718,7 @@
       "<a href=\"https://intelligence.org/files/Interruptibility.pdf\">Safely Interruptible Agents</a>", 
       "UAI 2016", 
       "AI, RL, safety", 
-      "n"
+      ""
     ], 
     [
       "15/06/2016", 
@@ -726,7 +726,7 @@
       "<a href=\"http://arxiv.org/pdf/1509.06113.pdf\">Deep Spatial Autoencoders for Visuomotor Learning</a>", 
       "ICRA 2016", 
       "CV, DL, RL, robotics", 
-      "n"
+      ""
     ], 
     [
       "15/06/2016", 
@@ -734,7 +734,7 @@
       "<a href=\"https://arxiv.org/pdf/1604.00676.pdf\">Multi-Bias Non-linear Activation in Deep Neural Networks</a>", 
       "ICML 2016", 
       "ML, DL, activation function", 
-      "n"
+      ""
     ], 
     [
       "15/06/2016", 
@@ -742,7 +742,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.07275.pdf\">Learning Simple Algorithms from Examples</a>", 
       "ICML 2016", 
       "ML, DL, AI", 
-      "n"
+      ""
     ], 
     [
       "15/06/2016", 
@@ -750,7 +750,7 @@
       "<a href=\"http://www.iro.umontreal.ca/~vincentp/Publications/denoising_autoencoders_tr1316.pdf\">Extracting and Composing Robust Features with Denoising Autoencoders</a>", 
       "ICML 2008", 
       "DL, DAE", 
-      "n"
+      ""
     ], 
     [
       "14/06/2016", 
@@ -758,7 +758,7 @@
       "<a href=\"http://arxiv.org/abs/1602.07019\">Sentence Similarity Learning by Lexical Decomposition and Composition</a>", 
       "arXiv", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "14/06/2016", 
@@ -766,7 +766,7 @@
       "<a href=\"http://arxiv.org/abs/1511.06811\">Learning visual groups from co-occurrences in space and time</a>", 
       "ICLR 2016", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "14/06/2016", 
@@ -774,7 +774,7 @@
       "<a href=\"https://arxiv.org/abs/1605.08104\">Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning</a>", 
       "arxiv", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "14/06/2016", 
@@ -782,7 +782,7 @@
       "<a href=\"http://arxiv.org/abs/1606.04080\">Matching Networks for One Shot Learning</a>", 
       "arxiv", 
       "DL, one-shot", 
-      "n"
+      ""
     ], 
     [
       "14/06/2016", 
@@ -790,7 +790,7 @@
       "<a href=\"https://arxiv.org/abs/1512.07679\">Deep Reinforcement Learning in Large Discrete Action Spaces</a>", 
       "arxiv", 
       "DL, RL", 
-      "n"
+      ""
     ], 
     [
       "14/06/2016", 
@@ -798,7 +798,7 @@
       "<a href=\"http://arxiv.org/abs/1603.06277\">Composing graphical models with neural networks for structured representations and fast inference</a>", 
       "arXiv", 
       "DL, graphical-models", 
-      "n"
+      ""
     ], 
     [
       "13/06/2016", 
@@ -806,7 +806,7 @@
       "<a href=\"http://arxiv.org/pdf/1506.06726.pdf\">Skip-Thought Vectors</a>", 
       "NIPS 2015", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "12/06/2016", 
@@ -814,7 +814,7 @@
       "<a href=\"http://arxiv.org/pdf/1512.08512.pdf\">Visually Indicated Sounds</a>", 
       "CVPR 2016", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "11/06/2016", 
@@ -822,7 +822,7 @@
       "<a href=\"https://arxiv.org/pdf/1502.04623.pdf\">DRAW: A Recurrent Neural Network for Image Generation</a>", 
       "JMLR 2015", 
       "CV, DL, DRAW", 
-      "n"
+      ""
     ], 
     [
       "10/06/2016", 
@@ -830,7 +830,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.07838.pdf\">Dynamic Capacity Networks</a>", 
       "JMLR, 2016", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "10/06/2016", 
@@ -838,7 +838,7 @@
       "<a href=\"https://arxiv.org/pdf/1412.7210.pdf\">Denoising Autoencoder with Modulated Lateral Connections learns Invariant Representations of Natural Images</a>", 
       "ICLR 2015", 
       "CV, DL, ladder-networks", 
-      "n"
+      ""
     ], 
     [
       "10/06/2016", 
@@ -846,7 +846,7 @@
       "<a href=\"https://arxiv.org/pdf/1511.06434.pdf\">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a>", 
       "ICLR 2016", 
       "CV, DL, DCGAN", 
-      "n"
+      ""
     ], 
     [
       "09/06/2016", 
@@ -854,7 +854,7 @@
       "<a href=\"https://arxiv.org/pdf/1604.03357.pdf\">Improving sentence compression by learning to predict gaze</a>", 
       "NAACL 2016, Best Short Paper", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "08/06/2016", 
@@ -862,7 +862,7 @@
       "<a href=\"http://arxiv.org/pdf/1604.04378.pdf\">Match-SRNN: Modeling the Recursive Matching Structure with Spatial RNN</a>", 
       "IJCAI 2016", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "08/06/2016", 
@@ -870,7 +870,7 @@
       "<a href=\"http://arxiv.org/abs/1506.05751\">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a>", 
       "NIPS 2015", 
       "DL, CV, GAN, LAPGAN", 
-      "n"
+      ""
     ], 
     [
       "08/06/2016", 
@@ -878,7 +878,7 @@
       "<a href=\"https://arxiv.org/pdf/1511.02799.pdf\">Neural Module Networks</a>", 
       "arXiv", 
       "DL, CV, visual QA", 
-      "n"
+      ""
     ], 
     [
       "07/06/2016", 
@@ -886,7 +886,7 @@
       "<a href=\"http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf\">A Neural Probabilistic Language Model</a>", 
       "JMLR 2003", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "07/06/2016", 
@@ -894,7 +894,7 @@
       "<a href=\"https://arxiv.org/pdf/1606.00704.pdf\">Adversarially Learned Inference</a>", 
       "Subt. NIPS 2016", 
       "ML, DL, inference, generative model", 
-      "n"
+      ""
     ], 
     [
       "06/06/2016", 
@@ -902,7 +902,7 @@
       "<a href=\"https://arxiv.org/pdf/1606.01885v1.pdf\">Learning to Optimize</a>", 
       "arxiv", 
       "DL, optimization", 
-      "n"
+      ""
     ], 
     [
       "06/06/2016", 
@@ -910,7 +910,7 @@
       "<a href=\"https://arxiv.org/abs/1312.6114\">Auto-Encoding Variational Bayes</a>", 
       "ICLR 2014", 
       "VAE", 
-      "n"
+      ""
     ], 
     [
       "06/06/2016", 
@@ -918,7 +918,7 @@
       "<a href=\"http://arxiv.org/abs/1506.08941\">Language Understanding for Text-based Games Using Deep Reinforcement Learning</a>", 
       "EMNLP 2015", 
       "DL, NLP, RL", 
-      "n"
+      ""
     ], 
     [
       "06/06/2016", 
@@ -926,7 +926,7 @@
       "<a href=\"http://arxiv.org/pdf/1411.4166.pdf\">Retrofitting Word Vectors to Semantic Lexicons</a>", 
       "NAACL 2015", 
       "NLP, word vectors", 
-      "n"
+      ""
     ], 
     [
       "06/06/2016", 
@@ -934,7 +934,7 @@
       "<a href=\"http://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf\">Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics</a>", 
       "JMLR 2012", 
       "ML, non-parametric estimation", 
-      "n"
+      ""
     ], 
     [
       "06/06/2016", 
@@ -942,7 +942,7 @@
       "<a href=\"http://www.cs.toronto.edu/~fritz/absps/nccd.pdf\">Training Products of Experts by Minimizing Contrastive Divergence</a>", 
       "Neural Computation 2002", 
       "ML, contrastive divergence", 
-      "n"
+      ""
     ], 
     [
       "06/06/2016", 
@@ -950,7 +950,7 @@
       "<a href=\"https://papers.nips.cc/paper/5477-neural-word-embedding-as-implicit-matrix-factorization.pdf\">Neural Word Embedding as Implicit Matrix Factorization</a>", 
       "NIPS 2014", 
       "DL, NLP, word vectors", 
-      "n"
+      ""
     ], 
     [
       "05/06/2016", 
@@ -958,7 +958,7 @@
       "<a href=\"https://arxiv.org/pdf/1604.07379.pdf\">Context Encoders: Feature Learning by Inpainting</a>", 
       "CVPR 2016", 
       "CV, DL, context-encoder", 
-      "n"
+      ""
     ], 
     [
       "04/06/2016", 
@@ -966,7 +966,7 @@
       "<a href=\"http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf\">Long Short-term Memory</a>", 
       "Neural Computation, 1997", 
       "DL, RNN, LSTM", 
-      "n"
+      ""
     ], 
     [
       "03/06/2016", 
@@ -974,7 +974,7 @@
       "<a href=\"https://arxiv.org/pdf/1302.4389.pdf\">Maxout Networks</a>", 
       "JMLR 2013", 
       "DL, dropout, maxout", 
-      "n"
+      ""
     ], 
     [
       "02/06/2016", 
@@ -982,7 +982,7 @@
       "<a href=\"http://arxiv.org/pdf/1402.3511.pdf\">A Clockwork RNN</a>", 
       "JMLR 2014", 
       "DL, RNN, clock-work", 
-      "n"
+      ""
     ], 
     [
       "02/06/2016", 
@@ -990,7 +990,7 @@
       "<a href=\"http://arxiv.org/pdf/1601.06733.pdf\">Long Short-Term Memory-Networks for Machine Reading</a>", 
       "", 
       "DL, NLP, machine understanding", 
-      "n"
+      ""
     ], 
     [
       "02/06/2016", 
@@ -998,7 +998,7 @@
       "<a href=\"http://nlp.stanford.edu/pubs/emnlp15_attn.pdf\">Effective Approaches to Attention-based Neural Machine Translation</a>", 
       "EMNLP 2015", 
       "DL, NLP, neural machine translation", 
-      "n"
+      ""
     ], 
     [
       "02/06/2016", 
@@ -1006,7 +1006,7 @@
       "<a href=\"http://www.aclweb.org/anthology/D15-1044\">A Neural Attention Model for Sentence Summarization</a>", 
       "EMNLP 2015", 
       "DL, NLP, summarization", 
-      "n"
+      ""
     ], 
     [
       "01/06/2016", 
@@ -1014,7 +1014,7 @@
       "<a href=\"http://www-devel.cs.ubc.ca/~tmm/courses/cpsc533c-04-spr/morereadings/PsychSci97-RR.pdf\">To See or not to See : The need for attention to perrceive changes in scenes</a>", 
       "Psychological Science, 1997", 
       "attention, vision", 
-      "n"
+      ""
     ], 
     [
       "01/06/2016", 
@@ -1022,7 +1022,7 @@
       "<a href=\"http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf\">Teaching Machines to Read and Comprehend</a>", 
       "NIPS 2015", 
       "DL, NLP, attention", 
-      "n"
+      ""
     ], 
     [
       "01/06/2016", 
@@ -1030,7 +1030,7 @@
       "<a href=\"https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf\">Recurrent Models of Visual Attention</a>", 
       "NIPS 2014", 
       "CV, DL, RL, attention", 
-      "n"
+      ""
     ], 
     [
       "01/06/2016", 
@@ -1038,7 +1038,7 @@
       "<a href=\"https://arxiv.org/abs/1601.01705\">Learning to compose neural networks for question answering</a>", 
       "NAACL 2016 (best-paper)", 
       "DL, compose-NN, RL, QA", 
-      "n"
+      ""
     ], 
     [
       "01/06/2016", 
@@ -1046,7 +1046,7 @@
       "<a href=\"https://arxiv.org/abs/1602.01783\">Asynchronous Methods for Deep Reinforcement Learning</a>", 
       "2016", 
       "DL, RL", 
-      "n"
+      ""
     ], 
     [
       "01/06/2016", 
@@ -1054,7 +1054,7 @@
       "<a href=\"http://arxiv.org/pdf/1605.08803.pdf\">Density estimation using Real NVP</a>", 
       "Google Brain", 
       "DL, latent space, image generation", 
-      "n"
+      ""
     ], 
     [
       "01/06/2016", 
@@ -1062,7 +1062,7 @@
       "<a href=\"https://papers.nips.cc/paper/4334-sparse-filtering.pdf\">Sparse Filtering</a>", 
       "NIPS 2011", 
       "ML, DL, sparse", 
-      "n"
+      ""
     ], 
     [
       "31/05/2016", 
@@ -1070,7 +1070,7 @@
       "<a href=\"http://arxiv.org/pdf/1505.00521.pdf\">Reinforcement Learning Neural Turing Machines</a>", 
       "ICLR 2016", 
       "DL, NTM, RL", 
-      "n"
+      ""
     ], 
     [
       "31/05/2016", 
@@ -1078,7 +1078,7 @@
       "<a href=\"https://arxiv.org/abs/1510.03009\">Neural Networks with Few Multiplications</a>", 
       "ICLR 2016", 
       "DL, optimization", 
-      "n"
+      ""
     ], 
     [
       "30/05/2016", 
@@ -1086,7 +1086,7 @@
       "<a href=\"http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf\">Recurrent neural network based language model</a>", 
       "INTERSPEECH 2010", 
       "DL, NLP, RNN, language-model", 
-      "n"
+      ""
     ], 
     [
       "30/05/2016", 
@@ -1094,7 +1094,7 @@
       "<a href=\"http://arxiv.org/abs/1506.07285\">Ask Me Anything: Dynamic Memory Networks for Natural Language Processing</a>", 
       "ICML 2016", 
       "DL, DMN, NLP, dynamic-memory-networks", 
-      "n"
+      ""
     ], 
     [
       "30/05/2016", 
@@ -1102,7 +1102,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.06342.pdf\">Actor-Mimic : Deep Multitask and Transfer Reinforcement Learning</a>", 
       "ICLR 2016", 
       "DL, RL, actor-mimic", 
-      "n"
+      ""
     ], 
     [
       "29/05/2016", 
@@ -1110,7 +1110,7 @@
       "<a href=\"http://arxiv.org/abs/1511.06279\">Neural Programmer-Interpreters</a>", 
       "ICLR 2016", 
       "DL, NPI", 
-      "n"
+      ""
     ], 
     [
       "29/05/2016", 
@@ -1118,7 +1118,7 @@
       "<a href=\"http://arxiv.org/abs/1504.00702\">End-to-End Training of Deep Visuomotor Policies</a>", 
       "JMLR 2016", 
       "CV, DL, RL, robotics, control", 
-      "n"
+      ""
     ], 
     [
       "28/05/2016", 
@@ -1126,7 +1126,7 @@
       "<a href=\"http://arxiv.org/abs/1512.02902\">MovieQA : Understanding Stories in Movies through Question-Answering</a>", 
       "CVPR 2016", 
       "CV, DL, QA, movie-story", 
-      "n"
+      ""
     ], 
     [
       "28/05/2016", 
@@ -1134,7 +1134,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.06361.pdf\">Order-Embeddings of Images and Language</a>", 
       "ICLR 2016", 
       "CV, DL, image-caption, hierarchy", 
-      "n"
+      ""
     ], 
     [
       "28/05/2016", 
@@ -1142,7 +1142,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.04119.pdf\">Action Recognition using Visual Attention</a>", 
       "ICLR 2016", 
       "CV, DL, action-recognition, attention", 
-      "n"
+      ""
     ], 
     [
       "28/05/2016", 
@@ -1150,7 +1150,7 @@
       "<a href=\"http://arxiv.org/abs/1503.08895\">End-To-End Memory Networks</a>", 
       "NIPS 2015", 
       "DL, memory-networks, end-to-end", 
-      "n"
+      ""
     ], 
     [
       "27/05/2016", 
@@ -1158,7 +1158,7 @@
       "<a href=\"http://arxiv.org/abs/1511.06581\">Dueling Network Architectures for Deep Reinforcement Learning</a>", 
       "ICML 2016", 
       "DL, dueling-networks, RL", 
-      "n"
+      ""
     ], 
     [
       "27/05/2016", 
@@ -1166,7 +1166,7 @@
       "<a href=\"http://arxiv.org/pdf/1410.39161.pdf\">Memory Networks</a>", 
       "ICLR 2015", 
       "DL, memory-networks", 
-      "n"
+      ""
     ], 
     [
       "27/05/2016", 
@@ -1174,7 +1174,7 @@
       "<a href=\"http://arxiv.org/abs/1312.5602\">Playing Atari with Deep Reinforcement Learning</a>", 
       "NIPS DL workshop 2013", 
       "DL, DQN, RL", 
-      "n"
+      ""
     ], 
     [
       "27/05/2016", 
@@ -1182,7 +1182,7 @@
       "<a href=\"https://arxiv.org/pdf/1603.09382.pdf\">Deep Networks with Stochastic Depth</a>", 
       "2016", 
       "DL, stochastic-depth", 
-      "n"
+      ""
     ], 
     [
       "26/05/2016", 
@@ -1190,7 +1190,7 @@
       "<a href=\"http://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf\">An Introduction to Variational Methods for Graphical Models</a>", 
       "Machine Learning 1999", 
       "graphical-models, ML, variational-methods", 
-      "n"
+      ""
     ], 
     [
       "26/05/2016", 
@@ -1198,7 +1198,7 @@
       "<a href=\"http://arxiv.org/pdf/1412.2306.pdf\">Deep Visual-Semantic Alignments for Generating Image Descriptions</a>", 
       "CVPR 2015", 
       "CV, DL, image-captioning, NLP", 
-      "n"
+      ""
     ], 
     [
       "26/05/2016", 
@@ -1206,7 +1206,7 @@
       "<a href=\"https://arxiv.org/pdf/1505.00468.pdf\">VQA : Visual Question Answering</a>", 
       "ICCV 2015", 
       "CV, DL, QA", 
-      "n"
+      ""
     ], 
     [
       "26/05/2016", 
@@ -1214,7 +1214,7 @@
       "<a href=\"https://papers.nips.cc/paper/5956-scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks.pdf\">Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks</a>", 
       "NIPS 2015", 
       "DL, RNN, scheduled-sampling", 
-      "n"
+      ""
     ], 
     [
       "26/05/2016", 
@@ -1222,7 +1222,7 @@
       "<a href=\"http://arxiv.org/pdf/1502.03167.pdf\">Batch Normalization : Accelerating Deep Network Training by Reducing Covariate Shift</a>", 
       "JMLR 2015", 
       "batch-norm, DL", 
-      "n"
+      ""
     ], 
     [
       "25/05/2016", 
@@ -1230,7 +1230,7 @@
       "<a href=\"http://arxiv.org/abs/1502.03044\">Show, Attend and Tell: Neural Image Caption Generation with Visual Attention</a>", 
       "JMLR 2015", 
       "CV, DL, attention, caption", 
-      "n"
+      ""
     ], 
     [
       "24/05/2016", 
@@ -1238,7 +1238,7 @@
       "<a href=\"https://papers.nips.cc/paper/5866-pointer-networks.pdf\">Pointer Networks</a>", 
       "NIPS 2015", 
       "DL, Pointer-Nets", 
-      "n"
+      ""
     ], 
     [
       "24/05/2016", 
@@ -1246,7 +1246,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.06391.pdf\">Order Matters : Sequence to Sequence for sets</a>", 
       "ICLR 2016", 
       "DL, seq2seq, ordered, sorting", 
-      "n"
+      ""
     ], 
     [
       "23/05/2016", 
@@ -1254,7 +1254,7 @@
       "<a href=\"http://arxiv.org/pdf/1409.0473.pdf\">Neural Machine Translation by Jointly Learning to Align and Translate</a>", 
       "ICLR 2015", 
       "DL, NMT", 
-      "n"
+      ""
     ], 
     [
       "23/05/2016", 
@@ -1262,7 +1262,7 @@
       "<a href=\"http://www.cs.toronto.edu/~hinton/absps/tsne.pdf\">Visualizing Data using t-SNE</a>", 
       "JMLR 2008", 
       "ML, Embeddings", 
-      "n"
+      ""
     ], 
     [
       "22/05/2016", 
@@ -1270,7 +1270,7 @@
       "<a href=\"http://arxiv.org/pdf/1406.1078.pdf\">Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation</a>", 
       "ACL 2014", 
       "DL, NLP, RNN-ED", 
-      "n"
+      ""
     ], 
     [
       "22/05/2016", 
@@ -1278,7 +1278,7 @@
       "<a href=\"https://arxiv.org/pdf/1512.03385.pdf\">Deep Residual Learning for Image Recognition</a>", 
       "2015", 
       "CV, DL, ResNets", 
-      "n"
+      ""
     ], 
     [
       "22/05/2016", 
@@ -1286,7 +1286,7 @@
       "<a href=\"https://arxiv.org/pdf/1410.5401.pdf\">Neural Turing Machines</a>", 
       "2014", 
       "DL, NTM", 
-      "n"
+      ""
     ], 
     [
       "21/05/2016", 
@@ -1294,7 +1294,7 @@
       "<a href=\"http://machinelearning.org/proceedings/icml2004/papers/76.pdf\">Support Vector Machine Learning for Interdependent and Structured Output Spaces</a>", 
       "ICML 2004", 
       "ML, StructSVM", 
-      "n"
+      ""
     ], 
     [
       "21/05/2016", 
@@ -1302,7 +1302,7 @@
       "<a href=\"http://arxiv.org/abs/1406.2661\">Generative Adversarial Networks</a>", 
       "NIPS 2014", 
       "DL, GAN, generative", 
-      "n"
+      ""
     ], 
     [
       "21/05/2016", 
@@ -1310,7 +1310,7 @@
       "<a href=\"http://arxiv.org/pdf/1409.3215.pdf\">Sequence to Sequence learning with neural networks</a>", 
       "NIPS 2014", 
       "DL, Seq2Seq", 
-      "n"
+      ""
     ], 
     [
       "20/05/2016", 
@@ -1318,7 +1318,7 @@
       "<a href=\"https://arxiv.org/pdf/1412.6980.pdf\">Adam : A Method for Stochastic Optimization</a>", 
       "ICLR 2015", 
       "ML, Optimization, ADAM", 
-      "n"
+      ""
     ], 
     [
       "20/05/2016", 
@@ -1326,7 +1326,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.08228.pdf\">Neural GPUs Learn Algorithms</a>", 
       "ICLR 2016", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "19/05/2016", 
@@ -1334,7 +1334,7 @@
       "<a href=\"http://arxiv.org/pdf/1308.0850.pdf\">Generating Sequences With Recurrent Neural Networks</a>", 
       "2014", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "19/05/2016", 
@@ -1342,7 +1342,7 @@
       "<a href=\"http://arxiv.org/pdf/1605.05396.pdf\">Generative Adversarial Text to Image Synthesis</a>", 
       "ICML 2016", 
       "CV, DL", 
-      "n"
+      ""
     ], 
     [
       "18/05/2016", 
@@ -1350,7 +1350,7 @@
       "<a href=\"https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf\">Learning word embeddings efficiently with noise-contrastive estimation</a>", 
       "NIPS 2013", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "18/05/2016", 
@@ -1358,7 +1358,7 @@
       "<a href=\"http://arxiv.org/pdf/1511.06349.pdf\">Generating Sentences from a Continuous Space</a>", 
       "2015", 
       "DL, NLP", 
-      "n"
+      ""
     ], 
     [
       "18/05/2016", 
@@ -1366,7 +1366,7 @@
       "<a href=\"https://www.jair.org/media/301/live-301-1562-jair.pdf\">Reinforcement Learning: A Survey</a>", 
       "JAIR 1996", 
       "AI, ML, RL", 
-      "n"
+      ""
     ], 
     [
       "18/05/2016", 
@@ -1374,7 +1374,7 @@
       "<a href=\"http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf\">Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning</a>", 
       "Machine Learning 1992", 
       "AI, ML, REINFORCE", 
-      "n"
+      ""
     ], 
     [
       "17/05/2016", 
@@ -1382,7 +1382,7 @@
       "<a href=\"http://arxiv.org/pdf/1605.02026.pdf\">Training Neural Networks Without Gradients: A Scalable ADMM Approach</a>", 
       "ICML 2016", 
       "DL", 
-      "n"
+      ""
     ], 
     [
       "17/05/2016", 
@@ -1390,7 +1390,7 @@
       "<a href=\"http://ilpubs.stanford.edu:8090/778/1/2006-13.pdf\">k-means++: The Advantages of Careful Seeding</a>", 
       "SODA 2007", 
       "Clustering, ML", 
-      "n"
+      ""
     ], 
     [
       "13/04/2016", 
@@ -1398,7 +1398,7 @@
       "<a href=\"https://arxiv.org/abs/1604.03640\">Bridging the Gaps Betweeen Residual Learning, Recurrent Neural Networks and Visual Cortex</a>", 
       "arxiv", 
       "CV, DL, cortex", 
-      "n"
+      ""
     ], 
     [
       "01/06/2015", 
@@ -1406,7 +1406,7 @@
       "<a href=\"http://www.utexas.edu/cola/files/1515661\">Eye movements in natural behaviour</a>", 
       "Trends in Cognitive Sciences, 2005", 
       "eye-movement, attention", 
-      "n"
+      ""
     ], 
     [
       "19/03/2015", 
@@ -1422,7 +1422,7 @@
       "<a href=\"http://arxiv.org/pdf/1402.0119v2.pdf\">Randomized Nonlinear Component Analysis</a>", 
       "ICML, 2014", 
       "RNCA, ML", 
-      "n"
+      ""
     ]
   ]
 }
