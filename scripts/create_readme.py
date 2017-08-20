@@ -18,7 +18,7 @@ def main():
         for item in data['data']:
             readmefile.write(u'* {}  \n'.format(item[2]))
             readmefile.write(u'```{}, {}```  \n'.format(item[0], item[4]))
-            readmefile.write(u'```{}, {}```  \n'.format(item[1], item[3]))
-
+            readmefile.write(u'```{}, {}``` {}  \n'.format(item[1], item[3], item[5]))
+            
 if __name__ == '__main__':
     main()

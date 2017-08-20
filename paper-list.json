@@ -49,6 +49,14 @@
       "n"
     ], 
     [
+      "14/06/2017", 
+      "Aidan N. Gomez, Mengye Ren, Raquel Urtasun, Roger B. Grosse", 
+      "<a href=\"https://arxiv.org/abs/1707.04585\">The Reversible Residual Network: Backpropagation Without Storing Activations</a>", 
+      "arXiv", 
+      "CV, RevNets", 
+      ""
+    ], 
+    [
       "15/12/2016", 
       "Kurt Cutajar, Michael Osborne, John Cunningham, Maurizio Filippone", 
       "<a href=\"http://www.jmlr.org/proceedings/papers/v48/cutajar16.pdf\">Preconditioning Kernel Matrices</a>", 
