@@ -73,10 +73,10 @@ def main():
     newpaper.append("<a href=\""+paperlink+"\">"+papername+"</a>")
     newpaper.append(conference)
     newpaper.append(keywords)
-    if reviewlink=='n':
+    if len(reviewlink)<4:
         newpaper.append('')
     else:
-        newpaper.append("<a href=\""+reviewlink+"\">"+"\[Review\]</a")
+        newpaper.append("<a href=\""+reviewlink+"\">"+"\[Review\]</a>")
 
     data["data"] = [newpaper] + data["data"]
     data["data"] = sorted(data["data"], key=lambda x: datetime.strptime(x[0], '%d/%m/%Y'), reverse=True)
