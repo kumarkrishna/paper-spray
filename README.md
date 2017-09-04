@@ -1,7 +1,7 @@
 # Paper-Spray
 
-This is a list of interesting research papers maintained by
-[Kumar](https://github.com/kumarkrishna) and [Biswa](https://github.com/biswajitsc),
+This is a list of interesting research papers started by
+[Kumar](https://github.com/kumarkrishna) and [Biswa](https://github.com/biswajitsc) (currently being maintained only by Kumar),
 mainly in Machine Learning, but definitely not limited to it.
 This is mainly an initiative to inculcate a reading habit among ourselves.
 Suggested reads are always welcome!
